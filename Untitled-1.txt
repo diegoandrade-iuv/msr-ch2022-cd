@@ -1,0 +1,24 @@
+5bd0268235e3ea2b7bbfdbae NIFI
+5b23df3c30a71b06bc01e16a STRUTS
+5b43737430a71b06bcbdd168 kylin
+5d8ccfb33dfe5ddb8590d841 httpcomponents-core
+5c87a96c504acf99a4de5a18 commons-dbcp
+5bbe0f4057674ee16793f245 commons-lang
+5cd2806d504acf99a4cd728c httpcomponents-client
+5bed61cc35e3ea2b7b2a1805 commons-compress
+5b27c64830a71b06bceb0ead  opennlp
+5b76bead30a71b06bcadc156  tez
+5b3b305530a71b06bc5bba5b cayenne
+
+5bd0268235e3ea2b7bbfdbae    NIFI
+5b43737430a71b06bcbdd168    kylin
+5b23df3c30a71b06bc01e16a    STRUTS
+5bed61cc35e3ea2b7b2a1805    commons-compress
+5b27c64830a71b06bceb0ead    opennlp
+5d8ccfb33dfe5ddb8590d841    httpcomponents-core
+5bbe0f4057674ee16793f245    commons-lang
+5cd2806d504acf99a4cd728c    httpcomponents-client
+5c87a96c504acf99a4de5a18    commons-dbcp
+5b3b305530a71b06bc5bba5b    cayenne
+608b9b33c26a57681ebf90b6    curator
+5c3f0a7c621a9a77b35f3add    manifoldcf
