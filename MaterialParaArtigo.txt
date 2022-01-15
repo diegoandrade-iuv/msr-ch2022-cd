@@ -2,14 +2,14 @@ Estrutura do Artigo
 1   O que é entrega contínua
     Code - > Build - > Integrate - > Test - > Release
 ~    1.1 Problemas de pesquisa de entrega contínua
-2   falta de pesquisas empíricas sobre o assunto
+2   falta de pesquisas empíricas sobre o assunto (justificativa)
 3   Smartshark dataset
 4   Filtragem do data set 
-    4.1 Pegar os projetos que tem integração contínua
+    4.1 Selecionar os projetos que tem builds de integração contínua
     4.2 Selecionar as tags de release desses projetos
-    4.3 Selecionar os Builds de integração contínua relacionados com as tags
-    4.4 Analisar os projetos que tem essas builds se implantam a entrega contínua (34 projetos)
-        4.4.4 Filtrar os projetos com menos de 4 builds (20 projetos)
+    4.3 Selecionar os Builds de integração contínua relacionados com as tags de release
+    4.4 Selecionar os projetos que tem essas builds se implantam a entrega contínua (34 projetos)
+        4.4.4 Selecionar os projetos com mais de 4 builds (20 projetos) (explicar pq 4)
         4.4.5 Validação manual (11 projetos)
 ~5   Análise do problema de pesquisa de CD com o dataset filtrado
 ~5.1 Beneficios da implantação? Desafios? O que buscar?
