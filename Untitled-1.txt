@@ -58,3 +58,31 @@
 60a24ad9c26a57681e786a7b	4 n
 5bed83ca35e3ea2b7be8d7c9	4
 5bc5fafb57674ee1670aebb4	4 n
+
+Validação manual
+Em alguns casos foi necessário filtrar os primeiros builds integrados por conta do processo de maturação, foi verificado que existe integração mas a data da tag é bem infeior ao do primeiro build válido.
+uma estratégia de implantação comum, onde se pega uma código válido e faz com que ele passe pelo processo de integração para entrega
+1) tem menos de 4 builds anteriores e posteriores a integração.
+2) Implantação da entrega contínua suspeita, por nem todas as releases terem builds relacionados após a suposta adoção da CD
+
+
+5bd0268235e3ea2b7bbfdbae	32
+5d8ccfb33dfe5ddb8590d841	28
+5b23df3c30a71b06bc01e16a	22 (2)
+5b43737430a71b06bcbdd168	21
+5cd2806d504acf99a4cd728c	17
+5c87a96c504acf99a4de5a18	14
+5bbe0f4057674ee16793f245	13
+5bed61cc35e3ea2b7b2a1805	12
+5b27c64830a71b06bceb0ead	12 (1)
+5b7ffe9530a71b06bc70c038	9 (2)
+5b76bead30a71b06bcadc156	9 (1)
+5d91bc213dfe5ddb85cc1e0e	6
+5c3f0a7c621a9a77b35f3add	6 (2)
+5b47693d30a71b06bc04ba2e	5 (1)
+608b9b33c26a57681ebf90b6	5
+615e9105f73e2aa390c8a69b	5
+5b3b305530a71b06bc5bba5b	5 (2)
+60a24ad9c26a57681e786a7b	4 (1)
+5bed83ca35e3ea2b7be8d7c9	4 
+5bc5fafb57674ee1670aebb4	4 (1)
