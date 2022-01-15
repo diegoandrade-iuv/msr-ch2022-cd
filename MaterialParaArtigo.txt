@@ -1,0 +1,44 @@
+Estrutura do Artigo
+1   O que é entrega contínua
+    Code - > Build - > Integrate - > Test - > Release
+~    1.1 Problemas de pesquisa de entrega contínua
+2   falta de pesquisas empíricas sobre o assunto
+3   Smartshark dataset
+4   Filtragem do data set 
+    4.1 Pegar os projetos que tem integração contínua
+    4.2 Selecionar as tags de release desses projetos
+    4.3 Selecionar os Builds de integração contínua relacionados com as tags
+    4.4 Analisar os projetos que tem essas builds se implantam a entrega contínua (34 projetos)
+        4.4.4 Filtrar os projetos com menos de 4 builds (20 projetos)
+        4.4.5 Validação manual (11 projetos)
+~5   Análise do problema de pesquisa de CD com o dataset filtrado
+~5.1 Beneficios da implantação? Desafios? O que buscar?
+
+Em alguns casos foi necessário filtrar os primeiros builds integrados por conta do processo de maturação, foi verificado que existe integração mas a data da tag é bem infeior ao do primeiro build válido.
+uma estratégia de implantação comum, onde se pega uma código válido e faz com que ele passe pelo processo de integração para entrega
+1) tem menos de 4 builds anteriores e posteriores a integração.
+2) Implantação da entrega contínua suspeita, por nem todas as releases terem builds relacionados após a suposta adoção da CD
+
+
+5bd0268235e3ea2b7bbfdbae	32 NIFI
+5d8ccfb33dfe5ddb8590d841	28 httpcomponents-core
+5b23df3c30a71b06bc01e16a	22 (2) STRUTS
+5b43737430a71b06bcbdd168	21 kylin
+5cd2806d504acf99a4cd728c	17 httpcomponents-client
+5c87a96c504acf99a4de5a18	14 commons-dbcp
+5bbe0f4057674ee16793f245	13 commons-lang
+5bed61cc35e3ea2b7b2a1805	12 commons-compress
+5b27c64830a71b06bceb0ead	12 (1) opennlp
+5b7ffe9530a71b06bc70c038	9 (2) storm
+5b76bead30a71b06bcadc156	9 (1) tez
+5d91bc213dfe5ddb85cc1e0e	6 streams
+5c3f0a7c621a9a77b35f3add	6 (2) manifoldcf
+5b47693d30a71b06bc04ba2e	5 (1) parquet-mr
+608b9b33c26a57681ebf90b6	5 curator
+615e9105f73e2aa390c8a69b	5 qpid-jms
+5b3b305530a71b06bc5bba5b	5 (2) cayenne
+60a24ad9c26a57681e786a7b	4 (1) freemarker
+5bed83ca35e3ea2b7be8d7c9	4 commons-configuration
+5bc5fafb57674ee1670aebb4	4 (1) flume
+
+
