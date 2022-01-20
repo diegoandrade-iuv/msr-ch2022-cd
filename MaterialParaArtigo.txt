@@ -1,7 +1,15 @@
-Estrutura do Artigo
+Estrutura do Artigo (Characterizing and Analysing the Benefits of  
+    Continuous Delivery Adoption in Open-Source Projects)
 1   O que é entrega contínua
     Code - > Build - > Integrate - > Test - > Release
-~    1.1 Problemas de pesquisa de entrega contínua
+    ~oq é CD
+    ~oq pipeline
+    ~Characterizing (meta algoritmo)
+
+~    1.1 Problemas de pesquisa de entrega contínua (taxa de entrega / taxa de correção de bugs)
+    ~encontrar os Beneficios citados na literatura 
+    ~buscar encontrar métricas passiveis de serem medidas no Smartshark para analisar esse Beneficios
+    
 2   falta de pesquisas empíricas sobre o assunto (justificativa)
 3   Smartshark dataset
 4   Filtragem do data set 
@@ -9,15 +17,15 @@ Estrutura do Artigo
     4.2 Selecionar as tags de release desses projetos
     4.3 Selecionar os Builds de integração contínua relacionados com as tags de release
     4.4 Selecionar os projetos que tem essas builds se implantam a entrega contínua (34 projetos)
-        4.4.4 Selecionar os projetos com mais de 4 builds (20 projetos) (explicar pq 4)
+        4.4.4 Selecionar os projetos com mais de 4 builds (20 projetos) (explicar pq 4// estabelecer tempo??)
         4.4.5 Validação manual (11 projetos)
 ~5   Análise do problema de pesquisa de CD com o dataset filtrado
 ~5.1 Beneficios da implantação? Desafios? O que buscar?
 
 Em alguns casos foi necessário filtrar os primeiros builds integrados por conta do processo de maturação, foi verificado que existe integração mas a data da tag é bem infeior ao do primeiro build válido.
 uma estratégia de implantação comum, onde se pega uma código válido e faz com que ele passe pelo processo de integração para entrega
-1) tem menos de 4 builds anteriores e posteriores a integração.
-2) Implantação da entrega contínua suspeita, por nem todas as releases terem builds relacionados após a suposta adoção da CD
+1) tem menos de 4 builds anteriores e posteriores a integração. #Manter e rotular
+2) Implantação da entrega contínua suspeita, por nem todas as releases terem builds relacionados após a suposta adoção da CD #Manter e rotular
 
 
 5bd0268235e3ea2b7bbfdbae	32 NIFI
@@ -42,3 +50,6 @@ uma estratégia de implantação comum, onde se pega uma código válido e faz c
 5bc5fafb57674ee1670aebb4	4 (1) flume
 
 
+Revisar os filtros
+    deixando mais frouxo porem marcando os que estavamos eliminando anteiormente
+    encontrar na literatura os Beneficios (snowball)
