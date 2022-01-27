@@ -53,3 +53,7 @@ uma estratégia de implantação comum, onde se pega uma código válido e faz c
 Revisar os filtros
     deixando mais frouxo porem marcando os que estavamos eliminando anteiormente
     encontrar na literatura os Beneficios (snowball)
+
+
+listar todas as releases dos projetos e flagar quais são com e sem CD
+listar projetos e suas caracteristicas (vcs_system, issue_system, primeira release com CD, )
