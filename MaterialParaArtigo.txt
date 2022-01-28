@@ -57,3 +57,31 @@ Revisar os filtros
 
 listar todas as releases dos projetos e flagar quais são com e sem CD
 listar projetos e suas caracteristicas (vcs_system, issue_system, primeira release com CD, )
+
+Métricas para comparar as release antes e depois do CD
+
+1) Time to market (tempo entre releases)
+Tempo entre releases (tempo medio) 
+
+
+2) Quantas issues endereçadas (fix_version) e fechadas por release
+Issues com status 'Closed' e com fix_version direcionado a um versão específica 
+
+3) Quantas issues fechadas por periodo (e prioridade)
+Issues com status 'Closed' e com updated_at entre os periodos das relases
+
+
+
+4) Bugs reportados (abertos) por release (affects_versions) -- Mais precisa --
+Issues do tipo 'Bug' com affects_versions direcionado a um versão específica 
+
+5) Bugs reportados (abertos) no periodo por release -- Mais factual -- 
+Issues do tipo 'Bug' e com created_at entre os periodos das relases
+
+
+
+
+6) Bugs fechados no periodo entre release
+Issues do tipo 'Bug' com status 'Closed' e com updated_at entre os periodos das relases
+
+EXTRA 7) dividido pelo tamanho do time 
