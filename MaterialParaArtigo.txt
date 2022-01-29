@@ -64,6 +64,9 @@ Métricas para comparar as release antes e depois do CD
 Tempo entre releases (tempo medio) 
 
 
+
+------------------------------------------
+
 2) Quantas issues endereçadas (fix_version) e fechadas por release
 Issues com status 'Closed' e com fix_version direcionado a um versão específica 
 
@@ -71,17 +74,28 @@ Issues com status 'Closed' e com fix_version direcionado a um versão específic
 Issues com status 'Closed' e com updated_at entre os periodos das relases
 
 
+----------------------------------------------
+
 
 4) Bugs reportados (abertos) por release (affects_versions) -- Mais precisa --
 Issues do tipo 'Bug' com affects_versions direcionado a um versão específica 
 
-5) Bugs reportados (abertos) no periodo por release -- Mais factual -- 
+#Opcional 5) Bugs reportados (abertos) no periodo por release -- Mais factual -- 
 Issues do tipo 'Bug' e com created_at entre os periodos das relases
 
 
+----------------------------------------------------
 
 
-6) Bugs fechados no periodo entre release
+
+
+
+
+#Opcional 6) Bugs fechados no periodo entre release
 Issues do tipo 'Bug' com status 'Closed' e com updated_at entre os periodos das relases
 
 EXTRA 7) dividido pelo tamanho do time 
+
+
+Discussão dos resultados 
+Possiveis Beneficios da CD.... os resultados que temos dizem oq? Corrobora... descorda?
