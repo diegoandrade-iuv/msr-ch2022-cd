@@ -319,17 +319,12 @@ jcs_1_2_7_8
 JCS_1_2_6_4
 JCS_1_3_3_5
 JCS_1_0
-jcs-1_1_2-dev
-jcs_1_2_5_dev
 JCS_1_3_2_3
-jcs_dev1_1_1b
 JCS_1_3
 JCS_1_3_2_8
 JCS_1_3_3_1
 JCS_1_2_6_5
 JCS_1_3_2_5
-jcs-1_2_3-dev
-jcs_dev1_1_1
 JCS_1_3_2_4
 1.2.6.6
 jcs_1_2_7_3
@@ -338,10 +333,7 @@ JCS_1_3_3_3
 JCS_1_3_2_7
 jcs_1_3_1_0
 jcs_1_2_7_9_2
-jcs-1_2_2-dev
 JCS_1_3_2_6
-jcs_1_1_dev
-jcs_1_2_4_dev
 jcs_1_2_7_9
 jcs_1_2_7_0
 JCS_1_3_3_4
@@ -357,7 +349,6 @@ LANG_3_0
 LANG_3_0_1
 LANG_1_0
 LANG_2_5_COPY
-LANG_2_2_DEV_STYLE
 LANG_1_0_1
 LANG_2_5
 STRUTS_1_1_B2
@@ -989,7 +980,6 @@ COMMONS_JEXL-1_1
 hlship-5.0-perf
 5.0.18
 hlship-20080520
-5.1-dev-branch-base
 release-5.3.0
 5.1.0.4
 5.0.13
