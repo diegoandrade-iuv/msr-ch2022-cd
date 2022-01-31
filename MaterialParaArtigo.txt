@@ -1,5 +1,5 @@
 Estrutura do Artigo (Characterizing and Analysing the Benefits of  
-    Continuous Delivery Adoption in Open-Source Projects)
+    Continuous Delivery Adoption in Open-Source Projects) studing bug fix time in CD
 1   O que é entrega contínua
     Code - > Build - > Integrate - > Test - > Release
     ~oq é CD
@@ -63,7 +63,7 @@ Métricas para comparar as release antes e depois do CD
 1) Time to market (tempo entre releases)
 Tempo entre releases (tempo medio) 
 
-
+--- inconclusivo --
 
 ------------------------------------------
 
@@ -71,7 +71,7 @@ Tempo entre releases (tempo medio)
 Issues com status 'Closed' e com fix_version direcionado a um versão específica 
 
 3) Quantas issues fechadas por periodo (e prioridade)
-Issues com status 'Closed' e com updated_at entre os periodos das relases
+Issues com status 'Closed' e com updated_at entre os periodos das relases // Periodo de tempo
 
 
 ----------------------------------------------
@@ -99,3 +99,6 @@ EXTRA 7) dividido pelo tamanho do time
 
 Discussão dos resultados 
 Possiveis Beneficios da CD.... os resultados que temos dizem oq? Corrobora... descorda?
+
+Sumarizar os resultados
+armazenar em projetos por CD os resultados
