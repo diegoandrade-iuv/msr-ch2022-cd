@@ -1,741 +1,2038 @@
-name
-opennlp-1.8.4
-opennlp-1.8.3
-opennlp-1.8.0
-opennlp-1.8.1
-opennlp-1.8.2
-opennlp-1.7.1
-opennlp-1.7.2
-opennlp-1.7.0
-asf_migration
-opennlp-1.6.0
-4.0.M5
-4.1.M1
-4.0.M4
-4.0.M2
-3.0.2
-3.1M1
-4.0.M3
-3.0.1
-3.0-final
-cayenne-parent-3.1
-3.0M4
-4.0.B1
-cayenne-parent-3.2M1
-3.1.2
-4.0.B2
-3.0M3
-3.0M2
-cayenne-parent-3.1B2
-3.0M5
-3.0B1
-cayenne-parent-3.1.1
-3.1B2
-3.1M2
-3.0M6
-3.1M3
-3.1B1
-3.0M1
-BCEL_5_2
-BCEL_5_0
-BCEL_6_1
-BCEL_6_2
-initial
-BCEL_6_3
-BCEL_6_0
-BCEL_5_1
-1.18
-1.17
-1.16.1
-1.16
-1.15
-1.14
-1.13
-1.12
-1.11
-COMPRESS-1.8.1
-1.8
-COMPRESS-1.8
-1.7
-COMPRESS-1.7
-COMPRESS_1.4
-1.4
-1.0
-COMPRESS_1.3
-commons-compress-1.0
-1.3
-1.6
-1.4.1
-COMPRESS-1.6
-commons-compress-1.1
-COMPRESS_1.2
-COMPRESS_1.4.1
-1.1
-1.2
-1.10
-1.5
-COMPRESS-1.10
-COMPRESS-1.5
-compress_sandbox_03_2009
-COMPRESS-1.9
-1.9
-CONFIGURATION_1_9
-CONFIGURATION_2_4
-CONFIGURATION_2_0
-CONFIGURATION_2_1
-CONFIGURATION_2_2
-CONFIGURATION_1_2
-CONFIGURATION_2_3
-commons_promotion
-CONFIGURATION_1_4
-CONFIGURATION_1_6
-TEMP_TEST
-CONFIGURATION_1_8
-CONFIGURATION_2_1_1
-CONFIGURATION_1_10
-CONFIGURATION_1_3
-TEMP_TEST3
-TEMP_TEST2
-CONFIGURATION_1_7
-CONFIGURATION_1_0
-CONFIGURATION_1_5
-CONFIGURATION_1_1
-commons-dbcp-2.6.0
-commons-dbcp-2.5.0
-commons-dbcp-2.4.0
-DBCP_2_3_0
-DBCP_2_2_0
-DBCP_2_0_1
-jwsp_10_01
-DBCP_1_2_1
-DBCP_1_2
-DBCP_1_2_2
-STRUTS_1_1_B2
-pre_5_15_bm
-DBCP_1_4
-STRUTS_1_1_B1
-DBCP_1_0
-USED_BY_SCARAB_0_16_20
-jwsdp_10_02
-STRUTS_1_1_B3
-DBCP_2_0
-DBCP_2_1_1
-jwsdp_10_ea2_01
-DBCP_1_3
-DBCP_2_1
-DBCP_1_1
-start
-commons-jcs-2.0
-commons-jcs-2.2
-commons-jcs-2.2.1
-JCS_1_3_3_2
-jcs_1_2_7_8
-JCS_1_2_6_4
-JCS_1_3_3_5
-JCS_1_0
-jcs-1_1_2-dev
-jcs_1_2_5_dev
-JCS_1_3_2_3
-jcs_dev1_1_1b
-JCS_1_3
-JCS_1_3_2_8
-JCS_1_3_3_1
-JCS_1_2_6_5
-JCS_1_3_2_5
-jcs-1_2_3-dev
-jcs_dev1_1_1
-JCS_1_3_2_4
-1.2.6.6
-jcs_1_2_7_3
-JCS_1_3_3_0
-JCS_1_3_3_3
-JCS_1_3_2_7
-jcs_1_3_1_0
-jcs_1_2_7_9_2
-jcs-1_2_2-dev
-JCS_1_3_2_6
-jcs_1_1_dev
-jcs_1_2_4_dev
-jcs_1_2_7_9
-jcs_1_2_7_0
-JCS_1_3_3_4
-commons-jcs-2.1
-LANG_3_8_1
-LANG_3_8
-LANG_3_7
-LANG_3_6
-LANG_3_5
-LANG_3_3_1
-LANG_2_6
-LANG_3_0
-LANG_3_0_1
-LANG_1_0
-LANG_2_5_COPY
-LANG_2_2_DEV_STYLE
-LANG_1_0_1
-LANG_2_5
-STRUTS_1_1_B2
-LANG_3_0_B2
-LANG_3_0_B1
-LANG_3_3
-STRUTS_1_1_B3
-LANG_2_2
-LANG_2_1
-LANG_3_3_2
-LANG_3_0_B3
-LANG_2_0
-LANG_2_6_REPACKAGED
-LANG_3_1
-LANG_1_0_B1
-LANG_2_4
-LANG_3_2_1
-LANG_2_3
-LANG_3_2
-LANG_3_4
-parquet-1.2.2
-parquet-1.4.0
-parquet-1.3.1
-parquet-1.3.2
-parquet-1.3.0
-parquet-1.0.0-t1
-parquet-1.2.7
-parquet-1.2.8
-parquet-1.2.6
-parquet-1.2.3
-parquet-1.2.9
-parquet-1.0.0-t3
-parquet-1.2.10
-parquet-1.2.5
-parquet-1.2.0
-parquet-1.2.4
-parquet-1.1.0
-parquet-1.5.0
-parquet-1.0.0-t2
-parquet-1.4.1
-apache-parquet-1.8.3
-parquet-1.1.1
-apache-parquet-1.8.2
-parquet-1.4.2
-apache-parquet-1.8.1
-parquet-1.0.0
-parquet-1.2.1
-apache-parquet-1.9.0
-apache-parquet-1.8.0
-parquet-1.1.2
-parquet-1.0.1
-parquet-1.4.3
-apache-parquet-1.10.0
-apache-parquet-mr-1.6.0-incubating
-apache-parquet-1.7.0
-kylin-1.2
-kylin-1.1.1-incubating
-kylin-1.1-incubating
-kylin-1.0-incubating
-kylin-0.7.1-incubating
-kylin-0.6.3
-kylin-0.7.2-incubating
-kylin-2.3.2
-kylin-1.5.4.1-cdh5.7
-v0.6.2
-v0.6.1
-kylin-1.5.4.1-HBase1.x
-kylin-2.3.0
-kylin-2.3.1
-kylin-2.1.0
-kylin-1.6.0
-kylin-1.5.4-HBase1.x
-kylin-1.5.2.1-cdh5.7
-kylin-1.5.3
-kylin-1.3
-kylin-1.5.2.1
-kylin-2.2.0
-kylin-1.5.4
-kylin-1.5.3-cdh5.7
-kylin-1.3.0
-kylin-1.5.2.1-HBase1.x
-kylin-1.6.0-HBase1.x
-kylin-1.5.0
-kylin-1.5.3-HBase1.x
-kylin-1.5.2
-kylin-1.5.4.1
-kylin-1.6.0-cdh5.7
-kylin-2.4.0
-kylin-1.5.1
-kylin-2.0.0
-kylin-1.5.4-cdh5.7
-release-1.7.2
-release-2.8
-release-1.8
-release-1.5
-release-2.9.1
-release-2.0
-release-1.7.1
-release-1.9
-release-0.5.1
-release-2.0.2
-release-1.7
-release-2.12
-release-2.11
-release-0.3-incubating
-release-1.0
-release-1.6
-release-2.2
-release-1.1.1
-release-1.5.1
-release-1.2
-release-0.4-incubating
-release-0.1-incubating
-release-1.6.1
-release-1.1
-release-2.5
-release-2.10
-release-1.4
-release-0.6
-release-2.9
-release-1.8.2
-release-2.8.1
-release-0.2-incubating
-release-2.1
-release-2.6
-release-1.3
-release-2.7
-release-2.7.1
-release-1.4.1
-release-1.10
-release-0.5-incubating
-release-2.3
-STRUTS_2_5_16
-STRUTS_2_5_14_1
-STRUTS_2_5_15
-STRUTS_2_5_14
-STRUTS_2_5_10
-STRUTS_2_5_7
-STRUTS_2_5_2
-STRUTS_2_5_3
-STRUTS_2_5_8
-STRUTS_2_5_4
-STRUTS_2_5_11
-STRUTS_2_5_9
-STRUTS_2_5_1
-STRUTS_2_5_5
-STRUTS_2_5_13
-STRUTS_2_5_12
-STRUTS_2_3_24
-STRUTS_2_3_17
-STRUTS_2_5
-STRUTS_2_3_24_1
-STRUTS_2_3_23
-STRUTS_2_3_19
-STRUTS_2_3_16_3
-STRUTS_2_3_16_1
-STRUTS_2_5_6
-STRUTS_2_3_20
-STRUTS_2_3_21
-STRUTS_2_3_16_2
-STRUTS_2_3_22
-STRUTS_2_3_20_1
-STRUTS_2_2_1
-STRUTS_2_3_6
-STRUTS_2_3_27
-STRUTS_2_3_28_1
-STRUTS_2_1_4
-STRUTS_2_3_11
-STRUTS_2_3_14_1
-STRUTS_2_2_3_1
-STRUTS_2_0_9
-STRUTS_2_3_14
-STRUTS_2_3_24_2
-STRUTS_2_0_12
-STRUTS_2_0_14
-STRUTS_2_1_0
-STRUTS_2_3_15
-STRUTS_2_3_33
-STRUTS_2_3_32
-STRUTS_2_3_30
-STRUTS_2_3_25
-STRUTS_2_1_7
-STRUTS_2_3_10
-STRUTS_2_3_31
-STRUTS_2_3_2
-STRUTS_2_3_16
-STRUTS_2_0_11_1
-STRUTS_2_3_24_3
-STRUTS_2_1_3
-STRUTS_2_3_29
-STRUTS_2_3_26
-STRUTS_2_0_6
-STRUTS_2_3_7
-STRUTS_2_3_8
-STRUTS_2_0_10
-STRUTS_2_3_1_1
-STRUTS_2_1_8
-STRUTS_2_0_8
-STRUTS_2_1_8_1
-STRUTS_2_3_15_3
-STRUTS_2_1_1
-STRUTS_2_0_11
-STRUTS_2_3_14_2
-STRUTS_2_3_3
-STRUTS_2_0_0
-STRUTS_2_0_X
-STRUTS_2_3_1_2
-STRUTS_2_3_13
-STRUTS_2_3_5
-STRUTS_2_3_20_3
-STRUTS_2_3_20_2
-STRUTS_2_1_5
-STRUTS_2_3_34
-STRUTS_2_3_28
-STRUTS_2_0_7
-STRUTS_2_0_11_2
-STRUTS_2_0_4
-STRUTS_2_0_5
-STRUTS_2_3_9
-STRUTS_2_0_13
-STRUTS_2_3_4_1
-STRUTS_2_0_3
-STRUTS_2_1_2
-STRUTS_2_2_1_1
-STRUTS_2_1_6
-STRUTS_2_5_10_1
-STRUTS_2_3_12
-STRUTS_2_3_4
-STRUTS_2_2_0
-STRUTS_2_3_15_1
-STRUTS_2_2_3
-STRUTS_2_3_1
-STRUTS_2_0_1
-STRUTS_2_0_2
-STRUTS_2_3_14_3
-STRUTS_2_2_2
-STRUTS_2_3_15_2
-release-0.5.0
-release-0.5.4
-release-0.4.0-incubating
-release-0.5.2
-release-0.3.0-incubating
-release-0.7.1
-release-0.9.1
-release-0.6.2
-release-0.6.0
-release-0.6.1
-release-0.9.0
-release-0.5.1
-release-0.5.3
-release-0.8.5
-release-0.4.1-incubating
-release-0.8.2
-release-0.7.0
-release-0.8.4
-release-0.8.3
-v0.9.4
-v0.9.3
-v0.9.2-incubating
-v0.9.1-incubating
-v1.1.2
-v1.1.0
-v1.1.3
-v1.0.1
-v1.1.1
-v1.0.0
-v1.2.0
-v1.2.2
-v0.9.1.0-incubating
-v1.2.1
-v0.9.6
-v0.9.7
-v1.0.2
-v1.0.3
-v0.9.5
-v1.0.7
-v1.0.4
-v1.0.6
-v1.0.5
-v0.10.1
-v0.10.2
-v0.10.0
-1.2.0
-1.8.1
-1.8.12
-1.8.4
-2.0.2
-1.7.1
-1.8.13
-1.8.11
-2.0.7
-1.8.7
-1.4.0
-2.0.10
-2.0.12
-2.0.11
-2.0.1
-1.8.14
-1.8.9
-1.8.8
-1.8.10
-2.0.0
-1.8.6
-1.3.1
-1.8.5
-1.8.16
-1.2.1
-1.1.0
-2.0.3
-2.0.6
-2.0.4
-2.0.8
-2.0.9
-1.6.0
-0.8.0-incubating
-1.8.0
-1.8.2
-1.0.0
-1.3.0
-1.7.0
-1.8.15
-1.5.0
-2.0.5
-1.8.3
-nifi-1.7.0
-nifi-1.6.0
-nifi-1.5.0
-nifi-1.4.0
-nifi-1.3.0
-nifi-1.2.0
-nifi-1.1.0
-nifi-1.0.0
-nifi-0.6.0
-nifi-0.5.0
-nifi-0.4.1
-nifi-0.4.0
-nifi-0.7.2
-nifi-0.7.1
-nifi-0.7.0
-nifi-0.7.3
-nifi-1.1.2
-nifi-1.0.1
-nifi-0.5.1
-nifi-0.7.4
-nifi-1.1.1
-nifi-1.7.1
-nifi-0.6.1
-4.5.6
-4.5.5
-4.5.4
-4.5
-4.1
-4.1.1
-4.5.2
-4.2.5
-4.1.3
-4.3.4
-4.3
-4.5.7
-4.2
-4.5.1
-4.0
-4.4
-4.1.2
-4.0.1
-4.5.3
-4.2.6
-4.3.1
-4.3.6
-4.3.3
-4.2.4
-4.2.2
-4_0_API_FREEZE
-4.3.2
-4.1-siteupdate
-4.3.5
-4.2.3
-4.5.8
-4.4.1
-4.0.3
-4.0.2
-4.2.1
-4.4.10
-4.4.9
-4.4.7
-4.4.2
-4.4.6
-4.3
-4.1.2
-4.4.4
-4.2.5
-4.0
-4.2.2
-4.2.1
-4.2
-4.4.11
-4.4.1
-4.1
-4.4.12
-4.4.5
-4.4
-4.3.3
-4.3.1
-4.4.3
-4.0.1
-4.2.4
-4.1.1
-4.3.2
-4.1.3
-4.1-siteupdate
-4.2.3
-4.1.4
-streams-project-0.5.1
-streams-project-0.5-incubating
-streams-project-0.4.1-incubating
-streams-project-0.4-incubating
-streams-project-0.3-incubating
-streams-project-0.2-incubating
-streams-project-0.1-incubating
-streams-project-0.1
-streams-master-1.0
-streams-0.6.0
-RexsterGraph
-apache-curator-4.2.0
-apache-curator-4.1.1
-apache-curator-4.1.0
-apache-curator-4.0.2
-apache-curator-4.0.2-SNAPSHOT
-apache-curator-4.0.1
-apache-curator-4.0.0
-apache-curator-3.3.0
-apache-curator-2.12.0
-apache-curator-3.2.1
-apache-curator-2.11.1
-apache-curator-3.2.0
-apache-curator-2.11.0
-apache-curator-3.2.0-SNAPSHOT
-apache-curator-2.11.0-SNAPSHOT
-apache-curator-2.10.0
-apache-curator-3.1.0
-apache-curator-3.0.0-SNAPSHOT
-apache-curator-2.8.0
-apache-curator-2.7.0
-apache-curator-2.6.0
-apache-curator-2.5.0
-apache-curator-2.4.2
-apache-curator-2.4.1
-2.4.0
-apache-curator-2.3.1
-apache-curator-2.3.0
-apache-curator-2.2.0-incubating
-apache-curator-2.1.0-incubating
-apache-curator-2.0.1-incubating
-apache-curator-2.0.0-incubating
-apache-curator-2.0.1
-curator-2.0.0
-1.1.3
-1.1.2
-1.1.1
-1.1.0
-1.0.1
-1.0.0
-0.100.0
-0.6.4
-0.6.3
-0.6.2
-0.6.1
-0.5.2
-0.5.1
-0.4.3
-0.4.2
-0.32
-0.31
-0.30
-0.29
-0.28
-0.27
-0.26
-0.25
-0.24
-0.23
-curator-0.22-SNAPSHOT
-curator-0.21-SNAPSHOT
-curator-0.20-SNAPSHOT
-curator-0.19-SNAPSHOT
-curator-0.18-SNAPSHOT
-curator-0.17-SNAPSHOT
-curator-0.16-SNAPSHOT
-curator-0.15-SNAPSHOT
-curator-0.14-SNAPSHOT
-curator-0.13-SNAPSHOT
-curator-0.12-SNAPSHOT
-curator-0.11-SNAPSHOT
-curator-0.10-SNAPSHOT
-curator-0.9-SNAPSHOT
-curator-0.8-SNAPSHOT
-curator-0.7-SNAPSHOT
-curator-0.6-SNAPSHOT
-curator-0.5-SNAPSHOT
-curator-0.4-SNAPSHOT
-curator-0.3-SNAPSHOT
-curator-0.2-SNAPSHOT
-curator-0.1-SNAPSHOT
-apache.curator-5.1.0
-apache-curator-5.0.0
-1.0.2
-apache-curator-4.3.0
-1.0.3a
-apache-curator-2.9.1
-1.0.3
-1.0.3-2
-apache-curator-2.13.0
-0.59.0
-0.58.0
-0.57.0
-0.56.0
-0.55.0
-0.54.0
-0.53.0
-0.52.0
-0.51.0
-0.50.0
-0.49.0
-0.48.0
-0.47.0
-0.46.0
-0.45.0
-0.44.0
-0.43.0
-0.42.0
-0.41.0
-0.40.0
-0.39.0
-0.38.0
-0.37.0
-0.36.0
-0.35.0
-0.34.0
-0.33.0
-0.32.0
-0.31.0
-0.30.0
-0.29.0
-0.28.0
-0.27.0
-0.26.0
-0.25.0
-0.24.0
-0.23.0
-0.22.0
-0.21.0
-0.20.0
-0.11.0
-0.10.0
-0.9.0
-0.8.0
-0.7.0
-0.6.0
-0.5.0
-0.4.0
-0.3.0
-0.2.0
-qpid-jms-0.1.0
-1.2.0
-1.1.0
-1.0.0
-0.11.1
+_id,name,commit_id,vcs_system_id,message,tagger_id,date,date_offset
+5b27c648eee553716b77d004,opennlp-1.8.4,5b27c648eee553716b77d002,5b27c64830a71b06bceb0ead,"[maven-release-plugin] copy for tag opennlp-1.8.4
+",5b27c648eee553716277d003,2017-12-21 13:28:58,-300.0
+5b27c64aeee553716277d060,opennlp-1.8.3,5b27c64aeee553716277d05e,5b27c64830a71b06bceb0ead,"[maven-release-plugin] copy for tag opennlp-1.8.3
+",5b1fa04f1837be5c9525c62f,2017-10-24 09:09:20,330.0
+5b27c64aeee553716877d07b,opennlp-1.8.0,5b27c64aeee553716877d079,5b27c64830a71b06bceb0ead,"[maven-release-plugin] copy for tag opennlp-1.8.0
+",5b27c649eee553716177d00a,2017-05-17 21:29:39,120.0
+5b27c64aeee553716c77d06b,opennlp-1.8.1,5b27c64aeee553716c77d069,5b27c64830a71b06bceb0ead,"[maven-release-plugin] copy for tag opennlp-1.8.1
+",5b1fa04f1837be5c9525c62f,2017-07-05 13:08:15,-240.0
+5b27c64beee553716377d092,opennlp-1.8.2,5b27c64beee553716377d090,5b27c64830a71b06bceb0ead,"[maven-release-plugin] copy for tag opennlp-1.8.2
+",5b27c649eee553716177d00a,2017-09-11 07:03:05,120.0
+5b27c64ceee553716a77d0ea,opennlp-1.7.1,5b27c64ceee553716a77d0e8,5b27c64830a71b06bceb0ead,"[maven-release-plugin] copy for tag opennlp-1.7.1
+",5b1fa04f1837be5c9525c62f,2017-01-20 21:58:00,-300.0
+5b27c64eeee553715e77d1fb,opennlp-1.7.2,5b27c64eeee553715e77d1f9,5b27c64830a71b06bceb0ead,"[maven-release-plugin] copy for tag opennlp-1.7.2
+",5b1fa04f1837be5c9525c62f,2017-02-01 16:03:40,-300.0
+5b27c650eee553716777d2dd,opennlp-1.7.0,5b27c650eee553716777d2db,5b27c64830a71b06bceb0ead,"[maven-release-plugin] copy for tag opennlp-1.7.0
+",5b27c648eee553716677d003,2016-12-31 19:33:36,-120.0
+5b27c659eee553716c77d4ca,asf_migration,5b27c659eee553716c77d4c8,5b27c64830a71b06bceb0ead,"asf_migration
+",58bfcfde02ca40f8bf148139,2012-02-18 03:18:58,0.0
+5b27c673eee553716877e0ef,opennlp-1.6.0,5b27c673eee553716877e0ed,5b27c64830a71b06bceb0ead,"opennlp-1.6.0
+",5b27c64beee553716977d12e,2014-12-10 13:25:11,0.0
+5b3b31457c2cb055516a1962,4.0.M5,5b3b31447c2cb055516a1960,5b3b305530a71b06bc5bba5b,"[maven-release-plugin]  copy for tag 4.0.M5
+",5b3b30567c2cb055496a1501,2017-02-24 07:45:37,180.0
+5b3b31587c2cb055516a1a04,4.1.M1,5b3b31587c2cb055516a1a02,5b3b305530a71b06bc5bba5b,"[maven-release-plugin] copy for tag 4.1.M1
+",5b3b30567c2cb055496a1501,2017-10-06 09:07:37,180.0
+5b3b32287c2cb055486a237b,4.0.M4,5b3b32277c2cb055486a2379,5b3b305530a71b06bc5bba5b,"[maven-release-plugin]  copy for tag 4.0.M4
+",5b3b31537c2cb055576a1a0f,2016-12-06 14:03:41,180.0
+5b3b33297c2cb0554e6a2bd6,4.0.M2,5b3b33297c2cb0554e6a2bd4,5b3b305530a71b06bc5bba5b,"[maven-release-plugin]  copy for tag 4.0.M2
+",5b3b32337c2cb055556a2564,2015-02-26 08:15:04,180.0
+5b3b341d7c2cb055566a35ea,3.0.2,5b3b341c7c2cb055566a35e8,5b3b305530a71b06bc5bba5b,"3.0.2
+",58c8dbc0fa94f2c7f0cd5b92,2011-06-11 08:41:04,0.0
+5b3b34327c2cb055546a3652,3.1M1,5b3b34317c2cb055546a3650,5b3b305530a71b06bc5bba5b,"3.1M1
+",58c8dbc0fa94f2c7f0cd5b92,2010-11-14 07:17:15,0.0
+5b3b35657c2cb055536a43ca,4.0.M3,5b3b35657c2cb055536a43c8,5b3b305530a71b06bc5bba5b,"[maven-release-plugin]  copy for tag 4.0.M3
+",5b3b31537c2cb055576a1a0f,2016-02-08 16:33:58,180.0
+5b3b36b87c2cb055566a4fe6,3.0.1,5b3b36b87c2cb055566a4fe4,5b3b305530a71b06bc5bba5b,"3.0.1
+",58c8dbc0fa94f2c7f0cd5b92,2010-08-25 18:29:23,0.0
+5b3b36bc7c2cb0555a6a4fa7,3.0-final,5b3b36bb7c2cb0555a6a4fa5,5b3b305530a71b06bc5bba5b,"3.0-final
+",58c8dbc0fa94f2c7f0cd5b92,2010-04-26 09:34:15,0.0
+5b3b370d7c2cb055536a5384,cayenne-parent-3.1,5b3b370d7c2cb055536a5382,5b3b305530a71b06bc5bba5b,"[maven-release-plugin]  copy for tag cayenne-parent-3.1
+",5b3b322b7c2cb055556a2532,2014-09-20 14:03:21,180.0
+5b3b373c7c2cb055486a5676,3.0M4,5b3b373c7c2cb055486a5674,5b3b305530a71b06bc5bba5b,"3.0M4
+",58c8dbc0fa94f2c7f0cd5b92,2008-05-17 18:36:04,0.0
+5b3b37bc7c2cb055556a5bf6,4.0.B1,5b3b37bc7c2cb055556a5bf4,5b3b305530a71b06bc5bba5b,"[maven-release-plugin]  copy for tag 4.0.B1
+",5b3b30567c2cb055496a1501,2017-06-02 15:08:24,180.0
+5b3b38137c2cb055546a5f80,cayenne-parent-3.2M1,5b3b38137c2cb055546a5f7e,5b3b305530a71b06bc5bba5b,"cayenne-parent-3.2M1
+",58c8dbc0fa94f2c7f0cd5b92,2013-07-07 16:13:34,0.0
+5b3b38147c2cb055556a6052,3.1.2,5b3b38147c2cb055556a6050,5b3b305530a71b06bc5bba5b,"[maven-release-plugin]  copy for tag 3.1.2
+",5b3b30567c2cb055496a1501,2017-11-13 07:43:00,180.0
+5b3b38347c2cb055556a61c7,4.0.B2,5b3b38347c2cb055556a61c5,5b3b305530a71b06bc5bba5b,"[maven-release-plugin]  copy for tag 4.0.B2
+",5b3b30567c2cb055496a1501,2017-09-26 09:52:05,180.0
+5b3b38497c2cb055506a5f16,3.0M3,5b3b38497c2cb055506a5f14,5b3b305530a71b06bc5bba5b,"3.0M3
+",5b3b342b7c2cb055496a3600,2008-01-26 00:47:38,0.0
+5b3b38577c2cb0554b6a5f70,3.0M2,5b3b38577c2cb0554b6a5f6e,5b3b305530a71b06bc5bba5b,"3.0M2
+",5b3b33f27c2cb055546a3316,2007-10-28 20:42:08,0.0
+5b3b385f7c2cb0555a6a618d,cayenne-parent-3.1B2,5b3b385f7c2cb0555a6a618b,5b3b305530a71b06bc5bba5b,"cayenne-parent-3.1B2
+",58c8dbc0fa94f2c7f0cd5b92,2013-02-05 18:35:31,0.0
+5b3b38797c2cb055566a65cd,3.0M5,5b3b38797c2cb055566a65cb,5b3b305530a71b06bc5bba5b,"3.0M5
+",58c8dbc0fa94f2c7f0cd5b92,2008-12-07 16:20:38,0.0
+5b3b38867c2cb0555a6a62a2,3.0B1,5b3b38867c2cb0555a6a62a0,5b3b305530a71b06bc5bba5b,"3.0B1
+",58c8dbc0fa94f2c7f0cd5b92,2009-11-03 18:59:35,0.0
+5b3b38a17c2cb0555a6a6373,cayenne-parent-3.1.1,5b3b38a17c2cb0555a6a6371,5b3b305530a71b06bc5bba5b,"[maven-release-plugin]  copy for tag cayenne-parent-3.1.1
+",5b3b31537c2cb055576a1a0f,2016-04-29 12:34:41,180.0
+5b3b38c37c2cb0555a6a642f,3.1B2,5b3b38c27c2cb0555a6a642d,5b3b305530a71b06bc5bba5b,"3.1B2
+",58c8dbc0fa94f2c7f0cd5b92,2013-02-05 20:15:23,0.0
+5b3b38d07c2cb0554b6a66d7,3.1M2,5b3b38cf7c2cb0554b6a66d5,5b3b305530a71b06bc5bba5b,"3.1M2
+",58c8dbc0fa94f2c7f0cd5b92,2011-02-21 08:55:55,0.0
+5b3b38d97c2cb0555a6a64f6,3.0M6,5b3b38d97c2cb0555a6a64f4,5b3b305530a71b06bc5bba5b,"3.0M6
+",58c8dbc0fa94f2c7f0cd5b92,2009-05-17 21:28:38,0.0
+5b3b38d97c2cb055516a6541,3.1M3,5b3b38d97c2cb055516a653f,5b3b305530a71b06bc5bba5b,"3.1M3
+",5b3b32297c2cb055556a252a,2011-09-26 07:00:59,0.0
+5b3b38da7c2cb0554b6a679a,3.1B1,5b3b38da7c2cb0554b6a6798,5b3b305530a71b06bc5bba5b,"3.1B1
+",58c8dbc0fa94f2c7f0cd5b92,2012-05-28 17:32:48,0.0
+5b3b38db7c2cb0554b6a67ed,3.0M1,5b3b38db7c2cb0554b6a67eb,5b3b305530a71b06bc5bba5b,"3.0M1
+",58c8dbc0fa94f2c7f0cd5b92,2007-07-27 22:03:54,0.0
+5c87a831e84e0032bb599bab,BCEL_5_2,5c87a831e84e0032bb599ba9,5c87a755504acf99a4dbf833,"BCEL_5_2
+",58bfd7ac3cff546cd3b4315f,2011-07-22 09:26:16,0.0
+5c87a831e84e0032bb599bb3,BCEL_5_0,5c87a831e84e0032bb599bb1,5c87a755504acf99a4dbf833,"BCEL_5_0
+",58bfd7ac3cff546cd3b4315f,2011-07-22 09:26:16,0.0
+5c87a831e84e0032bb599bca,BCEL_6_1,5c87a831e84e0032bb599bc8,5c87a755504acf99a4dbf833,"BCEL_6_1
+",58c1132de4f89451f51d73fa,2017-09-18 08:48:36,0.0
+5c87a831e84e0032bb599c22,BCEL_6_2,5c87a831e84e0032bb599c20,5c87a755504acf99a4dbf833,"BCEL_6_2
+",58bfd7a63cff546ccab42d4d,2017-12-08 19:13:53,0.0
+5c87a832e84e0032bb599c2f,initial,5c87a832e84e0032bb599c2d,5c87a755504acf99a4dbf833,"initial
+",58bfd7ac3cff546cd3b4315f,2011-07-22 09:26:16,0.0
+5c87a832e84e0032bb599c3f,BCEL_6_3,5c87a832e84e0032bb599c3d,5c87a755504acf99a4dbf833,"BCEL_6_3
+",58bfd7a63cff546ccab42d4d,2019-01-28 12:45:43,0.0
+5c87a832e84e0032bb599c44,BCEL_6_0,5c87a832e84e0032bb599c42,5c87a755504acf99a4dbf833,"BCEL_6_0
+",58c1132de4f89451f51d73fa,2016-07-14 11:32:57,0.0
+5c87a83ee84e0032bb59a972,BCEL_5_1,5c87a83ee84e0032bb59a970,5c87a755504acf99a4dbf833,"BCEL_5_1
+",58bfd7ac3cff546cd3b4315f,2011-07-22 09:26:16,0.0
+5bed61cd65108826c57b0ef2,1.18,5bed61cd65108826c57b0eee,5bed61cc35e3ea2b7b2a1805,"RC1 has been accepted as Compress 1.18
+-----BEGIN PGP SIGNATURE-----
+
+iHEEABECADEWIQTOgHWiUVR77iSbwVGiEVrhX2uLcgUCW3UyFBMcYm9kZXdpZ0Bh
+cGFjaGUub3JnAAoJEKIRWuFfa4tyECcAoKcrkFZwDz1/uQecV/eFaJwpPuQcAJ44
+wUGe9sS3YWKEezqLXraTMrSghQ==
+=r+Do
+-----END PGP SIGNATURE-----
+",58c11330e4f89451f51d7405,2018-08-16 08:13:08,120.0
+5bed61cf65108826cd7b0f07,1.17,5bed61cf65108826cd7b0f03,5bed61cc35e3ea2b7b2a1805,"Tag Commons Compress 1.17
+-----BEGIN PGP SIGNATURE-----
+
+iHEEABECADEWIQTOgHWiUVR77iSbwVGiEVrhX2uLcgUCWxPq6hMcYm9kZXdpZ0Bh
+cGFjaGUub3JnAAoJEKIRWuFfa4tykrwAoK9WIH9IpQ/jiwKsF9+e+EH4zg+PAKC9
+ffEbPyCaW9OetSdkcvUkTTcffg==
+=IWtJ
+-----END PGP SIGNATURE-----
+",58c11330e4f89451f51d7405,2018-06-03 13:19:38,120.0
+5bed61d365108826cf7b0f4d,1.16.1,5bed61d365108826cf7b0f4b,5bed61cc35e3ea2b7b2a1805,"RC1 of 1.16.1 has been accepted
+-----BEGIN PGP SIGNATURE-----
+
+iFoEABECABoFAlp+sGQTHGJvZGV3aWdAYXBhY2hlLm9yZwAKCRCiEVrhX2uLcggW
+AJ9bPScaih0k1RPli1jmiNqMLqWB1QCeNcedE+htp0SxFXngHEZc+/T+Xdw=
+=59fb
+-----END PGP SIGNATURE-----
+",58c11330e4f89451f51d7405,2018-02-10 08:42:12,60.0
+5bed61d365108826d47b0f57,1.16,5bed61d365108826d47b0f53,5bed61cc35e3ea2b7b2a1805,"RC1 of Compress 1.16 has been accpted
+-----BEGIN PGP SIGNATURE-----
+
+iFoEABECABoFAlp4vFgTHGJvZGV3aWdAYXBhY2hlLm9yZwAKCRCiEVrhX2uLcg3N
+AKDmSYxBXM6BdbWiJtBOV82hAfYr8gCfQRgGm5GdO/u4vZn4CKBcvqRoS4c=
+=ODTc
+-----END PGP SIGNATURE-----
+",58c11330e4f89451f51d7405,2018-02-05 20:19:36,60.0
+5bed61da65108826c47b0fc8,1.15,5bed61da65108826c47b0fc4,5bed61cc35e3ea2b7b2a1805,"Create Commons Compress 1.15 release tag
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iEYEABECAAYFAlnmFAIACgkQohFa4V9ri3IcQACgm+NHIbKzkEUnKJVeKaf3SA5x
+k44An3DFikWcuWakYIoQZ2mgH9USeWKG
+=m3uZ
+-----END PGP SIGNATURE-----
+",58c11330e4f89451f51d7405,2017-10-17 14:30:26,120.0
+5bed61df65108826c67b0fdb,1.14,5bed61df65108826c67b0fd9,5bed61cc35e3ea2b7b2a1805,"1.14 RC1 has been accepted
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iEYEABECAAYFAlkYvYsACgkQohFa4V9ri3LcmQCfRMF6byIsvQeip0NksWyI8kIS
+KFEAoKt17ntcQCJWRPRqYhrcmPJWdwqk
+=+Ode
+-----END PGP SIGNATURE-----
+",58c11330e4f89451f51d7405,2017-05-14 20:26:51,120.0
+5bed61e465108826d67b10d6,1.13,5bed61e465108826d67b10d4,5bed61cc35e3ea2b7b2a1805,"Create Commons Compress 1.13 release tag
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iEUEABECAAYFAlhlPlcACgkQohFa4V9ri3LstgCgqd7yyyMIAXI+O14GLE74Rz1h
+hLoAl1n/iLST0WcDoG/suoj+kbUhEFs=
+=FuIg
+-----END PGP SIGNATURE-----
+",58c11330e4f89451f51d7405,2016-12-29 16:48:23,60.0
+5bed61f065108826cd7b1131,1.12,5bed61ef65108826cd7b112d,5bed61cc35e3ea2b7b2a1805,"RC1 vote has been accepted
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iEYEABECAAYFAldpk0EACgkQohFa4V9ri3LLqwCgpGO+ZBxfqdnT/HvazOCLThVH
+BEsAoOGNKNG8p79GKWrbdFuv3TVE91Rn
+=QsK8
+-----END PGP SIGNATURE-----
+",58c11330e4f89451f51d7405,2016-06-21 19:19:29,120.0
+5bed61f465108826d47b1117,1.11,5bed61f465108826d47b1111,5bed61cc35e3ea2b7b2a1805,"Tagging 1.11
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iEYEABECAAYFAlcEiXwACgkQohFa4V9ri3JQcQCfZwUnwdffWGk6pI6GhppQCbI8
+zMYAn2P4N5bDHlu3HG506y2RFKus4g/U
+=9VPj
+-----END PGP SIGNATURE-----
+",58c11330e4f89451f51d7405,2016-04-06 03:58:52,120.0
+5bed61f965108826d07b129b,COMPRESS-1.8.1,5bed61f965108826d07b1299,5bed61cc35e3ea2b7b2a1805,"COMPRESS-1.8.1
+",58c11330e4f89451f51d7405,2014-05-14 11:16:26,0.0
+5bed61f965108826c87b13ef,1.8,5bed61f965108826c87b13ed,5bed61cc35e3ea2b7b2a1805,"infra wants us to use tags under tags/rel
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iEYEABECAAYFAlaWjrkACgkQohFa4V9ri3IC+ACeIntJHlcuFQYEiNq+UbaJeXcw
+/2sAn0zNjD8wG7+ZLVDDt47ZiS5rEd44
+=ohPs
+-----END PGP SIGNATURE-----
+",58c8db4902ca40f8bfbae091,2016-01-13 17:51:53,60.0
+5bed61f965108826c87b13f1,COMPRESS-1.8,5bed61f965108826c87b13ed,5bed61cc35e3ea2b7b2a1805,"COMPRESS-1.8
+",58c11330e4f89451f51d7405,2014-03-12 22:18:40,0.0
+5bed61fa65108826c87b1426,1.7,5bed61fa65108826c87b1424,5bed61cc35e3ea2b7b2a1805,"infra wants us to use tags under tags/rel
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iEYEABECAAYFAlaWjq4ACgkQohFa4V9ri3KnZgCg14A70tYNrxgAGtYhfQZF8QXD
+A74AnRUsQUMtXFmY80GzvpGyCSDvKm2J
+=q7Pp
+-----END PGP SIGNATURE-----
+",58c8db4902ca40f8bfbae091,2016-01-13 17:51:42,60.0
+5bed61fa65108826c87b1428,COMPRESS-1.7,5bed61fa65108826c87b1424,5bed61cc35e3ea2b7b2a1805,"COMPRESS-1.7
+",58c11330e4f89451f51d7405,2014-01-20 05:15:09,0.0
+5bed622665108826cd7b175d,COMPRESS_1.4,5bed622665108826cd7b175b,5bed61cc35e3ea2b7b2a1805,"COMPRESS_1.4
+",58c11330e4f89451f51d7405,2012-04-11 04:58:10,0.0
+5bed622665108826cd7b175f,1.4,5bed622665108826cd7b175b,5bed61cc35e3ea2b7b2a1805,"infra wants us to use tags under tags/rel
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iEYEABECAAYFAlaWjm8ACgkQohFa4V9ri3KB6ACfdLYFsq2URumkHu16tnvYtOMF
+J/4AoJOwNMQg/tzF+thBkob6TK4q8wUi
+=iCXl
+-----END PGP SIGNATURE-----
+",58c8db4902ca40f8bfbae091,2016-01-13 17:50:39,60.0
+5bed622665108826d27b1832,1.0,5bed622665108826d27b1830,5bed61cc35e3ea2b7b2a1805,"infra wants us to use tags under tags/rel
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iEYEABECAAYFAlaWjiQACgkQohFa4V9ri3KUxACfR/2aXa/TPreaBpQnTuf2GlEd
+qqkAoMJU5X4AKNeVGfR19Kz3AgRyxuPS
+=yisQ
+-----END PGP SIGNATURE-----
+",58c8db4902ca40f8bfbae091,2016-01-13 17:49:24,60.0
+5bed622665108826c87b18d6,COMPRESS_1.3,5bed622665108826c87b18d4,5bed61cc35e3ea2b7b2a1805,"COMPRESS_1.3
+",58c11330e4f89451f51d7405,2011-11-01 19:22:19,0.0
+5bed622665108826d27b1834,commons-compress-1.0,5bed622665108826d27b1830,5bed61cc35e3ea2b7b2a1805,"commons-compress-1.0
+",58c113ae02ca40f8bfb1e64d,2009-05-14 04:37:27,0.0
+5bed622665108826c87b18d8,1.3,5bed622665108826c87b18d4,5bed61cc35e3ea2b7b2a1805,"infra wants us to use tags under tags/rel
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iEYEABECAAYFAlaWjl0ACgkQohFa4V9ri3ISOwCg2VgMF4fDdvffyWW+XRuVEdgo
+fYYAoOGp+8Q7Svl0JBgjswsTTq0tMi2g
+=W+TH
+-----END PGP SIGNATURE-----
+",58c8db4902ca40f8bfbae091,2016-01-13 17:50:21,60.0
+5bed622665108826c67b1846,1.6,5bed622665108826c67b1844,5bed61cc35e3ea2b7b2a1805,"infra wants us to use tags under tags/rel
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iEYEABECAAYFAlaWjqMACgkQohFa4V9ri3LxUACgpnJ2JExE7gAQbsyJgiKetai8
+eKsAoMsRsQS3ZL5fsNm4SG1xucOGdsy3
+=GG3A
+-----END PGP SIGNATURE-----
+",58c8db4902ca40f8bfbae091,2016-01-13 17:51:31,60.0
+5bed622765108826cb7b1b39,1.4.1,5bed622665108826cb7b1b37,5bed61cc35e3ea2b7b2a1805,"infra wants us to use tags under tags/rel
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iEYEABECAAYFAlaWjoAACgkQohFa4V9ri3JZhgCcDnYUVXlcVvKnDopU0xVMxxJa
+dsYAoIcLHrR/HX5ORsE0Pd+/Z9DWAHls
+=Z2lF
+-----END PGP SIGNATURE-----
+",58c8db4902ca40f8bfbae091,2016-01-13 17:50:56,60.0
+5bed622765108826c67b1848,COMPRESS-1.6,5bed622665108826c67b1844,5bed61cc35e3ea2b7b2a1805,"COMPRESS-1.6
+",58c11330e4f89451f51d7405,2013-10-26 05:16:56,0.0
+5bed622765108826c77b185b,commons-compress-1.1,5bed622765108826c77b1859,5bed61cc35e3ea2b7b2a1805,"commons-compress-1.1
+",58c113ae02ca40f8bfb1e64d,2010-08-13 04:40:31,0.0
+5bed622765108826c47b17bd,COMPRESS_1.2,5bed622765108826c47b17bb,5bed61cc35e3ea2b7b2a1805,"COMPRESS_1.2
+",58c11330e4f89451f51d7405,2011-07-31 05:20:18,0.0
+5bed622765108826cb7b1b3b,COMPRESS_1.4.1,5bed622665108826cb7b1b37,5bed61cc35e3ea2b7b2a1805,"COMPRESS_1.4.1
+",58c11330e4f89451f51d7405,2012-05-23 15:57:38,0.0
+5bed622765108826c77b185d,1.1,5bed622765108826c77b1859,5bed61cc35e3ea2b7b2a1805,"infra wants us to use tags under tags/rel
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iEYEABECAAYFAlaWjjcACgkQohFa4V9ri3Ii+QCeMJlo6GPWsBf+gSJiv8vgwQ6q
+HuMAnRuXJU1tXj1yZELpGkrDW6QroVcO
+=qA8u
+-----END PGP SIGNATURE-----
+",58c8db4902ca40f8bfbae091,2016-01-13 17:49:43,60.0
+5bed622765108826c47b17bf,1.2,5bed622765108826c47b17bb,5bed61cc35e3ea2b7b2a1805,"infra wants us to use tags under tags/rel
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iEYEABECAAYFAlaWjkwACgkQohFa4V9ri3KkjQCZAc3HScW+wyVfY7HvjLwsMVJP
+sCMAnAo8iPTyT0j9s/jNy6If150UsAXo
+=+iJo
+-----END PGP SIGNATURE-----
+",58c8db4902ca40f8bfbae091,2016-01-13 17:50:04,60.0
+5bed622765108826ce7b17d4,1.10,5bed622765108826ce7b17d2,5bed61cc35e3ea2b7b2a1805,"infra wants us to use tags under tags/rel
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iEYEABECAAYFAlaWjtMACgkQohFa4V9ri3KA0wCg24rb+l9qYwTzsGCkP/lb9TOj
+2vsAn37wagYDQoKrxT5uU6b3FD98SG98
+=foiu
+-----END PGP SIGNATURE-----
+",58c8db4902ca40f8bfbae091,2016-01-13 17:52:19,60.0
+5bed622765108826cf7b17fe,1.5,5bed622765108826cf7b17fc,5bed61cc35e3ea2b7b2a1805,"infra wants us to use tags under tags/rel
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iEYEABECAAYFAlaWjpcACgkQohFa4V9ri3L+wgCcDxNSDqTJni60IoeS9B8TjCgB
+xpoAn0nu3YGJ+kLj/2aL3y0YMpqVQfVa
+=yzUH
+-----END PGP SIGNATURE-----
+",58c8db4902ca40f8bfbae091,2016-01-13 17:51:19,60.0
+5bed622765108826ce7b17d6,COMPRESS-1.10,5bed622765108826ce7b17d2,5bed61cc35e3ea2b7b2a1805,"COMPRESS-1.10
+",58c11330e4f89451f51d7405,2015-08-18 17:07:30,0.0
+5bed622765108826cf7b1800,COMPRESS-1.5,5bed622765108826cf7b17fc,5bed61cc35e3ea2b7b2a1805,"COMPRESS-1.5
+",58c11330e4f89451f51d7405,2013-03-14 08:43:27,0.0
+5bed622865108826cd7b176c,compress_sandbox_03_2009,5bed622765108826cd7b176a,5bed61cc35e3ea2b7b2a1805,"compress_sandbox_03_2009
+",58c11330e4f89451f51d7405,2009-03-20 13:26:04,0.0
+5bed622865108826d17b18b9,COMPRESS-1.9,5bed622865108826d17b18b7,5bed61cc35e3ea2b7b2a1805,"COMPRESS-1.9
+",58c11330e4f89451f51d7405,2014-10-09 07:54:15,0.0
+5bed622865108826d17b18bb,1.9,5bed622865108826d17b18b7,5bed61cc35e3ea2b7b2a1805,"infra wants us to use tags under tags/rel
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iEYEABECAAYFAlaWjscACgkQohFa4V9ri3KjVQCgkKij3T+STcLtkBRr7Y9ST0ZF
+yLIAnj7sSKYUslcfOntWaURsjDP883qP
+=/3ZJ
+-----END PGP SIGNATURE-----
+",58c8db4902ca40f8bfbae091,2016-01-13 17:52:07,60.0
+5bed83cc8fc5e969727ead72,CONFIGURATION_1_9,5bed83cb8fc5e969727ead70,5bed83ca35e3ea2b7be8d7c9,"CONFIGURATION_1_9
+",58c1133402ca40f8bfb1e2c9,2012-08-22 18:20:12,0.0
+5bed83d88fc5e969757eb3fc,CONFIGURATION_2_4,5bed83d88fc5e969757eb3fa,5bed83ca35e3ea2b7be8d7c9,"CONFIGURATION_2_4
+",58c1132de4f89451f51d73fc,2018-10-29 11:50:48,0.0
+5bed83ea8fc5e969757ebf4d,CONFIGURATION_2_0,5bed83ea8fc5e969757ebf4b,5bed83ca35e3ea2b7be8d7c9,"CONFIGURATION_2_0
+",58c1133402ca40f8bfb1e2c9,2016-03-24 18:20:52,0.0
+5bed83ea8fc5e969677ebac0,CONFIGURATION_2_1,5bed83ea8fc5e969677ebabe,5bed83ca35e3ea2b7be8d7c9,"CONFIGURATION_2_1
+",58c1133402ca40f8bfb1e2c9,2016-08-20 14:12:53,0.0
+5bed83ea8fc5e969667eb9f6,CONFIGURATION_2_2,5bed83ea8fc5e969667eb9f4,5bed83ca35e3ea2b7be8d7c9,"CONFIGURATION_2_2
+",58c1133402ca40f8bfb1e2c9,2017-10-12 19:39:31,0.0
+5bed83ee8fc5e969787ebd7a,CONFIGURATION_1_2,5bed83ee8fc5e969787ebd78,5bed83ca35e3ea2b7be8d7c9,"CONFIGURATION_1_2
+",58bfd7ac3cff546cd3b4315f,2007-07-29 03:42:34,0.0
+5bed83ee8fc5e969687ebd17,CONFIGURATION_2_3,5bed83ee8fc5e969687ebd15,5bed83ca35e3ea2b7be8d7c9,"CONFIGURATION_2_3
+",58c1133402ca40f8bfb1e2c9,2018-08-08 19:43:38,0.0
+5bed83ee8fc5e9696a7eb925,commons_promotion,5bed83ee8fc5e9696a7eb923,5bed83ca35e3ea2b7be8d7c9,"commons_promotion
+",58bfd7ac3cff546cd3b4315f,2007-07-29 03:42:34,0.0
+5bed83ee8fc5e969797ebb5c,CONFIGURATION_1_4,5bed83ee8fc5e969797ebb5a,5bed83ca35e3ea2b7be8d7c9,"CONFIGURATION_1_4
+",58bfd7ac3cff546cd3b4315f,2007-07-29 03:42:34,0.0
+5bed83ee8fc5e9696e7ece2f,CONFIGURATION_1_6,5bed83ee8fc5e9696e7ece2d,5bed83ca35e3ea2b7be8d7c9,"CONFIGURATION_1_6
+",58c1133402ca40f8bfb1e2c9,2008-12-25 12:55:46,0.0
+5bed83ee8fc5e9696d7ebfdf,TEMP_TEST,5bed83ee8fc5e9696d7ebfdd,5bed83ca35e3ea2b7be8d7c9,"TEMP_TEST
+",58bfd7a53cff546ccbb42b42,2012-06-21 16:12:05,0.0
+5bed83ee8fc5e969667ebc6a,CONFIGURATION_1_8,5bed83ee8fc5e969667ebc68,5bed83ca35e3ea2b7be8d7c9,"CONFIGURATION_1_8
+",58c1133402ca40f8bfb1e2c9,2012-06-19 20:11:15,0.0
+5bed83ee8fc5e969677ebd9d,CONFIGURATION_2_1_1,5bed83ee8fc5e969677ebd9b,5bed83ca35e3ea2b7be8d7c9,"CONFIGURATION_2_1_1
+",58c1132de4f89451f51d73fa,2017-02-08 19:16:02,0.0
+5bed83ee8fc5e969667ebc74,CONFIGURATION_1_10,5bed83ee8fc5e969667ebc72,5bed83ca35e3ea2b7be8d7c9,"CONFIGURATION_1_10
+",58c1149a02ca40f8bfb1ecad,2013-10-28 04:07:11,0.0
+5bed83ee8fc5e969687ebd2d,CONFIGURATION_1_3,5bed83ee8fc5e969687ebd2b,5bed83ca35e3ea2b7be8d7c9,"CONFIGURATION_1_3
+",58bfd7ac3cff546cd3b4315f,2007-07-29 03:42:34,0.0
+5bed83ee8fc5e969687ebd37,TEMP_TEST3,5bed83ee8fc5e969687ebd35,5bed83ca35e3ea2b7be8d7c9,"TEMP_TEST3
+",58bfd7a53cff546ccbb42b42,2012-06-21 16:34:48,0.0
+5bed83ee8fc5e969677ebdb0,TEMP_TEST2,5bed83ee8fc5e969677ebdae,5bed83ca35e3ea2b7be8d7c9,"TEMP_TEST2
+",58bfd7a53cff546ccbb42b42,2012-06-21 16:33:35,0.0
+5bed83ee8fc5e9696c7ebde5,CONFIGURATION_1_7,5bed83ee8fc5e9696c7ebde3,5bed83ca35e3ea2b7be8d7c9,"CONFIGURATION_1_7
+",58c1133402ca40f8bfb1e2c9,2011-09-08 18:50:57,0.0
+5bed83ee8fc5e969787ebdac,CONFIGURATION_1_0,5bed83ee8fc5e969787ebdaa,5bed83ca35e3ea2b7be8d7c9,"CONFIGURATION_1_0
+",58bfd7ac3cff546cd3b4315f,2007-07-29 03:42:34,0.0
+5bed83ee8fc5e969777ebbd2,CONFIGURATION_1_5,5bed83ee8fc5e969777ebbd0,5bed83ca35e3ea2b7be8d7c9,"CONFIGURATION_1_5
+",58c1133402ca40f8bfb1e2c9,2007-11-24 15:36:26,0.0
+5bed83ee8fc5e969787ebdb1,CONFIGURATION_1_1,5bed83ee8fc5e969787ebdaf,5bed83ca35e3ea2b7be8d7c9,"CONFIGURATION_1_1
+",58bfd7ac3cff546cd3b4315f,2007-07-29 03:42:34,0.0
+5c87a9a21f420e02b4155458,commons-dbcp-2.6.0,5c87a9a21f420e02b4155454,5c87a96c504acf99a4de5a18,"Create release tag for Apache Commons DBCP release 2.6.0.
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAABCAAdFiEELbTx7w+nYezE6pNchv3H4qESYssFAlxsrpUACgkQhv3H4qES
+YssSHAf+IgqQosYnq3h7IVO2cItcfQDEc0iDBCt7qlT84mji1kqzii9SZschiKm/
+/ys6lyC0Qcno6MBVn7Fk6tA5bg6vfzcKlk9qH6O49DnqKrRccjfSg/pXwWjBGdUn
+5TdYupG9b1s2Uu6ax5dCDMpTRjIhpRthcYpAOn0lClNZhxDpxB1gmEhqlrEpvLQX
+Wm4V4feNSHNvlukEHBt0CkMfq9HfVSoXPe54CybiFErOM/AVn4wGApRdoQJvefkn
+qiEcRENhZr8Tng5+vZWhx+GI13s8h6H+08+en7KRzKPVkzYDCV/HiORcnvuaW04u
+Z2bQerFJXP7c7ffHCtR5/OKfTEh0GA==
+=ZG8z
+-----END PGP SIGNATURE-----
+",5c87a755e84e0032bb58b1ad,2019-02-20 01:33:44,-300.0
+5c87a9a61f420e02b41558a0,commons-dbcp-2.5.0,5c87a9a61f420e02b415589e,5c87a96c504acf99a4de5a18,"Create release tag for Apache Commons DBCP release 2.5.0.
+",58bfcbda02ca40f8bf147b80,2018-07-16 04:45:14,-360.0
+5c87a9aa1f420e02b41564f3,commons-dbcp-2.4.0,5c87a9aa1f420e02b41564f1,5c87a96c504acf99a4de5a18,"Create release tag for Apache Commons DBCP release 2.4.0.
+",58bfcbda02ca40f8bf147b80,2018-06-16 22:11:14,-360.0
+5c87a9b71f420e02b415844b,DBCP_2_3_0,5c87a9b71f420e02b4158449,5c87a96c504acf99a4de5a18,"Create Commons DBCP 2.3.0 release tag.
+",58bfcbda02ca40f8bf147b80,2018-05-12 18:52:02,-360.0
+5c87a9ba1f420e02b4158650,DBCP_2_2_0,5c87a9ba1f420e02b415864c,5c87a96c504acf99a4de5a18,"Apache Commons DBCP 2.2.0
+",58bfd7b23cff546cceb43911,2017-12-27 01:55:07,-420.0
+5c87a9f51f420e02b415d66f,DBCP_2_0_1,5c87a9f51f420e02b415d66d,5c87a96c504acf99a4de5a18,"DBCP_2_0_1
+",58bfd7a53cff546ccbb42b96,2014-05-25 18:23:35,0.0
+5c87a9f51f420e02b415d687,jwsp_10_01,5c87a9f51f420e02b415d685,5c87a96c504acf99a4de5a18,"jwsp_10_01
+",58bfd7ac3cff546cd3b4315f,2007-07-29 03:42:34,0.0
+5c87a9f51f420e02b415d6c5,DBCP_1_2_1,5c87a9f51f420e02b415d6c3,5c87a96c504acf99a4de5a18,"DBCP_1_2_1
+",58bfd7ac3cff546cd3b4315f,2007-07-29 03:42:34,0.0
+5c87a9f51f420e02b415d6d3,DBCP_1_2,5c87a9f51f420e02b415d6d1,5c87a96c504acf99a4de5a18,"DBCP_1_2
+",58bfd7ac3cff546cd3b4315f,2007-07-29 03:42:34,0.0
+5c87a9f51f420e02b415d72f,DBCP_1_2_2,5c87a9f51f420e02b415d72d,5c87a96c504acf99a4de5a18,"DBCP_1_2_2
+",58bfd7ac3cff546cd3b4315f,2007-07-29 03:42:34,0.0
+5c87a9f61f420e02b415d763,STRUTS_1_1_B2,5c87a9f61f420e02b415d761,5c87a96c504acf99a4de5a18,"STRUTS_1_1_B2
+",58bfd7ac3cff546cd3b4315f,2007-07-29 03:42:34,0.0
+5c87a9f61f420e02b415d771,pre_5_15_bm,5c87a9f61f420e02b415d76f,5c87a96c504acf99a4de5a18,"pre_5_15_bm
+",58bfd7ac3cff546cd3b4315f,2007-07-29 03:42:34,0.0
+5c87a9f61f420e02b415d78d,DBCP_1_4,5c87a9f61f420e02b415d78b,5c87a96c504acf99a4de5a18,"DBCP_1_4
+",58bfd7a53cff546ccbb42b96,2010-02-14 20:49:52,0.0
+5c87a9f71f420e02b415d827,STRUTS_1_1_B1,5c87a9f61f420e02b415d825,5c87a96c504acf99a4de5a18,"STRUTS_1_1_B1
+",58bfd7ac3cff546cd3b4315f,2007-07-29 03:42:34,0.0
+5c87a9f71f420e02b415d835,DBCP_1_0,5c87a9f71f420e02b415d833,5c87a96c504acf99a4de5a18,"DBCP_1_0
+",58bfd7ac3cff546cd3b4315f,2007-07-29 03:42:34,0.0
+5c87a9f71f420e02b415d843,USED_BY_SCARAB_0_16_20,5c87a9f71f420e02b415d841,5c87a96c504acf99a4de5a18,"USED_BY_SCARAB_0_16_20
+",58bfd7ac3cff546cd3b4315f,2007-07-29 03:42:34,0.0
+5c87a9f71f420e02b415d851,jwsdp_10_02,5c87a9f71f420e02b415d84f,5c87a96c504acf99a4de5a18,"jwsdp_10_02
+",58bfd7ac3cff546cd3b4315f,2007-07-29 03:42:34,0.0
+5c87a9f81f420e02b415d9dc,STRUTS_1_1_B3,5c87a9f81f420e02b415d9da,5c87a96c504acf99a4de5a18,"STRUTS_1_1_B3
+",58bfd7ac3cff546cd3b4315f,2007-07-29 03:42:34,0.0
+5c87a9f81f420e02b415da12,DBCP_2_0,5c87a9f81f420e02b415da10,5c87a96c504acf99a4de5a18,"DBCP_2_0
+",58bfd7a53cff546ccbb42b96,2014-05-25 18:25:29,0.0
+5c87a9f81f420e02b415da1c,DBCP_2_1_1,5c87a9f81f420e02b415da1a,5c87a96c504acf99a4de5a18,"DBCP_2_1_1
+",58bfd7a53cff546ccbb42b96,2015-08-07 02:40:10,0.0
+5c87a9f91f420e02b415da32,jwsdp_10_ea2_01,5c87a9f81f420e02b415da30,5c87a96c504acf99a4de5a18,"jwsdp_10_ea2_01
+",58bfd7ac3cff546cd3b4315f,2007-07-29 03:42:34,0.0
+5c87a9f91f420e02b415da78,DBCP_1_3,5c87a9f91f420e02b415da76,5c87a96c504acf99a4de5a18,"DBCP_1_3
+",58bfd7a53cff546ccbb42b96,2010-02-14 20:49:52,0.0
+5c87a9f91f420e02b415da7d,DBCP_2_1,5c87a9f91f420e02b415da7b,5c87a96c504acf99a4de5a18,"DBCP_2_1
+",58bfd7a53cff546ccbb42b96,2015-02-24 00:29:27,0.0
+5c87a9f91f420e02b415da82,DBCP_1_1,5c87a9f91f420e02b415da80,5c87a96c504acf99a4de5a18,"DBCP_1_1
+",58bfd7ac3cff546cd3b4315f,2007-07-29 03:42:34,0.0
+5c87a9f91f420e02b415da90,start,5c87a9f91f420e02b415da8e,5c87a96c504acf99a4de5a18,"start
+",58bfd7ac3cff546cd3b4315f,2007-07-29 03:42:34,0.0
+5bee7d60544cee7991de2e4a,commons-jcs-2.0,5bee7d5f544cee7991de2e48,5bee7d5b35e3ea2b7ba03bfa,"commons-jcs-2.0
+",58c1132e02ca40f8bfb1e28e,2016-12-25 20:00:58,0.0
+5bee7eea544cee799ade3c56,commons-jcs-2.2,5bee7eea544cee799ade3c54,5bee7d5b35e3ea2b7ba03bfa,"commons-jcs-2.2
+",58c1132e02ca40f8bfb1e28e,2017-08-02 10:46:13,0.0
+5bee7eec544cee799bde3c0c,commons-jcs-2.2.1,5bee7eec544cee799bde3c0a,5bee7d5b35e3ea2b7ba03bfa,"commons-jcs-2.2.1
+",5b62dccba7f7765d81edf68b,2017-10-22 06:59:07,0.0
+5bee7eec544cee799ade3cd7,JCS_1_3_3_2,5bee7eec544cee799ade3cd5,5bee7d5b35e3ea2b7ba03bfa,"JCS_1_3_3_2
+",58bfd7ac3cff546cd3b4315f,2011-07-24 03:06:46,0.0
+5bee7eed544cee799cde3f7f,jcs_1_2_7_8,5bee7eec544cee799cde3f7d,5bee7d5b35e3ea2b7ba03bfa,"jcs_1_2_7_8
+",58bfd7ac3cff546cd3b4315f,2011-07-24 03:06:46,0.0
+5bee7eed544cee7996de3b9d,JCS_1_2_6_4,5bee7eed544cee7996de3b9b,5bee7d5b35e3ea2b7ba03bfa,"JCS_1_2_6_4
+",58bfd7ac3cff546cd3b4315f,2011-07-24 03:06:46,0.0
+5bee7eed544cee7993de40ed,JCS_1_3_3_5,5bee7eed544cee7993de40eb,5bee7d5b35e3ea2b7ba03bfa,"JCS_1_3_3_5
+",58bfd7ac3cff546cd3b4315f,2011-07-24 03:06:46,0.0
+5bee7eed544cee799ede3bc0,JCS_1_0,5bee7eed544cee799ede3bbe,5bee7d5b35e3ea2b7ba03bfa,"JCS_1_0
+",58bfd7ac3cff546cd3b4315f,2011-07-24 03:06:46,0.0
+5bee7eed544cee798dde3c5d,jcs-1_1_2-dev,5bee7eed544cee798dde3c5b,5bee7d5b35e3ea2b7ba03bfa,"jcs-1_1_2-dev
+",58bfd7ac3cff546cd3b4315f,2011-07-24 03:06:46,0.0
+5bee7eed544cee7993de40f2,jcs_1_2_5_dev,5bee7eed544cee7993de40f0,5bee7d5b35e3ea2b7ba03bfa,"jcs_1_2_5_dev
+",58bfd7ac3cff546cd3b4315f,2011-07-24 03:06:46,0.0
+5bee7eed544cee798bde3d3d,JCS_1_3_2_3,5bee7eed544cee798bde3d3b,5bee7d5b35e3ea2b7ba03bfa,"JCS_1_3_2_3
+",58bfd7ac3cff546cd3b4315f,2011-07-24 03:06:46,0.0
+5bee7eed544cee799bde3c1f,jcs_dev1_1_1b,5bee7eed544cee799bde3c1d,5bee7d5b35e3ea2b7ba03bfa,"jcs_dev1_1_1b
+",58bfd7ac3cff546cd3b4315f,2011-07-24 03:06:46,0.0
+5bee7eed544cee799ade3ce4,JCS_1_3,5bee7eed544cee799ade3ce2,5bee7d5b35e3ea2b7ba03bfa,"JCS_1_3
+",58bfd7ac3cff546cd3b4315f,2011-07-24 03:06:46,0.0
+5bee7eed544cee798dde3c65,JCS_1_3_2_8,5bee7eed544cee798dde3c63,5bee7d5b35e3ea2b7ba03bfa,"JCS_1_3_2_8
+",58bfd7ac3cff546cd3b4315f,2011-07-24 03:06:46,0.0
+5bee7eed544cee7996de3ba8,JCS_1_3_3_1,5bee7eed544cee7996de3ba6,5bee7d5b35e3ea2b7ba03bfa,"JCS_1_3_3_1
+",58bfd7ac3cff546cd3b4315f,2011-07-24 03:06:46,0.0
+5bee7eee544cee799bde3c24,JCS_1_2_6_5,5bee7eed544cee799bde3c22,5bee7d5b35e3ea2b7ba03bfa,"JCS_1_2_6_5
+",58bfd7ac3cff546cd3b4315f,2011-07-24 03:06:46,0.0
+5bee7eee544cee7993de40fa,JCS_1_3_2_5,5bee7eed544cee7993de40f8,5bee7d5b35e3ea2b7ba03bfa,"JCS_1_3_2_5
+",58bfd7ac3cff546cd3b4315f,2011-07-24 03:06:46,0.0
+5bee7eee544cee798dde3c6a,jcs-1_2_3-dev,5bee7eee544cee798dde3c68,5bee7d5b35e3ea2b7ba03bfa,"jcs-1_2_3-dev
+",58bfd7ac3cff546cd3b4315f,2011-07-24 03:06:46,0.0
+5bee7eee544cee7996de3bad,jcs_dev1_1_1,5bee7eee544cee7996de3bab,5bee7d5b35e3ea2b7ba03bfa,"jcs_dev1_1_1
+",58bfd7ac3cff546cd3b4315f,2011-07-24 03:06:46,0.0
+5bee7eee544cee799bde3c29,JCS_1_3_2_4,5bee7eee544cee799bde3c27,5bee7d5b35e3ea2b7ba03bfa,"JCS_1_3_2_4
+",58bfd7ac3cff546cd3b4315f,2011-07-24 03:06:46,0.0
+5bee7eee544cee7993de40ff,1.2.6.6,5bee7eee544cee7993de40fd,5bee7d5b35e3ea2b7ba03bfa,"1.2.6.6
+",58bfd7ac3cff546cd3b4315f,2011-07-24 03:06:46,0.0
+5bee7eee544cee798dde3c6f,jcs_1_2_7_3,5bee7eee544cee798dde3c6d,5bee7d5b35e3ea2b7ba03bfa,"jcs_1_2_7_3
+",58bfd7ac3cff546cd3b4315f,2011-07-24 03:06:46,0.0
+5bee7eee544cee799ede3bd3,JCS_1_3_3_0,5bee7eee544cee799ede3bd1,5bee7d5b35e3ea2b7ba03bfa,"JCS_1_3_3_0
+",58bfd7ac3cff546cd3b4315f,2011-07-24 03:06:46,0.0
+5bee7eee544cee799bde3c2e,JCS_1_3_3_3,5bee7eee544cee799bde3c2c,5bee7d5b35e3ea2b7ba03bfa,"JCS_1_3_3_3
+",58bfd7ac3cff546cd3b4315f,2011-07-24 03:06:46,0.0
+5bee7eee544cee799ade3cf2,JCS_1_3_2_7,5bee7eee544cee799ade3cf0,5bee7d5b35e3ea2b7ba03bfa,"JCS_1_3_2_7
+",58bfd7ac3cff546cd3b4315f,2011-07-24 03:06:46,0.0
+5bee7ef0544cee799bde3c33,jcs_1_3_1_0,5bee7eee544cee799bde3c31,5bee7d5b35e3ea2b7ba03bfa,"jcs_1_3_1_0
+",58bfd7ac3cff546cd3b4315f,2011-07-24 03:06:46,0.0
+5bee7ef1544cee799ade3cf7,jcs_1_2_7_9_2,5bee7ef0544cee799ade3cf5,5bee7d5b35e3ea2b7ba03bfa,"jcs_1_2_7_9_2
+",58bfd7ac3cff546cd3b4315f,2011-07-24 03:06:46,0.0
+5bee7ef2544cee798dde3c7a,jcs-1_2_2-dev,5bee7ef1544cee798dde3c78,5bee7d5b35e3ea2b7ba03bfa,"jcs-1_2_2-dev
+",58bfd7ac3cff546cd3b4315f,2011-07-24 03:06:46,0.0
+5bee7ef3544cee799ede3be1,JCS_1_3_2_6,5bee7ef2544cee799ede3bdf,5bee7d5b35e3ea2b7ba03bfa,"JCS_1_3_2_6
+",58bfd7ac3cff546cd3b4315f,2011-07-24 03:06:46,0.0
+5bee7ef3544cee799ade3cff,jcs_1_1_dev,5bee7ef3544cee799ade3cfd,5bee7d5b35e3ea2b7ba03bfa,"jcs_1_1_dev
+",58bfd7ac3cff546cd3b4315f,2011-07-24 03:06:46,0.0
+5bee7ef3544cee798dde3c82,jcs_1_2_4_dev,5bee7ef3544cee798dde3c80,5bee7d5b35e3ea2b7ba03bfa,"jcs_1_2_4_dev
+",58bfd7ac3cff546cd3b4315f,2011-07-24 03:06:46,0.0
+5bee7ef3544cee799ede3be6,jcs_1_2_7_9,5bee7ef3544cee799ede3be4,5bee7d5b35e3ea2b7ba03bfa,"jcs_1_2_7_9
+",58bfd7ac3cff546cd3b4315f,2011-07-24 03:06:46,0.0
+5bee7ef4544cee799ade3d04,jcs_1_2_7_0,5bee7ef3544cee799ade3d02,5bee7d5b35e3ea2b7ba03bfa,"jcs_1_2_7_0
+",58bfd7ac3cff546cd3b4315f,2011-07-24 03:06:46,0.0
+5bee7ef4544cee7998de4563,JCS_1_3_3_4,5bee7ef4544cee7998de4561,5bee7d5b35e3ea2b7ba03bfa,"JCS_1_3_3_4
+",58bfd7ac3cff546cd3b4315f,2011-07-24 03:06:46,0.0
+5bee7ef4544cee799ede3beb,commons-jcs-2.1,5bee7ef4544cee799ede3be9,5bee7d5b35e3ea2b7ba03bfa,"commons-jcs-2.1
+",58c1132e02ca40f8bfb1e28e,2017-02-05 13:17:46,0.0
+5bbe0f415f06ec482a5cc334,LANG_3_8_1,5bbe0f405f06ec482a5cc332,5bbe0f4057674ee16793f245,"Tagging commons-lang3-3.8.1 from RC1
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAABCAAdFiEEtuc9hOpPzEcWYIclP6rSzV7LsxQFAlumrW8ACgkQP6rSzV7L
+sxQgcA//dWX1C1n526Z34UgI5OSGxE+pT3L6Imny33gDRbEdUuBAtX7nsU04OEpB
+YGZuwAvaZ6CVgcEha43T0t6qD5mMb+btNTauqY116PRhEqSIDLJBgapZNcKLj1gA
+sR1SXY87VCQHcWO/tjUtL2yC+Js++KwowFX1If9MpByV46PqTr7e/FKrzYB2ocsD
+BaDCgQTcJWoLb6XHXlsSUrGO92AeDS8O2oa+6eIDstH0qzC4vKKFhpGGGRhI0SrP
+99rwzpBfNljxe3oVDIU+JIjAuNvepb1+WrtOTbwu2GEz0PMS4KkvB9cvBeyGJeM+
+cQXccZ34VU2Ony9TNDUfJEwdeoWbZWw8ib4ijThhufIPmiOU2QpHhhcQ2K8iK8CJ
+lCnDLQDtjZHpo5308nEW4EuGi31uzRZePDNubrQcHpqjdmVcrs93jOJuK8K8zIpn
+DG3ly1E6fItVILFIhUzXyFJ20qPtSmhQmjNPuX3/4b3Pmx1MDc/b0u3mxDjc/ADq
+OWFcT5f2N//StnR58ZSDqw4vdOo0l5EyhSr70nMnMfk3p1XsbU1IOb3lNZouXjWr
+T6Ckwyz2CWo+wAS9U72EvRzaim/SQz+2E8sscu1gLwE067YFmY9lPGGFpFliJO6Y
+NwAkKq2uR+aemvWok5GmwDPastv7U59gJDJCLZ7SrTlHNpIyh6E=
+=Hha5
+-----END PGP SIGNATURE-----
+",58bfd7cb3cff546ccdb4507c,2018-09-22 21:00:30,-240.0
+5bbe0f425f06ec482a5cc35e,LANG_3_8,5bbe0f425f06ec482a5cc35c,5bbe0f4057674ee16793f245,"Tagging 3_8_RC1 as 3_8 release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAABCAAdFiEEtuc9hOpPzEcWYIclP6rSzV7LsxQFAlt5o44ACgkQP6rSzV7L
+sxTIyRAAhkF8Lw8/lkEzPMGxZYbwpejLPP/A8w8cY4WNcMcwxF0TbT76E0oKVgKI
+gzOYcjOhcqu1u5SBBPGVNXLV+BUCON2w2kwKQ6EROjiXy/GxiNQI7tLIKVttYdEd
++zrPeIS1q3rKZSgLJiH9OTD1wKa77CIl/AhLJMfrzTj0T1WHOMpm/81tYjYE3mu6
+8/x4MttE8ZigBHSzrtZTjT5bj9di/rywTBeh1OSslNGE6qvg1rUBDWj/2lE/ySzr
+I1GhjW1+dIaS+rjx6Q/MCXj62Yqn38d9pX2ulQaeNcI4Iem7TILgelZ8FBMM2SGY
+cK/hFKzNdu5yJxTqhcOD6F0tDKJ3gBjMPkcnTWmKvuWJ1EgalgeiqsQpQXmyT47q
+J/EpumU/K8qwMyIz4sj77S6o5BD5URfcnZmuMtNhXbViYCNrIJZa5OBe5PSMwEKT
+BptQRTgtgNbZWBiViZUv+XKFYeQE3/ZVZFGOjIBI1taRijWGMmaQ1/7t0JF1rTYL
+Bp0KPYI56Zkg4UNEVFZhYedp1lAn3vO9+f75F59BWL7uSF29L4N7c3LDIB57vyya
+/R/9oAMFu4B46mUEPhzqMmy/SxgCbtah67exCK9MIEF/MfynRo3YDnOEIl6MHl1X
+jaw6/Yz3WlMteef1FC2oCEnRX/b49UXcdn4uOx4JnGDt9EGn7IY=
+=ivkJ
+-----END PGP SIGNATURE-----
+",58bfd7cb3cff546ccdb4507c,2018-08-19 17:06:22,-240.0
+5bbe0f445f06ec481d5cc3ee,LANG_3_7,5bbe0f445f06ec481d5cc3ea,5bbe0f4057674ee16793f245,"Tag Apache Commons Lang 3.7
+",58bfd7b23cff546cceb43911,2017-11-08 15:46:14,-420.0
+5bbe0f455f06ec48295cc41f,LANG_3_6,5bbe0f455f06ec48295cc41d,5bbe0f4057674ee16793f245,"Create Commons Lang 3.6 release tag
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAABCgAdFiEEzVRkMV8LmMd+bo7NnarcHJ/MgtAFAlk+fLYACgkQnarcHJ/M
+gtDLrhAAmZCC7NOX0uBi5JVHBHdW7gMq9OewlybqSM6TRQaWkmiPtfar3Yz6ojUl
+xhDq3t0xJ2M70dlFmUfnaAMJ+Htl2w26vSjbXJDTBDMlkNai2DkFEHL2Wz5UL4GV
+3OffmmrCCcHoM6XuNXPqi8XFAd79DSQhJ8xdzR9aqKJz/SsbxLF6Xg+GYsFgnOng
+70DcMGRpYfdnS2HGS4HxXqoZFLHyf5I3Lg34IsTcrd63tADSDrguPQihOMossCXg
+LH8Lt8x9o34DfzDwPVuOYoXWajfWLzAmL4XJCNPIjtUKBIGxlXfXse8+x7KJ3FE2
+wwRzw3nRSG9uL7kgYEyomrg4EiaURwdEgg8nRZ37hQ3a2Hkjf8hWAuFdj1q27HjF
+BbKqSHn48d3Htp2PtYpTGpTan59hlh0aTxtvOp9mCcgG27gEg5bLMRSbSA4zfrgL
+3ppUHtLcAB6Q5v7EkW9BuEyNDsBojFEmFXfDE3wfVd1QuzAxStMC+0m4EopDYpB4
+JrpYs160KF7ZQDtSMkoMzmrlaTTo/kmFxPDVb/tCGgEV3Evhwfem7F4vrcTwb0gm
+AQF0UwdkgL75z2cv76F2PwTN4Hq22O1wzIqvlZaaU88z1MnXxTbOyAy6OQh5EHmi
+CBF8OVyORyZC799GH7vULATxRSVcqdQNqOADJch4AIDrtn+M75Y=
+=Hkea
+-----END PGP SIGNATURE-----
+",58c1132de4f89451f51d73fa,2017-06-12 11:36:22,120.0
+5bbe0f4a5f06ec48205cc52d,LANG_3_5,5bbe0f4a5f06ec48205cc529,5bbe0f4057674ee16793f245,"Tag Commons Lang release 3.5
+-----BEGIN PGP SIGNATURE-----
+
+iQIvBAABCAAZBQJYCPVQEhxlYm91cmdAYXBhY2hlLm9yZwAKCRD1E8QZ5LnQrFzr
+D/9Tos4aEqKKPVsFezUCuclWgTkZSaMXglB4wLAIQFF2CKEAdokV7JEdfbPw9Ml+
+P20JHDWtOHMgffrmoJtfw4b4ZFJcXIyiymbPilwbZKNN8tkrzap+JTjxro6lfTfc
+ctRxchBtPi01hU/Bfk5PLTdVHkKMy55HmYbl93eUyLLZ8ti2HNAf3g/KPvq65hbp
+XnXkDTzEZyNc2hw/bPb3kGHKjuKvtfGi2m3ZV+dcpmSiR2hFceSnpvpbUhuDAVvK
+GRPv4AmikNwwNGw+w4sF2f+8uhCoengtYNYN0kIORWLjYkU9CagGWOOF146K0NKP
+zC+9P8WBGUVS6GTRpfA/i2Hpos/L+CU/vlcvRhfNzlSTwxQxSCjkHrIy6STn7vIR
+UTbea6Hd3HWUd22odfwZx3U2DFSzN1d2Iu5Y/CWfpCOcOGj9xQ1wAcGQS8Kwr/hy
+d6QMmh4qjXutfwcRnFa+iHrrXonh4BSmhTyCB6XtRndkopoDh3yp2Lb4jC918om1
+Aq1j5GA8GJHVgyRMrfGgOudKJYFsY0XYxWNmyr6hEJs2xiL0AYMnHPtJKmT1uznA
+CwItAAqSZG9buEMYqtpaV2K4sN4I9KRZRPfSxRKKdQ885h2XEx8e7P/UXp8DNiVi
+YaLVKt0GquoXp9fkC+XPhsyTC6MRLoMsCY0en08XgpWsGA==
+=LG2p
+-----END PGP SIGNATURE-----
+",58bfd0cfe4f89451f55ce1b0,2016-10-20 16:48:16,120.0
+5bbe0f865f06ec48245cdc1c,LANG_3_3_1,5bbe0f865f06ec48245cdc1a,5bbe0f4057674ee16793f245,"LANG_3_3_1
+",58c1132de4f89451f51d73fa,2014-03-18 18:04:16,0.0
+5bbe0f865f06ec480e5cdb1d,LANG_2_6,5bbe0f865f06ec480e5cdb1b,5bbe0f4057674ee16793f245,"LANG_2_6
+",58bfd7b33cff546cd9b43813,2011-01-16 22:39:06,0.0
+5bbe0f865f06ec48245cdc2a,LANG_3_0,5bbe0f865f06ec48245cdc28,5bbe0f4057674ee16793f245,"LANG_3_0
+",58bfd7ac3cff546cd3b4315f,2011-07-19 03:28:54,0.0
+5bbe0f865f06ec482a5cdb4b,LANG_3_0_1,5bbe0f865f06ec482a5cdb49,5bbe0f4057674ee16793f245,"LANG_3_0_1
+",58bfd7ac3cff546cd3b4315f,2011-08-10 03:33:57,0.0
+5bbe0f865f06ec48095cd9e1,LANG_1_0,5bbe0f865f06ec48095cd9df,5bbe0f4057674ee16793f245,"LANG_1_0
+",58bfd7ac3cff546cd3b4315f,2007-07-29 03:42:34,0.0
+5bbe0f865f06ec482a5cdb50,LANG_2_5_COPY,5bbe0f865f06ec482a5cdb4e,5bbe0f4057674ee16793f245,"LANG_2_5_COPY
+",58bfd7b33cff546cd9b43813,2010-04-07 16:00:09,0.0
+5bbe0f865f06ec48185cdaa9,LANG_2_2_DEV_STYLE,5bbe0f865f06ec48185cdaa7,5bbe0f4057674ee16793f245,"LANG_2_2_DEV_STYLE
+",58bfd7ac3cff546cd3b4315f,2007-07-29 03:42:34,0.0
+5bbe0f865f06ec48255cd6f6,LANG_1_0_1,5bbe0f865f06ec48255cd6f4,5bbe0f4057674ee16793f245,"LANG_1_0_1
+",58bfd7ac3cff546cd3b4315f,2007-07-29 03:42:34,0.0
+5bbe0f865f06ec482a5cdb55,LANG_2_5,5bbe0f865f06ec482a5cdb53,5bbe0f4057674ee16793f245,"LANG_2_5
+",58bfd7b33cff546cd9b43813,2010-04-07 16:03:21,0.0
+5bbe0f865f06ec48115cd9b3,STRUTS_1_1_B2,5bbe0f865f06ec48115cd9b1,5bbe0f4057674ee16793f245,"STRUTS_1_1_B2
+",58bfd7ac3cff546cd3b4315f,2007-07-29 03:42:34,0.0
+5bbe0f865f06ec48255cd704,LANG_3_0_B2,5bbe0f865f06ec48255cd702,5bbe0f4057674ee16793f245,"LANG_3_0_B2
+",58bfd7ac3cff546cd3b4315f,2010-07-23 19:10:19,0.0
+5bbe0f865f06ec48295cd916,LANG_3_0_B1,5bbe0f865f06ec48295cd914,5bbe0f4057674ee16793f245,"LANG_3_0_B1
+",58bfd7ac3cff546cd3b4315f,2010-07-20 23:31:04,0.0
+5bbe0f875f06ec48125cdb60,LANG_3_3,5bbe0f875f06ec48125cdb5e,5bbe0f4057674ee16793f245,"LANG_3_3
+",58c1132de4f89451f51d73fa,2014-03-04 17:07:14,0.0
+5bbe0f875f06ec48275ce175,STRUTS_1_1_B3,5bbe0f875f06ec48275ce173,5bbe0f4057674ee16793f245,"STRUTS_1_1_B3
+",58bfd7ac3cff546cd3b4315f,2007-07-29 03:42:34,0.0
+5bbe0f875f06ec480e5cdb5f,LANG_2_2,5bbe0f875f06ec480e5cdb5d,5bbe0f4057674ee16793f245,"LANG_2_2
+",58bfd7ac3cff546cd3b4315f,2007-07-29 03:42:34,0.0
+5bbe0f885f06ec48265cd672,LANG_2_1,5bbe0f885f06ec48265cd670,5bbe0f4057674ee16793f245,"LANG_2_1
+",58bfd7ac3cff546cd3b4315f,2007-07-29 03:42:34,0.0
+5bbe0f885f06ec48275ce188,LANG_3_3_2,5bbe0f885f06ec48275ce186,5bbe0f4057674ee16793f245,"LANG_3_3_2
+",58c1132de4f89451f51d73fa,2014-04-09 18:42:56,0.0
+5bbe0f885f06ec48205cdeea,LANG_3_0_B3,5bbe0f885f06ec48205cdee8,5bbe0f4057674ee16793f245,"LANG_3_0_B3
+",58bfd7ac3cff546cd3b4315f,2010-07-26 06:31:51,0.0
+5bbe0f885f06ec48265cd67a,LANG_2_0,5bbe0f885f06ec48265cd678,5bbe0f4057674ee16793f245,"LANG_2_0
+",58bfd7ac3cff546cd3b4315f,2007-07-29 03:42:34,0.0
+5bbe0f885f06ec48055cda73,LANG_2_6_REPACKAGED,5bbe0f885f06ec48055cda71,5bbe0f4057674ee16793f245,"LANG_2_6_REPACKAGED
+",58bfd7b33cff546cd9b43813,2011-02-06 15:38:57,0.0
+5bbe0f885f06ec48275ce196,LANG_3_1,5bbe0f885f06ec48275ce194,5bbe0f4057674ee16793f245,"LANG_3_1
+",58bfd7ac3cff546cd3b4315f,2011-11-15 07:20:23,0.0
+5bbe0f885f06ec48125cdb96,LANG_1_0_B1,5bbe0f885f06ec48125cdb94,5bbe0f4057674ee16793f245,"LANG_1_0_B1
+",58bfd7ac3cff546cd3b4315f,2007-07-29 03:42:34,0.0
+5bbe0f885f06ec48205cdef5,LANG_2_4,5bbe0f885f06ec48205cdef3,5bbe0f4057674ee16793f245,"LANG_2_4
+",58bfd7ac3cff546cd3b4315f,2008-03-19 05:39:36,0.0
+5bbe0f885f06ec48125cdb9b,LANG_3_2_1,5bbe0f885f06ec48125cdb99,5bbe0f4057674ee16793f245,"LANG_3_2_1
+",58c1132de4f89451f51d73fa,2014-01-08 21:07:38,0.0
+5bbe0f885f06ec48125cdba0,LANG_2_3,5bbe0f885f06ec48125cdb9e,5bbe0f4057674ee16793f245,"LANG_2_3
+",58bfd7ac3cff546cd3b4315f,2007-07-29 03:42:34,0.0
+5bbe0f885f06ec48275ce1a6,LANG_3_2,5bbe0f885f06ec48275ce1a4,5bbe0f4057674ee16793f245,"LANG_3_2
+",58c1132de4f89451f51d73fa,2014-01-01 16:43:50,0.0
+5bbe0f885f06ec480e5cdb98,LANG_3_4,5bbe0f885f06ec480e5cdb96,5bbe0f4057674ee16793f245,"LANG_3_4
+",58c1132de4f89451f51d73fa,2015-04-06 16:14:40,0.0
+5b4769620f9db94b7226e9f7,parquet-1.2.2,5b4769620f9db94b7226e9f5,5b47693d30a71b06bc04ba2e,"[maven-release-plugin]  copy for tag parquet-1.2.2
+",5b4769590f9db94b6e26eee9,2013-09-20 18:33:23,-420.0
+5b4769660f9db94b6826ea4a,parquet-1.4.0,5b4769660f9db94b6826ea48,5b47693d30a71b06bc04ba2e,"[maven-release-plugin]  copy for tag parquet-1.4.0
+",5b4769590f9db94b6e26eee9,2014-04-01 20:37:46,-420.0
+5b4769720f9db94b6f26eaed,parquet-1.3.1,5b4769720f9db94b6f26eaeb,5b47693d30a71b06bc04ba2e,"[maven-release-plugin]  copy for tag parquet-1.3.1
+",5b47693e0f9db94b6d26e364,2014-01-03 21:21:07,-480.0
+5b4769740f9db94b6626eced,parquet-1.3.2,5b4769740f9db94b6626eceb,5b47693d30a71b06bc04ba2e,"[maven-release-plugin]  copy for tag parquet-1.3.2
+",5b4769590f9db94b6e26eee9,2014-01-08 18:17:47,-480.0
+5b4769750f9db94b6926ed1b,parquet-1.3.0,5b4769750f9db94b6926ed19,5b47693d30a71b06bc04ba2e,"[maven-release-plugin]  copy for tag parquet-1.3.0
+",5b4769590f9db94b6e26eee9,2013-12-23 18:57:58,-480.0
+5b4769790f9db94b7326f14f,parquet-1.0.0-t1,5b4769790f9db94b7326f14d,5b47693d30a71b06bc04ba2e,"[maven-release-plugin]  copy for tag parquet-1.0.0-t1
+",5b47693d0f9db94b6726e364,2013-05-24 23:51:05,-420.0
+5b4769800f9db94b7426f4b8,parquet-1.2.7,5b4769800f9db94b7426f4b6,5b47693d30a71b06bc04ba2e,"[maven-release-plugin]  copy for tag parquet-1.2.7
+",5b47693e0f9db94b6d26e364,2013-11-20 23:49:02,-480.0
+5b47698c0f9db94b6e26fb3c,parquet-1.2.8,5b47698c0f9db94b6e26fb3a,5b47693d30a71b06bc04ba2e,"[maven-release-plugin]  copy for tag parquet-1.2.8
+",5b4769590f9db94b6e26eee9,2013-11-27 20:10:14,-480.0
+5b47698d0f9db94b6826f2bb,parquet-1.2.6,5b47698d0f9db94b6826f2b9,5b47693d30a71b06bc04ba2e,"[maven-release-plugin]  copy for tag parquet-1.2.6
+",5b47693d0f9db94b6726e364,2013-11-20 00:37:05,-480.0
+5b47698e0f9db94b7126f1c1,parquet-1.2.3,5b47698e0f9db94b7126f1bf,5b47693d30a71b06bc04ba2e,"[maven-release-plugin]  copy for tag parquet-1.2.3
+",5b47693d0f9db94b6726e364,2013-10-04 00:03:56,-420.0
+5b47698e0f9db94b6726f2c1,parquet-1.2.9,5b47698e0f9db94b6726f2bf,5b47693d30a71b06bc04ba2e,"[maven-release-plugin]  copy for tag parquet-1.2.9
+",5b4769590f9db94b6e26eee9,2013-12-09 23:40:50,-480.0
+5b47698f0f9db94b7026f148,parquet-1.0.0-t3,5b47698f0f9db94b7026f146,5b47693d30a71b06bc04ba2e,"[maven-release-plugin]  copy for tag parquet-1.0.0-t3
+",5b47693e0f9db94b6d26e364,2013-07-17 04:22:07,-420.0
+5b47698f0f9db94b6d26fb77,parquet-1.2.10,5b47698f0f9db94b6d26fb75,5b47693d30a71b06bc04ba2e,"[maven-release-plugin]  copy for tag parquet-1.2.10
+",5b4769590f9db94b6e26eee9,2013-12-16 19:32:17,-480.0
+5b4769900f9db94b7026f1e2,parquet-1.2.5,5b4769900f9db94b7026f1e0,5b47693d30a71b06bc04ba2e,"[maven-release-plugin]  copy for tag parquet-1.2.5
+",5b47693e0f9db94b6d26e364,2013-10-28 18:38:59,-420.0
+5b4769910f9db94b7126f384,parquet-1.2.0,5b4769910f9db94b7126f382,5b47693d30a71b06bc04ba2e,"[maven-release-plugin]  copy for tag parquet-1.2.0
+",5b47693e0f9db94b6d26e364,2013-09-10 00:56:12,-420.0
+5b4769920f9db94b6c26fce8,parquet-1.2.4,5b4769920f9db94b6c26fce6,5b47693d30a71b06bc04ba2e,"[maven-release-plugin]  copy for tag parquet-1.2.4
+",5b4769590f9db94b6e26eee9,2013-10-08 18:53:27,-420.0
+5b4769930f9db94b7426f8c6,parquet-1.1.0,5b4769930f9db94b7426f8c4,5b47693d30a71b06bc04ba2e,"[maven-release-plugin]  copy for tag parquet-1.1.0
+",5b47693e0f9db94b6d26e364,2013-08-26 23:41:01,-420.0
+5b47699f0f9db94b6b26f832,parquet-1.5.0,5b47699f0f9db94b6b26f830,5b47693d30a71b06bc04ba2e,"[maven-release-plugin]  copy for tag parquet-1.5.0
+",5b4769590f9db94b6e26eee9,2014-05-22 00:56:55,-420.0
+5b47699f0f9db94b6926f4ce,parquet-1.0.0-t2,5b47699f0f9db94b6926f4cc,5b47693d30a71b06bc04ba2e,"[maven-release-plugin]  copy for tag parquet-1.0.0-t2
+",5b47693e0f9db94b6d26e364,2013-07-11 01:40:37,-420.0
+5b4769a00f9db94b7426fc23,parquet-1.4.1,5b4769a00f9db94b7426fc21,5b47693d30a71b06bc04ba2e,"[maven-release-plugin]  copy for tag parquet-1.4.1
+",5b4769590f9db94b6e26eee9,2014-04-07 23:39:07,-420.0
+5b4769a10f9db94b7126fb84,apache-parquet-1.8.3,5b4769a10f9db94b7126fb82,5b47693d30a71b06bc04ba2e,"[maven-release-plugin] copy for tag apache-parquet-1.8.3
+",5b4769a10f9db94b7126fb83,2018-05-03 15:44:59,120.0
+5b4769a10f9db94b6626f814,parquet-1.1.1,5b4769a10f9db94b6626f812,5b47693d30a71b06bc04ba2e,"[maven-release-plugin]  copy for tag parquet-1.1.1
+",5b47693e0f9db94b6d26e364,2013-08-28 06:33:58,-420.0
+5b4769a30f9db94b6926f62c,apache-parquet-1.8.2,5b4769a30f9db94b6926f62a,5b47693d30a71b06bc04ba2e,"[maven-release-plugin] copy for tag apache-parquet-1.8.2
+",58ca20c1e4f89451f502dc18,2017-01-19 01:27:25,-480.0
+5b4769a70f9db94b6926f684,parquet-1.4.2,5b4769a70f9db94b6926f682,5b47693d30a71b06bc04ba2e,"[maven-release-plugin]  copy for tag parquet-1.4.2
+",5b4769590f9db94b6e26eee9,2014-04-23 16:25:37,-420.0
+5b4769a90f9db94b6e270390,apache-parquet-1.8.1,5b4769a90f9db94b6e27038e,5b47693d30a71b06bc04ba2e,"[maven-release-plugin] copy for tag apache-parquet-1.8.1
+",5b47693f0f9db94b7026e373,2015-07-17 20:32:09,-420.0
+5b4769ab0f9db94b6f26f7b3,parquet-1.0.0,5b4769ab0f9db94b6f26f7b1,5b47693d30a71b06bc04ba2e,"[maven-release-plugin]  copy for tag parquet-1.0.0
+",5b47693d0f9db94b6726e364,2013-07-30 04:24:34,-420.0
+5b4769ad0f9db94b6b26fcba,parquet-1.2.1,5b4769ad0f9db94b6b26fcb8,5b47693d30a71b06bc04ba2e,"[maven-release-plugin]  copy for tag parquet-1.2.1
+",5b47693d0f9db94b6726e364,2013-09-13 06:26:46,-420.0
+5b4769d00f9db94b6b26fefa,apache-parquet-1.9.0,5b4769cf0f9db94b6b26fef8,5b47693d30a71b06bc04ba2e,"[maven-release-plugin] copy for tag apache-parquet-1.9.0
+",58ca20c1e4f89451f502dc18,2016-10-19 01:00:23,-420.0
+5b4769d30f9db94b72270552,apache-parquet-1.8.0,5b4769d30f9db94b72270550,5b47693d30a71b06bc04ba2e,"[maven-release-plugin] copy for tag apache-parquet-1.8.0
+",58ca20c1e4f89451f502dc18,2015-07-12 00:11:20,-420.0
+5b4769dd0f9db94b6a26fff1,parquet-1.1.2,5b4769dd0f9db94b6a26ffef,5b47693d30a71b06bc04ba2e,"[maven-release-plugin]  copy for tag parquet-1.1.2
+",5b47693e0f9db94b6d26e364,2013-08-31 21:12:00,-420.0
+5b4769e10f9db94b7227073f,parquet-1.0.1,5b4769e10f9db94b7227073d,5b47693d30a71b06bc04ba2e,"[maven-release-plugin]  copy for tag parquet-1.0.1
+",5b47693e0f9db94b6d26e364,2013-08-09 17:55:36,-420.0
+5b4769e60f9db94b6b270527,parquet-1.4.3,5b4769e60f9db94b6b270525,5b47693d30a71b06bc04ba2e,"[maven-release-plugin]  copy for tag parquet-1.4.3
+",5b4769590f9db94b6e26eee9,2014-04-30 03:24:09,-420.0
+5b4769ee0f9db94b72270b87,apache-parquet-1.10.0,5b4769ee0f9db94b72270b85,5b47693d30a71b06bc04ba2e,"[maven-release-plugin] copy for tag apache-parquet-1.10.0
+",58ca20c1e4f89451f502dc18,2018-04-05 20:36:28,-420.0
+5b4769ef0f9db94b72270be7,apache-parquet-mr-1.6.0-incubating,5b4769ef0f9db94b72270be5,5b47693d30a71b06bc04ba2e,"Apache Parquet MR (Incubating) 1.6.0
+",58ca20c1e4f89451f502dc18,2015-04-07 23:51:49,-420.0
+5b476a200f9db94b66270f55,apache-parquet-1.7.0,5b476a200f9db94b66270f53,5b47693d30a71b06bc04ba2e,"[maven-release-plugin] copy for tag apache-parquet-1.7.0
+",58ca20c1e4f89451f502dc18,2015-05-15 17:47:39,-420.0
+5b4374ef6d2aba30504a0b88,kylin-1.2,5b4374ef6d2aba30504a0b86,5b43737430a71b06bcbdd168,"[maven-release-plugin] copy for tag kylin-1.2
+",5b4373756d2aba305349f3f9,2015-12-15 05:50:33,480.0
+5b43752f6d2aba30504a1327,kylin-1.1.1-incubating,5b43752f6d2aba30504a1325,5b43737430a71b06bcbdd168,"[maven-release-plugin] copy for tag kylin-1.1.1-incubating
+",5b4373756d2aba305349f3f9,2015-11-04 09:53:05,480.0
+5b4375366d2aba30544a0724,kylin-1.1-incubating,5b4375356d2aba30544a0722,5b43737430a71b06bcbdd168,"[maven-release-plugin] copy for tag kylin-1.1-incubating
+",5b4373756d2aba305349f3f9,2015-10-09 10:08:17,480.0
+5b4375486d2aba304d4a1d39,kylin-1.0-incubating,5b4375486d2aba304d4a1d37,5b43737430a71b06bcbdd168,"[maven-release-plugin] copy for tag kylin-1.0-incubating
+",5b4374e86d2aba30544a0184,2015-08-27 07:11:01,480.0
+5b4376646d2aba30524a1957,kylin-0.7.1-incubating,5b4376636d2aba30524a1955,5b43737430a71b06bcbdd168,"[maven-release-plugin] copy for tag kylin-0.7.1-incubating
+",5b4374e86d2aba30544a0184,2015-06-02 13:10:22,480.0
+5b4376836d2aba30544a2adc,kylin-0.6.3,5b4376836d2aba30544a2ada,5b43737430a71b06bcbdd168,"[maven-release-plugin] copy for tag kylin-0.6.3
+",59b65c34f2a4565fe9377e87,2014-12-04 14:40:28,-480.0
+5b4377556d2aba304e4a29f7,kylin-0.7.2-incubating,5b4377556d2aba304e4a29f5,5b43737430a71b06bcbdd168,"[maven-release-plugin] copy for tag kylin-0.7.2-incubating
+",5b4374e86d2aba30544a0184,2015-07-13 12:03:26,480.0
+5b4379406d2aba30544a6ed1,kylin-2.3.2,5b4379406d2aba30544a6ecf,5b43737430a71b06bcbdd168,"[maven-release-plugin] copy for tag kylin-2.3.2
+",5b4379406d2aba30544a6ed0,2018-06-27 04:21:38,480.0
+5b437a2f6d2aba30534a8695,kylin-1.5.4.1-cdh5.7,5b437a2f6d2aba30534a8693,5b43737430a71b06bcbdd168,"Create tag for 1.5.4.1-cdh5.7
+",5b4373756d2aba305349f3f9,2016-09-28 10:07:30,480.0
+5b437a376d2aba304c4a7bf3,v0.6.2,5b437a376d2aba304c4a7bf1,5b43737430a71b06bcbdd168,"v0.6.2 release
+",59b65c34f2a4565fe9377e87,2014-11-20 12:51:31,480.0
+5b437ad56d2aba30524a6e7e,v0.6.1,5b437ad56d2aba30524a6e7c,5b43737430a71b06bcbdd168,"First Open Source Version
+",59b65c34f2a4565fe9377e87,2014-10-02 07:00:20,-420.0
+5b437ae56d2aba30544aa807,kylin-1.5.4.1-HBase1.x,5b437ae46d2aba30544aa805,5b43737430a71b06bcbdd168,"Create tag for 1.5.4.1-HBase1.x
+",5b4373756d2aba305349f3f9,2016-09-28 10:06:24,480.0
+5b437b4f6d2aba30534aa6d9,kylin-2.3.0,5b437b4f6d2aba30534aa6d7,5b43737430a71b06bcbdd168,"[maven-release-plugin] copy for tag kylin-2.3.0
+",5b110f90e5cffa4693f4cf99,2018-03-01 03:01:36,0.0
+5b437b7c6d2aba30544ab89f,kylin-2.3.1,5b437b7c6d2aba30544ab89d,5b43737430a71b06bcbdd168,"[maven-release-plugin] copy for tag kylin-2.3.1
+",5b110f90e5cffa4693f4cf99,2018-03-24 16:44:43,0.0
+5b437beb6d2aba30564a830b,kylin-2.1.0,5b437beb6d2aba30564a8309,5b43737430a71b06bcbdd168,"[maven-release-plugin] copy for tag kylin-2.1.0
+",5b4373756d2aba305349f3f9,2017-08-13 03:15:43,0.0
+5b437bec6d2aba30594a7394,kylin-1.6.0,5b437bec6d2aba30594a7392,5b43737430a71b06bcbdd168,"[maven-release-plugin] copy for tag kylin-1.6.0
+",5b4373756d2aba305349f3f9,2016-11-23 07:36:22,0.0
+5b437c5d6d2aba30554a7c09,kylin-1.5.4-HBase1.x,5b437c5d6d2aba30554a7c07,5b43737430a71b06bcbdd168,"V1.5.4.1 fix rebase conflict, remove duplicate code""
+",5b4374476d2aba305849f6db,2016-09-18 06:13:01,480.0
+5b437cdc6d2aba30544ae5b9,kylin-1.5.2.1-cdh5.7,5b437cdc6d2aba30544ae5b7,5b43737430a71b06bcbdd168,"Tag for kylin v1.5.2.1 for cdh 5.7
+",5b4373756d2aba305349f3f9,2016-06-07 09:45:43,480.0
+5b437d106d2aba30564aace3,kylin-1.5.3,5b437d106d2aba30564aace1,5b43737430a71b06bcbdd168,"[maven-release-plugin] copy for tag kylin-1.5.3
+",5b4373756d2aba305349f3f9,2016-07-25 02:00:10,0.0
+5b437d176d2aba30524aa407,kylin-1.3,5b437d176d2aba30524aa405,5b43737430a71b06bcbdd168,"[maven-release-plugin] copy for tag kylin-1.3
+",5b34a9d1e586ab679133d6f4,2016-03-07 08:52:46,0.0
+5b437dfb6d2aba304f4b0dba,kylin-1.5.2.1,5b437dfb6d2aba304f4b0db8,5b43737430a71b06bcbdd168,"[maven-release-plugin] copy for tag kylin-1.5.2.1
+",5b4373756d2aba305349f3f9,2016-06-04 11:53:09,0.0
+5b437dfc6d2aba30534afe72,kylin-2.2.0,5b437dfc6d2aba30534afe70,5b43737430a71b06bcbdd168,"[maven-release-plugin] copy for tag kylin-2.2.0
+",5b4373756d2aba304f49f3f8,2017-10-29 08:02:57,0.0
+5b437dfd6d2aba304e4ac98e,kylin-1.5.4,5b437dfd6d2aba304e4ac98c,5b43737430a71b06bcbdd168,"[maven-release-plugin] copy for tag kylin-1.5.4
+",5b4373756d2aba305349f3f9,2016-09-11 06:15:11,0.0
+5b437dff6d2aba30534b0001,kylin-1.5.3-cdh5.7,5b437dff6d2aba30534affff,5b43737430a71b06bcbdd168,"create tag for kylin-1.5.3-cdh5.7
+",5b4373756d2aba305349f3f9,2016-07-28 07:06:38,480.0
+5b437e026d2aba30534b01f5,kylin-1.3.0,5b437e026d2aba30534b01f3,5b43737430a71b06bcbdd168,"[maven-release-plugin] copy for tag kylin-1.3.0
+",5b34a9d1e586ab679133d6f4,2016-03-09 06:50:16,0.0
+5b437e346d2aba304d4b3bb3,kylin-1.5.2.1-HBase1.x,5b437e346d2aba304d4b3bb1,5b43737430a71b06bcbdd168,"add tag kylin-1.5.2.1 for hbase1.x
+",5b4373756d2aba305349f3f9,2016-06-07 10:40:03,480.0
+5b437e366d2aba304c4b1eb9,kylin-1.6.0-HBase1.x,5b437e366d2aba304c4b1eb7,5b43737430a71b06bcbdd168,"kylin-1.6.0 for HBase 1.x
+",5b4373756d2aba305349f3f9,2016-11-26 11:11:47,0.0
+5b437e3e6d2aba305a4abd16,kylin-1.5.0,5b437e3e6d2aba305a4abd14,5b43737430a71b06bcbdd168,"[maven-release-plugin] copy for tag kylin-1.5.0
+",5b43737c6d2aba305049f492,2016-03-12 04:55:47,480.0
+5b437e5b6d2aba30524ac729,kylin-1.5.3-HBase1.x,5b437e5b6d2aba30524ac727,5b43737430a71b06bcbdd168,"create tag for kylin-1.5.3-HBase1.x
+",5b4373756d2aba305349f3f9,2016-07-28 07:01:14,480.0
+5b437e9f6d2aba304e4aec34,kylin-1.5.2,5b437e9f6d2aba304e4aec32,5b43737430a71b06bcbdd168,"[maven-release-plugin] copy for tag kylin-1.5.2
+",5b4373756d2aba304f49f3f8,2016-05-23 07:47:37,0.0
+5b437e9f6d2aba30574abde1,kylin-1.5.4.1,5b437e9f6d2aba30574abddf,5b43737430a71b06bcbdd168,"[maven-release-plugin] copy for tag kylin-1.5.4.1
+",5b4373756d2aba305349f3f9,2016-09-24 06:59:42,0.0
+5b437ea06d2aba30514ab2b0,kylin-1.6.0-cdh5.7,5b437e9f6d2aba30514ab2ae,5b43737430a71b06bcbdd168,"kylin-1.6.0 for cdh 5.7
+",5b4373756d2aba305349f3f9,2016-11-26 11:05:02,0.0
+5b437ea76d2aba30514ab3ae,kylin-2.4.0,5b437ea76d2aba30514ab3ac,5b43737430a71b06bcbdd168,"[maven-release-plugin] copy for tag kylin-2.4.0
+",5b437ea76d2aba30514ab3ad,2018-06-19 14:35:04,0.0
+5b437ead6d2aba304c4b32b8,kylin-1.5.1,5b437ead6d2aba304c4b32b6,5b43737430a71b06bcbdd168,"[maven-release-plugin] copy for tag kylin-1.5.1
+",5b4373756d2aba304f49f3f8,2016-04-08 02:41:01,480.0
+5b437f0b6d2aba30584ac99b,kylin-2.0.0,5b437f0b6d2aba30584ac999,5b43737430a71b06bcbdd168,"[maven-release-plugin] copy for tag kylin-2.0.0
+",5b4373756d2aba305149f3f8,2017-04-26 22:56:27,0.0
+5b437f556d2aba30514ac142,kylin-1.5.4-cdh5.7,5b437f556d2aba30514ac140,5b43737430a71b06bcbdd168,"v1.5.4.1 minor, fix rebase error, rm UI duplicate code
+",5b4374476d2aba305849f6db,2016-09-18 07:58:01,480.0
+5c3f2e0466ca241a78524cb6,release-1.7.2,5c3f2e0466ca241a78524cb4,5c3f0a7c621a9a77b35f3add,"release-1.7.2
+",59673c40bf4ca1619735a7a0,2014-11-09 19:47:49,0.0
+5c3f2e0766ca241a78524cf3,release-2.8,5c3f2e0766ca241a78524cf1,5c3f0a7c621a9a77b35f3add,"release-2.8
+",59673c40bf4ca1619735a7a0,2017-08-18 11:15:24,0.0
+5c3f2e0766ca241a78524d02,release-1.8,5c3f2e0766ca241a78524d00,5c3f0a7c621a9a77b35f3add,"release-1.8
+",59673c40bf4ca1619735a7a0,2014-12-29 00:58:43,0.0
+5c3f2e0b66ca241a78524d63,release-1.5,5c3f2e0b66ca241a78524d61,5c3f0a7c621a9a77b35f3add,"release-1.5
+",59673c40bf4ca1619735a7a0,2014-02-07 18:32:10,0.0
+5c3f2e0c66ca241a78524d77,release-2.9.1,5c3f2e0c66ca241a78524d75,5c3f0a7c621a9a77b35f3add,"release-2.9.1
+",59673c40bf4ca1619735a7a0,2018-01-15 23:46:25,0.0
+5c3f2e0c66ca241a78524d7c,release-2.0,5c3f2e0c66ca241a78524d7a,5c3f0a7c621a9a77b35f3add,"release-2.0
+",59673c40bf4ca1619735a7a0,2014-12-29 00:58:24,0.0
+5c3f2e0c66ca241a78524d8b,release-1.7.1,5c3f2e0c66ca241a78524d89,5c3f0a7c621a9a77b35f3add,"release-1.7.1
+",59673c40bf4ca1619735a7a0,2014-09-22 17:33:47,0.0
+5c3f2e0d66ca241a78524d95,release-1.9,5c3f2e0d66ca241a78524d93,5c3f0a7c621a9a77b35f3add,"release-1.9
+",59673c40bf4ca1619735a7a0,2015-05-05 00:41:50,0.0
+5c3f2e0d66ca241a78524d9f,release-0.5.1,5c3f2e0d66ca241a78524d9d,5c3f0a7c621a9a77b35f3add,"release-0.5.1
+",58bfd7af3cff546cd8b436ff,2012-06-13 10:44:54,0.0
+5c3f2e1066ca241a78524de9,release-2.0.2,5c3f2e1066ca241a78524de7,5c3f0a7c621a9a77b35f3add,"release-2.0.2
+",59673c40bf4ca1619735a7a0,2015-03-03 02:21:55,0.0
+5c3f2e1166ca241a78524dfd,release-1.7,5c3f2e1166ca241a78524dfb,5c3f0a7c621a9a77b35f3add,"release-1.7
+",5c3f0afb66ca241a784c2c12,2014-08-23 13:59:03,0.0
+5c3f2e1166ca241a78524e07,release-2.12,5c3f2e1166ca241a78524e05,5c3f0a7c621a9a77b35f3add,"release-2.12
+",59673c40bf4ca1619735a7a0,2018-12-20 18:27:57,0.0
+5c3f2e1266ca241a78524e23,release-2.11,5c3f2e1266ca241a78524e21,5c3f0a7c621a9a77b35f3add,"release-2.11
+",59673c40bf4ca1619735a7a0,2018-09-28 16:37:28,0.0
+5c3f2e1366ca241a78524e28,release-0.3-incubating,5c3f2e1266ca241a78524e26,5c3f0a7c621a9a77b35f3add,"release-0.3-incubating
+",58bfd7af3cff546cd8b436ff,2012-06-13 10:44:54,0.0
+5c3f2e1366ca241a78524e33,release-1.0,5c3f2e1366ca241a78524e31,5c3f0a7c621a9a77b35f3add,"release-1.0
+",59673c40bf4ca1619735a7a0,2012-10-03 17:16:09,0.0
+5c3f2e1466ca241a78524e4f,release-1.6,5c3f2e1466ca241a78524e4d,5c3f0a7c621a9a77b35f3add,"release-1.6
+",59673c40bf4ca1619735a7a0,2014-04-30 20:17:46,0.0
+5c3f2e1566ca241a78524e63,release-2.2,5c3f2e1566ca241a78524e61,5c3f0a7c621a9a77b35f3add,"release-2.2
+",59673c40bf4ca1619735a7a0,2015-11-25 15:18:12,0.0
+5c3f2e1566ca241a78524e68,release-1.1.1,5c3f2e1566ca241a78524e66,5c3f0a7c621a9a77b35f3add,"release-1.1.1
+",59673c40bf4ca1619735a7a0,2013-02-14 00:45:16,0.0
+5c3f2e1666ca241a78524e93,release-1.5.1,5c3f2e1666ca241a78524e91,5c3f0a7c621a9a77b35f3add,"release-1.5.1
+",59673c40bf4ca1619735a7a0,2014-02-20 21:00:18,0.0
+5c3f2e1666ca241a78524e98,release-1.2,5c3f2e1666ca241a78524e96,5c3f0a7c621a9a77b35f3add,"release-1.2
+",59673c40bf4ca1619735a7a0,2013-05-11 16:42:04,0.0
+5c3f2e1866ca241a78524eb9,release-0.4-incubating,5c3f2e1866ca241a78524eb7,5c3f0a7c621a9a77b35f3add,"release-0.4-incubating
+",58bfd7af3cff546cd8b436ff,2012-06-13 10:44:54,0.0
+5c3f2e1866ca241a78524ec4,release-0.1-incubating,5c3f2e1866ca241a78524ec2,5c3f0a7c621a9a77b35f3add,"release-0.1-incubating
+",58bfd7af3cff546cd8b436ff,2012-06-13 10:44:54,0.0
+5c3f2e1a66ca241a78524ee1,release-1.6.1,5c3f2e1a66ca241a78524edf,5c3f0a7c621a9a77b35f3add,"release-1.6.1
+",59673c40bf4ca1619735a7a0,2014-06-01 12:45:28,0.0
+5c3f2e1b66ca241a78524ef0,release-1.1,5c3f2e1b66ca241a78524eee,5c3f0a7c621a9a77b35f3add,"release-1.1
+",59673c40bf4ca1619735a7a0,2013-02-04 01:50:11,0.0
+5c3f2e1c66ca241a78524eff,release-2.5,5c3f2e1c66ca241a78524efd,5c3f0a7c621a9a77b35f3add,"release-2.5
+",59673c40bf4ca1619735a7a0,2016-08-19 00:49:56,0.0
+5c3f2e1c66ca241a78524f09,release-2.10,5c3f2e1c66ca241a78524f07,5c3f0a7c621a9a77b35f3add,"release-2.10
+",59673c40bf4ca1619735a7a0,2018-04-19 05:11:05,0.0
+5c3f2e1d66ca241a78524f18,release-1.4,5c3f2e1d66ca241a78524f16,5c3f0a7c621a9a77b35f3add,"release-1.4
+",59673c40bf4ca1619735a7a0,2013-10-28 23:00:38,0.0
+5c3f2e1f66ca241a78524f4d,release-0.6,5c3f2e1e66ca241a78524f4b,5c3f0a7c621a9a77b35f3add,"release-0.6
+",59673c40bf4ca1619735a7a0,2012-07-13 13:03:08,0.0
+5c3f2e1f66ca241a78524f61,release-2.9,5c3f2e1f66ca241a78524f5f,5c3f0a7c621a9a77b35f3add,"release-2.9
+",59673c40bf4ca1619735a7a0,2017-12-23 00:33:27,0.0
+5c3f2e2066ca241a78524f66,release-1.8.2,5c3f2e1f66ca241a78524f64,5c3f0a7c621a9a77b35f3add,"release-1.8.2
+",59673c40bf4ca1619735a7a0,2015-03-03 02:21:38,0.0
+5c3f2e2066ca241a78524f6b,release-2.8.1,5c3f2e2066ca241a78524f69,5c3f0a7c621a9a77b35f3add,"release-2.8.1
+",59673c40bf4ca1619735a7a0,2017-09-07 23:18:00,0.0
+5c3f2e2066ca241a78524f75,release-0.2-incubating,5c3f2e2066ca241a78524f73,5c3f0a7c621a9a77b35f3add,"release-0.2-incubating
+",58bfd7af3cff546cd8b436ff,2012-06-13 10:44:54,0.0
+5c3f2e2266ca241a78524fb0,release-2.1,5c3f2e2266ca241a78524fae,5c3f0a7c621a9a77b35f3add,"release-2.1
+",59673c40bf4ca1619735a7a0,2015-05-05 00:41:16,0.0
+5c3f2e2366ca241a78524fc7,release-2.6,5c3f2e2366ca241a78524fc5,5c3f0a7c621a9a77b35f3add,"release-2.6
+",59673c40bf4ca1619735a7a0,2016-12-30 12:23:31,0.0
+5c3f2e2466ca241a78524fd6,release-1.3,5c3f2e2466ca241a78524fd4,5c3f0a7c621a9a77b35f3add,"release-1.3
+",59673c40bf4ca1619735a7a0,2013-07-29 12:27:38,0.0
+5c3f2e2566ca241a78524fe3,release-2.7,5c3f2e2566ca241a78524fe1,5c3f0a7c621a9a77b35f3add,"release-2.7
+",59673c40bf4ca1619735a7a0,2017-04-20 21:54:27,0.0
+5c3f2e2566ca241a7852500a,release-2.7.1,5c3f2e2566ca241a78525008,5c3f0a7c621a9a77b35f3add,"release-2.7.1
+",59673c40bf4ca1619735a7a0,2017-05-10 15:50:59,0.0
+5c3f2e2766ca241a78525028,release-1.4.1,5c3f2e2766ca241a78525026,5c3f0a7c621a9a77b35f3add,"release-1.4.1
+",59673c40bf4ca1619735a7a0,2013-11-16 13:06:06,0.0
+5c3f2e2766ca241a78525037,release-1.10,5c3f2e2766ca241a78525035,5c3f0a7c621a9a77b35f3add,"release-1.10
+",59bfda06f2a4565fe9354338,2015-09-07 08:09:40,0.0
+5c3f2e2866ca241a78525041,release-0.5-incubating,5c3f2e2866ca241a7852503f,5c3f0a7c621a9a77b35f3add,"release-0.5-incubating
+",58bfd7af3cff546cd8b436ff,2012-06-13 10:44:54,0.0
+5c3f2e2b66ca241a7852509c,release-2.3,5c3f2e2b66ca241a7852509a,5c3f0a7c621a9a77b35f3add,"release-2.3
+",59673c40bf4ca1619735a7a0,2015-12-17 12:28:34,0.0
+5b23df3ca1501a253fd0c9ae,STRUTS_2_5_16,5b23df3ca1501a253fd0c9ac,5b23df3c30a71b06bc01e16a,"[maven-release-plugin] copy for tag STRUTS_2_5_16
+",58c118dc02ca40f8bfb1f2e3,2018-03-02 12:00:09,60.0
+5b23df3da1501a2546d0c9d7,STRUTS_2_5_14_1,5b23df3da1501a2546d0c9d5,5b23df3c30a71b06bc01e16a,"[maven-release-plugin] copy for tag STRUTS_2_5_14_1
+",58c118dc02ca40f8bfb1f2e3,2017-11-29 07:35:53,60.0
+5b23df3da1501a2544d0c9e9,STRUTS_2_5_15,5b23df3da1501a2544d0c9e7,5b23df3c30a71b06bc01e16a,"[maven-release-plugin] copy for tag STRUTS_2_5_15
+",58c118dc02ca40f8bfb1f2e3,2018-02-09 08:36:33,60.0
+5b23df3ea1501a253ad0ca1f,STRUTS_2_5_14,5b23df3ea1501a253ad0ca1d,5b23df3c30a71b06bc01e16a,"[maven-release-plugin] copy for tag STRUTS_2_5_14
+",58c118dc02ca40f8bfb1f2e3,2017-11-14 06:43:30,60.0
+5b23df52a1501a2540d0ccc1,STRUTS_2_5_10,5b23df51a1501a2540d0ccbf,5b23df3c30a71b06bc01e16a,"[maven-release-plugin] copy for tag STRUTS_2_5_10
+",58c118dc02ca40f8bfb1f2e3,2017-01-27 09:35:24,60.0
+5b23df59a1501a2544d0d142,STRUTS_2_5_7,5b23df59a1501a2544d0d140,5b23df3c30a71b06bc01e16a,"[maven-release-plugin] copy for tag STRUTS_2_5_7
+",58c118dc02ca40f8bfb1f2e3,2016-12-02 07:26:48,60.0
+5b23df5ba1501a2544d0d1bb,STRUTS_2_5_2,5b23df5ba1501a2544d0d1b9,5b23df3c30a71b06bc01e16a,"[maven-release-plugin] copy for tag STRUTS_2_5_2
+",58c118dc02ca40f8bfb1f2e3,2016-07-07 08:49:02,120.0
+5b23df61a1501a2544d0d308,STRUTS_2_5_3,5b23df61a1501a2544d0d306,5b23df3c30a71b06bc01e16a,"[maven-release-plugin] copy for tag STRUTS_2_5_3
+",58c118dc02ca40f8bfb1f2e3,2016-10-05 05:44:50,120.0
+5b23df74a1501a253cd0d41e,STRUTS_2_5_8,5b23df74a1501a253cd0d41c,5b23df3c30a71b06bc01e16a,"[maven-release-plugin] copy for tag STRUTS_2_5_8
+",58c118dc02ca40f8bfb1f2e3,2016-12-06 10:18:02,60.0
+5b23df79a1501a253cd0d5fd,STRUTS_2_5_4,5b23df79a1501a253cd0d5fb,5b23df3c30a71b06bc01e16a,"[maven-release-plugin] copy for tag STRUTS_2_5_4
+",58c118dc02ca40f8bfb1f2e3,2016-10-06 19:04:10,120.0
+5b23df7ba1501a2539d0cdae,STRUTS_2_5_11,5b23df7ba1501a2539d0cdac,5b23df3c30a71b06bc01e16a,"[maven-release-plugin] copy for tag STRUTS_2_5_11
+",58c118dc02ca40f8bfb1f2e3,2017-06-22 11:11:24,120.0
+5b23df7ca1501a253bd0d272,STRUTS_2_5_9,5b23df7ca1501a253bd0d270,5b23df3c30a71b06bc01e16a,"[maven-release-plugin] copy for tag STRUTS_2_5_9
+",58c118dc02ca40f8bfb1f2e3,2017-01-17 09:27:18,60.0
+5b23df7fa1501a253bd0d357,STRUTS_2_5_1,5b23df7fa1501a253bd0d355,5b23df3c30a71b06bc01e16a,"[maven-release-plugin] copy for tag STRUTS_2_5_1
+",58c118dc02ca40f8bfb1f2e3,2016-06-14 06:07:40,120.0
+5b23df85a1501a253bd0d5f9,STRUTS_2_5_5,5b23df85a1501a253bd0d5f7,5b23df3c30a71b06bc01e16a,"[maven-release-plugin] copy for tag STRUTS_2_5_5
+",58c118dc02ca40f8bfb1f2e3,2016-10-11 18:40:45,120.0
+5b23df89a1501a253ed0d2e9,STRUTS_2_5_13,5b23df89a1501a253ed0d2e7,5b23df3c30a71b06bc01e16a,"[maven-release-plugin] copy for tag STRUTS_2_5_13
+",58c118dc02ca40f8bfb1f2e3,2017-08-23 11:05:23,120.0
+5b23df8ba1501a253ed0d365,STRUTS_2_5_12,5b23df8ba1501a253ed0d363,5b23df3c30a71b06bc01e16a,"[maven-release-plugin] copy for tag STRUTS_2_5_12
+",58c118dc02ca40f8bfb1f2e3,2017-07-06 07:40:22,120.0
+5b23df8da1501a253ed0d400,STRUTS_2_3_24,5b23df8da1501a253ed0d3fe,5b23df3c30a71b06bc01e16a,"[maven-release-plugin]  copy for tag STRUTS_2_3_24
+",58c118dc02ca40f8bfb1f2e3,2015-05-03 10:08:03,120.0
+5b23df8ea1501a2547d0d9a9,STRUTS_2_3_17,5b23df8ea1501a2547d0d9a7,5b23df3c30a71b06bc01e16a,"[maven-release-plugin]  copy for tag STRUTS_2_3_17
+",58c118dc02ca40f8bfb1f2e3,2014-04-06 12:01:59,120.0
+5b23df95a1501a253ed0d626,STRUTS_2_5,5b23df94a1501a253ed0d624,5b23df3c30a71b06bc01e16a,"[maven-release-plugin] copy for tag STRUTS_2_5
+",58c118dc02ca40f8bfb1f2e3,2016-05-05 13:21:44,120.0
+5b23df98a1501a253ed0d720,STRUTS_2_3_24_1,5b23df98a1501a253ed0d71e,5b23df3c30a71b06bc01e16a,"[maven-release-plugin]  copy for tag STRUTS_2_3_24_1
+",58c118dc02ca40f8bfb1f2e3,2015-09-22 05:49:33,120.0
+5b23df9ea1501a2548d0ee80,STRUTS_2_3_23,5b23df9ea1501a2548d0ee7e,5b23df3c30a71b06bc01e16a,"[maven-release-plugin]  copy for tag STRUTS_2_3_23
+",58c118dc02ca40f8bfb1f2e3,2015-04-07 07:52:37,120.0
+5b23dfa5a1501a2540d0dd82,STRUTS_2_3_19,5b23dfa5a1501a2540d0dd80,5b23df3c30a71b06bc01e16a,"[maven-release-plugin]  copy for tag STRUTS_2_3_19
+",58c118dc02ca40f8bfb1f2e3,2014-11-14 07:31:20,60.0
+5b23dfb5a1501a253cd0f2e0,STRUTS_2_3_16_3,5b23dfb5a1501a253cd0f2de,5b23df3c30a71b06bc01e16a,"[maven-release-plugin]  copy for tag STRUTS_2_3_16_3
+",58c118dc02ca40f8bfb1f2e3,2014-05-02 15:10:49,120.0
+5b23dfc0a1501a2548d1001f,STRUTS_2_3_16_1,5b23dfc0a1501a2548d1001d,5b23df3c30a71b06bc01e16a,"[maven-release-plugin]  copy for tag STRUTS_2_3_16_1
+",58c118dc02ca40f8bfb1f2e3,2014-03-01 20:32:23,60.0
+5b23dfc3a1501a2548d100cc,STRUTS_2_5_6,5b23dfc3a1501a2548d100ca,5b23df3c30a71b06bc01e16a,"[maven-release-plugin] copy for tag STRUTS_2_5_6
+",58c118dc02ca40f8bfb1f2e3,2016-11-28 20:15:50,60.0
+5b23dfdba1501a2546d0ed52,STRUTS_2_3_20,5b23dfdba1501a2546d0ed50,5b23df3c30a71b06bc01e16a,"[maven-release-plugin]  copy for tag STRUTS_2_3_20
+",58c118dc02ca40f8bfb1f2e3,2014-11-21 18:30:14,60.0
+5b23dfe6a1501a2541d0f4fd,STRUTS_2_3_21,5b23dfe6a1501a2541d0f4fb,5b23df3c30a71b06bc01e16a,"[maven-release-plugin]  copy for tag STRUTS_2_3_21
+",58c118dc02ca40f8bfb1f2e3,2014-12-31 13:53:16,60.0
+5b23dfe9a1501a2541d0f5c7,STRUTS_2_3_16_2,5b23dfe9a1501a2541d0f5c5,5b23df3c30a71b06bc01e16a,"[maven-release-plugin]  copy for tag STRUTS_2_3_16_2
+",58c118dc02ca40f8bfb1f2e3,2014-04-24 19:32:43,120.0
+5b23dff0a1501a253bd10ae4,STRUTS_2_3_22,5b23dff0a1501a253bd10ae2,5b23df3c30a71b06bc01e16a,"[maven-release-plugin]  copy for tag STRUTS_2_3_22
+",58c118dc02ca40f8bfb1f2e3,2015-03-19 06:11:22,60.0
+5b23dff0a1501a2546d0f6b5,STRUTS_2_3_20_1,5b23dff0a1501a2546d0f6b3,5b23df3c30a71b06bc01e16a,"[maven-release-plugin]  copy for tag STRUTS_2_3_20_1
+",58c118dc02ca40f8bfb1f2e3,2015-05-06 05:59:06,120.0
+5b23e008a1501a253bd1139d,STRUTS_2_2_1,5b23e008a1501a253bd1139b,5b23df3c30a71b06bc01e16a,"STRUTS_2_2_1
+",5b23dfe1a1501a253dd0f235,2010-11-22 20:01:57,0.0
+5b23e013a1501a2542d110a4,STRUTS_2_3_6,5b23e013a1501a2542d110a2,5b23df3c30a71b06bc01e16a,"STRUTS_2_3_6
+",58c118dc02ca40f8bfb1f2e3,2012-10-22 19:35:29,0.0
+5b23e021a1501a2545d10a2a,STRUTS_2_3_27,5b23e021a1501a2545d10a28,5b23df3c30a71b06bc01e16a,"[maven-release-plugin]  copy for tag STRUTS_2_3_27
+",58c118dc02ca40f8bfb1f2e3,2016-03-18 07:54:38,60.0
+5b23e026a1501a2540d10f55,STRUTS_2_3_28_1,5b23e026a1501a2540d10f53,5b23df3c30a71b06bc01e16a,"[maven-release-plugin]  copy for tag STRUTS_2_3_28_1
+",58c118dc02ca40f8bfb1f2e3,2016-04-19 12:44:35,120.0
+5b23e027a1501a2541d10e35,STRUTS_2_1_4,5b23e027a1501a2541d10e33,5b23df3c30a71b06bc01e16a,"STRUTS_2_1_4
+",5b23df96a1501a2544d0e29e,2008-12-29 18:56:40,0.0
+5b23e02fa1501a253ad11bf5,STRUTS_2_3_11,5b23e02fa1501a253ad11bf3,5b23df3c30a71b06bc01e16a,"STRUTS_2_3_11
+",58c118dc02ca40f8bfb1f2e3,2013-02-28 06:34:01,0.0
+5b23e037a1501a2542d11b6e,STRUTS_2_3_14_1,5b23e037a1501a2542d11b6c,5b23df3c30a71b06bc01e16a,"STRUTS_2_3_14_1
+",58c1136002ca40f8bfb1e41c,2013-04-18 18:05:47,0.0
+5b23e03da1501a253ad12168,STRUTS_2_2_3_1,5b23e03da1501a253ad12166,5b23df3c30a71b06bc01e16a,"STRUTS_2_2_3_1
+",58c1136002ca40f8bfb1e41c,2011-09-07 10:47:31,0.0
+5b23e03da1501a2543d12a8f,STRUTS_2_0_9,5b23e03da1501a2543d12a8d,5b23df3c30a71b06bc01e16a,"STRUTS_2_0_9
+",5b23dfdea1501a2541d0f1de,2007-07-23 17:24:17,0.0
+5b23e045a1501a2545d1131a,STRUTS_2_3_14,5b23e045a1501a2545d11318,5b23df3c30a71b06bc01e16a,"STRUTS_2_3_14
+",58c118dc02ca40f8bfb1f2e3,2013-03-28 20:51:33,0.0
+5b23e048a1501a253ad12777,STRUTS_2_3_24_2,5b23e048a1501a253ad12775,5b23df3c30a71b06bc01e16a,"[maven-release-plugin]  copy for tag STRUTS_2_3_24_2
+",58c118dc02ca40f8bfb1f2e3,2016-04-19 09:24:27,120.0
+5b23e04aa1501a253cd12188,STRUTS_2_0_12,5b23e04aa1501a253cd12186,5b23df3c30a71b06bc01e16a,"STRUTS_2_0_12
+",5b23dfa7a1501a2544d0e922,2008-10-16 00:41:59,0.0
+5b23e04da1501a2548d14185,STRUTS_2_0_14,5b23e04da1501a2548d14183,5b23df3c30a71b06bc01e16a,"STRUTS_2_0_14
+",5b23dfa7a1501a2544d0e922,2008-11-16 23:58:17,0.0
+5b23e04da1501a2547d12294,STRUTS_2_1_0,5b23e04da1501a2547d12292,5b23df3c30a71b06bc01e16a,"STRUTS_2_1_0
+",5b23dfdea1501a2541d0f1de,2007-10-29 01:12:30,0.0
+5b23e04da1501a2545d115ba,STRUTS_2_3_15,5b23e04da1501a2545d115b8,5b23df3c30a71b06bc01e16a,"STRUTS_2_3_15
+",5b23dfa7a1501a2544d0e922,2013-07-05 13:36:12,0.0
+5b23e052a1501a253cd12446,STRUTS_2_3_33,5b23e052a1501a253cd12444,5b23df3c30a71b06bc01e16a,"[maven-release-plugin]  copy for tag STRUTS_2_3_33
+",58c118dc02ca40f8bfb1f2e3,2017-07-07 12:47:20,120.0
+5b23e054a1501a253ad12bdf,STRUTS_2_3_32,5b23e054a1501a253ad12bdd,5b23df3c30a71b06bc01e16a,"[maven-release-plugin]  copy for tag STRUTS_2_3_32
+",58c118dc02ca40f8bfb1f2e3,2017-03-06 11:03:13,60.0
+5b23e058a1501a2540d11c7c,STRUTS_2_3_30,5b23e058a1501a2540d11c7a,5b23df3c30a71b06bc01e16a,"[maven-release-plugin]  copy for tag STRUTS_2_3_30
+",58c118dc02ca40f8bfb1f2e3,2016-07-07 06:32:08,120.0
+5b23e064a1501a2541d1240d,STRUTS_2_3_25,5b23e064a1501a2541d1240b,5b23df3c30a71b06bc01e16a,"[maven-release-plugin]  copy for tag STRUTS_2_3_25
+",58c118dc02ca40f8bfb1f2e3,2016-03-11 15:02:50,60.0
+5b23e069a1501a2546d12be2,STRUTS_2_1_7,5b23e069a1501a2546d12be0,5b23df3c30a71b06bc01e16a,"STRUTS_2_1_7
+",5b23dfe1a1501a253dd0f235,2009-06-18 18:08:29,0.0
+5b23e069a1501a253fd12b75,STRUTS_2_3_10,5b23e069a1501a253fd12b73,5b23df3c30a71b06bc01e16a,"STRUTS_2_3_10
+",58c118dc02ca40f8bfb1f2e3,2013-02-07 07:53:50,0.0
+5b23e072a1501a2546d12f49,STRUTS_2_3_31,5b23e072a1501a2546d12f47,5b23df3c30a71b06bc01e16a,"[maven-release-plugin]  copy for tag STRUTS_2_3_31
+",58c118dc02ca40f8bfb1f2e3,2016-10-05 06:53:29,120.0
+5b23e074a1501a2540d129cd,STRUTS_2_3_2,5b23e074a1501a2540d129cb,5b23df3c30a71b06bc01e16a,"STRUTS_2_3_2
+",58c118dc02ca40f8bfb1f2e3,2012-04-07 19:27:57,0.0
+5b23e074a1501a2540d129d2,STRUTS_2_3_16,5b23e074a1501a2540d129d0,5b23df3c30a71b06bc01e16a,"STRUTS_2_3_16
+",58c118dc02ca40f8bfb1f2e3,2013-11-30 10:27:46,0.0
+5b23e074a1501a253ad13690,STRUTS_2_0_11_1,5b23e074a1501a253ad1368e,5b23df3c30a71b06bc01e16a,"STRUTS_2_0_11_1
+",5b23dfa7a1501a2544d0e922,2008-03-02 14:31:04,0.0
+5b23e074a1501a2540d129d7,STRUTS_2_3_24_3,5b23e074a1501a2540d129d5,5b23df3c30a71b06bc01e16a,"[maven-release-plugin]  copy for tag STRUTS_2_3_24_3
+",58c118dc02ca40f8bfb1f2e3,2016-04-20 12:03:26,120.0
+5b23e076a1501a253fd130dc,STRUTS_2_1_3,5b23e076a1501a253fd130da,5b23df3c30a71b06bc01e16a,"STRUTS_2_1_3
+",5b23df96a1501a2544d0e29e,2008-12-25 06:41:44,0.0
+5b23e077a1501a2540d12ac8,STRUTS_2_3_29,5b23e077a1501a2540d12ac6,5b23df3c30a71b06bc01e16a,"[maven-release-plugin]  copy for tag STRUTS_2_3_29
+",58c118dc02ca40f8bfb1f2e3,2016-06-14 05:11:04,120.0
+5b23e077a1501a2546d130b2,STRUTS_2_3_26,5b23e077a1501a2546d130b0,5b23df3c30a71b06bc01e16a,"[maven-release-plugin]  copy for tag STRUTS_2_3_26
+",58c118dc02ca40f8bfb1f2e3,2016-03-14 10:39:05,60.0
+5b23e079a1501a2547d13242,STRUTS_2_0_6,5b23e079a1501a2547d13240,5b23df3c30a71b06bc01e16a,"STRUTS_2_0_6
+",5b23dfdea1501a2541d0f1de,2007-02-19 01:56:17,0.0
+5b23e07aa1501a2546d1315d,STRUTS_2_3_7,5b23e07aa1501a2546d1315b,5b23df3c30a71b06bc01e16a,"STRUTS_2_3_7
+",58c118dc02ca40f8bfb1f2e3,2012-11-06 07:05:44,0.0
+5b23e07aa1501a2546d13162,STRUTS_2_3_8,5b23e07aa1501a2546d13160,5b23df3c30a71b06bc01e16a,"STRUTS_2_3_8
+",58c118dc02ca40f8bfb1f2e3,2012-12-16 11:45:13,0.0
+5b23e07aa1501a2546d13167,STRUTS_2_0_10,5b23e07aa1501a2546d13165,5b23df3c30a71b06bc01e16a,"STRUTS_2_0_10
+",5b23dfdea1501a2541d0f1de,2007-09-12 23:36:53,0.0
+5b23e07aa1501a2546d13186,STRUTS_2_3_1_1,5b23e07aa1501a2546d13184,5b23df3c30a71b06bc01e16a,"STRUTS_2_3_1_1
+",58c118dc02ca40f8bfb1f2e3,2011-12-24 22:32:10,0.0
+5b23e07fa1501a253ed1250d,STRUTS_2_1_8,5b23e07fa1501a253ed1250b,5b23df3c30a71b06bc01e16a,"STRUTS_2_1_8
+",5b23df96a1501a2544d0e29e,2009-09-23 00:38:47,0.0
+5b23e080a1501a2542d141a1,STRUTS_2_0_8,5b23e080a1501a2542d1419f,5b23df3c30a71b06bc01e16a,"STRUTS_2_0_8
+",5b23df96a1501a2544d0e294,2007-06-06 16:07:32,0.0
+5b23e080a1501a253ad13a4f,STRUTS_2_1_8_1,5b23e080a1501a253ad13a4d,5b23df3c30a71b06bc01e16a,"STRUTS_2_1_8_1
+",5b23dfe1a1501a253dd0f235,2009-10-02 19:46:07,0.0
+5b23e081a1501a2541d12f09,STRUTS_2_3_15_3,5b23e081a1501a2541d12f07,5b23df3c30a71b06bc01e16a,"STRUTS_2_3_15_3
+",58c118dc02ca40f8bfb1f2e3,2013-10-15 18:58:03,0.0
+5b23e085a1501a253ed12713,STRUTS_2_1_1,5b23e085a1501a253ed12711,5b23df3c30a71b06bc01e16a,"STRUTS_2_1_1
+",5b23df95a1501a2546d0daf1,2008-04-17 13:24:25,0.0
+5b23e086a1501a2541d130a1,STRUTS_2_0_11,5b23e086a1501a2541d1309f,5b23df3c30a71b06bc01e16a,"STRUTS_2_0_11
+",5b23dfdea1501a2541d0f1de,2007-09-22 00:01:43,0.0
+5b23e08ea1501a253ed12812,STRUTS_2_3_14_2,5b23e08ea1501a253ed12810,5b23df3c30a71b06bc01e16a,"STRUTS_2_3_14_2
+",58c118dc02ca40f8bfb1f2e3,2013-06-03 07:22:11,0.0
+5b23e08ea1501a2542d1440c,STRUTS_2_3_3,5b23e08ea1501a2542d1440a,5b23df3c30a71b06bc01e16a,"STRUTS_2_3_3
+",58c118dc02ca40f8bfb1f2e3,2012-04-16 04:34:27,0.0
+5b23e090a1501a2547d13858,STRUTS_2_0_0,5b23e090a1501a2547d13856,5b23df3c30a71b06bc01e16a,"STRUTS_2_0_0
+",5b23dfdea1501a2541d0f1de,2006-09-24 17:18:08,0.0
+5b23e09ba1501a2544d1503e,STRUTS_2_0_X,5b23e09ba1501a2544d1503c,5b23df3c30a71b06bc01e16a,"STRUTS_2_0_X
+",5b23dfa7a1501a2544d0e922,2008-11-16 23:55:15,0.0
+5b23e09ca1501a253dd15219,STRUTS_2_3_1_2,5b23e09ca1501a253dd15217,5b23df3c30a71b06bc01e16a,"STRUTS_2_3_1_2
+",58c1136002ca40f8bfb1e41c,2012-01-19 20:13:42,0.0
+5b23e0a8a1501a2542d14d8a,STRUTS_2_3_13,5b23e0a8a1501a2542d14d88,5b23df3c30a71b06bc01e16a,"STRUTS_2_3_13
+",58c118dc02ca40f8bfb1f2e3,2013-03-24 09:58:04,0.0
+5b23e0a8a1501a253fd13fa4,STRUTS_2_3_5,5b23e0a8a1501a253fd13fa2,5b23df3c30a71b06bc01e16a,"STRUTS_2_3_5
+",58c118dc02ca40f8bfb1f2e3,2012-10-05 13:29:13,0.0
+5b23e0aca1501a253fd140f1,STRUTS_2_3_20_3,5b23e0aca1501a253fd140ef,5b23df3c30a71b06bc01e16a,"[maven-release-plugin]  copy for tag STRUTS_2_3_20_3
+",58c118dc02ca40f8bfb1f2e3,2016-04-20 10:47:55,120.0
+5b23e0afa1501a2539d15525,STRUTS_2_3_20_2,5b23e0afa1501a2539d15523,5b23df3c30a71b06bc01e16a,"[maven-release-plugin]  copy for tag STRUTS_2_3_20_2
+",58c118dc02ca40f8bfb1f2e3,2016-04-19 06:32:46,120.0
+5b23e0baa1501a2544d1632a,STRUTS_2_1_5,5b23e0baa1501a2544d16328,5b23df3c30a71b06bc01e16a,"STRUTS_2_1_5
+",5b23df96a1501a2544d0e29e,2009-01-02 16:28:13,0.0
+5b23e0baa1501a2541d1425e,STRUTS_2_3_34,5b23e0baa1501a2541d1425c,5b23df3c30a71b06bc01e16a,"[maven-release-plugin]  copy for tag STRUTS_2_3_34
+",58c118dc02ca40f8bfb1f2e3,2017-09-05 18:37:30,120.0
+5b23e0c1a1501a2543d153f5,STRUTS_2_3_28,5b23e0c1a1501a2543d153f3,5b23df3c30a71b06bc01e16a,"[maven-release-plugin]  copy for tag STRUTS_2_3_28
+",58c118dc02ca40f8bfb1f2e3,2016-03-18 19:50:47,60.0
+5b23e0c1a1501a253dd15caa,STRUTS_2_0_7,5b23e0c1a1501a253dd15ca8,5b23df3c30a71b06bc01e16a,"STRUTS_2_0_7
+",5b23dfdea1501a2541d0f1de,2007-03-20 14:01:59,0.0
+5b23e0d0a1501a2539d162f4,STRUTS_2_0_11_2,5b23e0d0a1501a2539d162f2,5b23df3c30a71b06bc01e16a,"STRUTS_2_0_11_2
+",5b23dfa7a1501a2544d0e922,2008-06-22 17:10:35,0.0
+5b23e0d1a1501a2539d16353,STRUTS_2_0_4,5b23e0d1a1501a2539d16351,5b23df3c30a71b06bc01e16a,"STRUTS_2_0_4
+",5b23dfdea1501a2541d0f1de,2007-01-29 03:40:41,0.0
+5b23e0d6a1501a2543d15b58,STRUTS_2_0_5,5b23e0d6a1501a2543d15b56,5b23df3c30a71b06bc01e16a,"STRUTS_2_0_5
+",5b23dfdea1501a2541d0f1de,2007-02-05 15:33:40,0.0
+5b23e0d7a1501a2548d1685b,STRUTS_2_3_9,5b23e0d7a1501a2548d16859,5b23df3c30a71b06bc01e16a,"STRUTS_2_3_9
+",58c118dc02ca40f8bfb1f2e3,2013-02-04 07:11:36,0.0
+5b23e0dba1501a2548d1698e,STRUTS_2_0_13,5b23e0dba1501a2548d1698c,5b23df3c30a71b06bc01e16a,"STRUTS_2_0_13
+",5b23dfa7a1501a2544d0e922,2008-10-27 22:40:57,0.0
+5b23e0dba1501a2548d16993,STRUTS_2_3_4_1,5b23e0dba1501a2548d16991,5b23df3c30a71b06bc01e16a,"STRUTS_2_3_4_1
+",5b23dfa7a1501a2544d0e922,2012-08-03 13:54:15,0.0
+5b23e0dda1501a2542d161ce,STRUTS_2_0_3,5b23e0dda1501a2542d161cc,5b23df3c30a71b06bc01e16a,"STRUTS_2_0_3
+",5b23dfdea1501a2541d0f1de,2007-01-20 03:43:59,0.0
+5b23e0dda1501a2547d151c5,STRUTS_2_1_2,5b23e0dda1501a2547d151c3,5b23df3c30a71b06bc01e16a,"STRUTS_2_1_2
+",5b23df95a1501a2546d0daf1,2008-05-02 04:51:02,0.0
+5b23e0dda1501a2542d16209,STRUTS_2_2_1_1,5b23e0dda1501a2542d16207,5b23df3c30a71b06bc01e16a,"STRUTS_2_2_1_1
+",58c118dc02ca40f8bfb1f2e3,2010-12-14 06:58:58,0.0
+5b23e0dda1501a2542d16214,STRUTS_2_1_6,5b23e0dda1501a2542d16212,5b23df3c30a71b06bc01e16a,"STRUTS_2_1_6
+",5b23df96a1501a2544d0e29e,2009-01-05 19:57:18,0.0
+5b23e0e0a1501a2540d15087,STRUTS_2_5_10_1,5b23e0e0a1501a2540d15085,5b23df3c30a71b06bc01e16a,"[maven-release-plugin] copy for tag STRUTS_2_5_10_1
+",58c118dc02ca40f8bfb1f2e3,2017-03-06 10:26:52,60.0
+5b23e0e1a1501a2547d15325,STRUTS_2_3_12,5b23e0e1a1501a2547d15323,5b23df3c30a71b06bc01e16a,"STRUTS_2_3_12
+",58c118dc02ca40f8bfb1f2e3,2013-03-06 10:44:26,0.0
+5b23e0e1a1501a2547d1532a,STRUTS_2_3_4,5b23e0e1a1501a2547d15328,5b23df3c30a71b06bc01e16a,"STRUTS_2_3_4
+",5b23dfa7a1501a2544d0e922,2012-08-03 11:15:11,0.0
+5b23e0e1a1501a2540d150f9,STRUTS_2_2_0,5b23e0e1a1501a2540d150f7,5b23df3c30a71b06bc01e16a,"STRUTS_2_2_0
+",58c118dc02ca40f8bfb1f2e3,2010-06-29 04:54:59,0.0
+5b23e0e2a1501a2542d1639e,STRUTS_2_3_15_1,5b23e0e2a1501a2542d1639c,5b23df3c30a71b06bc01e16a,"STRUTS_2_3_15_1
+",58c118dc02ca40f8bfb1f2e3,2013-09-17 06:50:03,0.0
+5b23e0e2a1501a2548d16c2f,STRUTS_2_2_3,5b23e0e2a1501a2548d16c2d,5b23df3c30a71b06bc01e16a,"STRUTS_2_2_3
+",58c118dc02ca40f8bfb1f2e3,2011-05-07 09:45:45,0.0
+5b23e0e3a1501a2548d16c3a,STRUTS_2_3_1,5b23e0e3a1501a2548d16c38,5b23df3c30a71b06bc01e16a,"STRUTS_2_3_1
+",58c118dc02ca40f8bfb1f2e3,2011-12-08 21:07:36,0.0
+5b23e0e4a1501a2542d16476,STRUTS_2_0_1,5b23e0e4a1501a2542d16474,5b23df3c30a71b06bc01e16a,"STRUTS_2_0_1
+",5b23df95a1501a2546d0daf1,2006-10-10 22:03:04,0.0
+5b23e0e4a1501a2547d15444,STRUTS_2_0_2,5b23e0e4a1501a2547d15442,5b23df3c30a71b06bc01e16a,"STRUTS_2_0_2
+",5b23dfdea1501a2541d0f1de,2006-12-31 16:12:20,0.0
+5b23e0e4a1501a2547d15449,STRUTS_2_3_14_3,5b23e0e4a1501a2547d15447,5b23df3c30a71b06bc01e16a,"STRUTS_2_3_14_3
+",58c118dc02ca40f8bfb1f2e3,2013-06-03 09:17:28,0.0
+5b23e0eda1501a253ad158bb,STRUTS_2_2_2,5b23e0eda1501a253ad158b9,5b23df3c30a71b06bc01e16a,"STRUTS_2_2_2
+",58c118dc02ca40f8bfb1f2e3,2011-03-26 12:06:00,0.0
+5b23e0eda1501a253ad158c0,STRUTS_2_3_15_2,5b23e0eda1501a253ad158be,5b23df3c30a71b06bc01e16a,"STRUTS_2_3_15_2
+",58c118dc02ca40f8bfb1f2e3,2013-10-03 05:44:07,0.0
+5b76beae272f7b723c064eee,release-0.5.0,5b76beae272f7b723c064eec,5b76bead30a71b06bcadc156,"Tez 0.5.0
+",5b114a3a328aa9d531890bd1,2014-09-03 21:03:58,-420.0
+5b76bec1272f7b7234065b64,release-0.5.4,5b76bec1272f7b7234065b62,5b76bead30a71b06bcadc156,"Tez 0.5.4
+",5b76bead272f7b722f064ee7,2015-06-29 21:39:58,-420.0
+5b76bec1272f7b72360659e7,release-0.4.0-incubating,5b76bec1272f7b72360659e3,5b76bead30a71b06bcadc156,"Tez 0.4.0-incubating
+",5b76bead272f7b7232064ee7,2014-04-06 06:14:55,-420.0
+5b76bec3272f7b7233065ac2,release-0.5.2,5b76bec3272f7b7233065ac0,5b76bead30a71b06bcadc156,"Tez 0.5.2
+",5b114a3a328aa9d531890bd1,2014-11-08 18:43:45,-480.0
+5b76bec7272f7b7230065e3d,release-0.3.0-incubating,5b76bec7272f7b7230065e39,5b76bead30a71b06bcadc156,"Tez 0.3.0-incubating Release
+",5b76bead272f7b722f064ee7,2014-03-01 04:04:09,-480.0
+5b76bec9272f7b723b065c2d,release-0.7.1,5b76bec9272f7b723b065c29,5b76bead30a71b06bcadc156,"Tez 0.7.1
+",5b76bead272f7b722f064ee7,2016-05-11 04:02:54,-420.0
+5b76bed6272f7b7238066995,release-0.9.1,5b76bed6272f7b7238066993,5b76bead30a71b06bcadc156,"Tez 0.9.1
+",5b76bebe272f7b722f0658f6,2018-01-04 22:09:11,-480.0
+5b76bed6272f7b722a0668ed,release-0.6.2,5b76bed6272f7b722a0668eb,5b76bead30a71b06bcadc156,"Tez 0.6.2
+",5b76bebd272f7b723b065648,2015-08-10 18:15:53,-300.0
+5b76beda272f7b7230066d00,release-0.6.0,5b76beda272f7b7230066cfc,5b76bead30a71b06bcadc156,"Tez 0.6.0
+",5b76bead272f7b7234064ee7,2015-01-24 00:33:16,-360.0
+5b76bedd272f7b722a066df0,release-0.6.1,5b76bedd272f7b722a066dee,5b76bead30a71b06bcadc156,"Tez 0.6.1
+",5b76bebd272f7b723b065648,2015-05-19 18:20:06,-300.0
+5b76bedd272f7b722d066c20,release-0.9.0,5b76bedd272f7b722d066c1e,5b76bead30a71b06bcadc156,"Tez 0.9.0
+",5b76bebe272f7b722f0658f6,2017-07-24 21:02:55,-420.0
+5b76bedf272f7b722d066d23,release-0.5.1,5b76bedf272f7b722d066d21,5b76bead30a71b06bcadc156,"Tez 0.5.1
+",5b114a3a328aa9d531890bd1,2014-10-02 21:32:42,-420.0
+5b76bee0272f7b72300670ce,release-0.5.3,5b76bee0272f7b72300670ca,5b76bead30a71b06bcadc156,"Tez 0.5.3
+",5b114a3a328aa9d531890bd1,2014-12-16 02:07:15,-480.0
+5b76bee0272f7b723d066f27,release-0.8.5,5b76bee0272f7b723d066f23,5b76bead30a71b06bcadc156,"Apache Tez 0.8.5
+",5b76bead272f7b7232064ee7,2017-03-14 02:13:50,-420.0
+5b76bee1272f7b723b066b49,release-0.4.1-incubating,5b76bee1272f7b723b066b45,5b76bead30a71b06bcadc156,"Tez 0.4.1
+",5b76bead272f7b7232064ee7,2014-07-14 19:39:02,-420.0
+5b76bee1272f7b723406718e,release-0.8.2,5b76bee1272f7b723406718a,5b76bead30a71b06bcadc156,"Tez-0.8.2
+",5b76bead272f7b7232064ee7,2016-01-19 22:49:43,-480.0
+5b76bee1272f7b722b06708f,release-0.7.0,5b76bee1272f7b722b06708b,5b76bead30a71b06bcadc156,"Tez 0.7.0
+",59e4f10cf2a4565fe9c550f2,2015-05-19 07:17:46,480.0
+5b76bee1272f7b722c066f82,release-0.8.4,5b76bee1272f7b722c066f80,5b76bead30a71b06bcadc156,"Apache Tez 0.8.4
+",5b76bead272f7b7232064ee7,2016-07-09 18:20:03,-420.0
+5b76bee2272f7b723a066d8d,release-0.8.3,5b76bee1272f7b723a066d89,5b76bead30a71b06bcadc156,"Tez 0.8.3
+",5b76bead272f7b7232064ee7,2016-04-16 02:47:25,-420.0
+5b7ffe9558a6d70302e2fa7d,v0.9.4,5b7ffe9558a6d70302e2fa7b,5b7ffe9530a71b06bc70c038,"[maven-release-plugin]  copy for tag v0.9.4
+",5b7ffe9558a6d702fae2fa7c,2015-03-18 18:14:01,-240.0
+5b7ffe9558a6d70308e2fa7d,v0.9.3,5b7ffe9558a6d70308e2fa7b,5b7ffe9530a71b06bc70c038,"[maven-release-plugin]  copy for tag v0.9.3
+",5b7ffe9558a6d702fae2fa7c,2014-11-19 03:06:49,-300.0
+5b7ffe9b58a6d7030de2fae9,v0.9.2-incubating,5b7ffe9b58a6d7030de2fae7,5b7ffe9530a71b06bc70c038,"[maven-release-plugin]  copy for tag v0.9.2-incubating
+",5b7ffe9558a6d702fae2fa7c,2014-06-13 20:21:57,-240.0
+5b7fff1f58a6d7030ae304c4,v0.9.1-incubating,5b7fff1f58a6d7030ae304c2,5b7ffe9530a71b06bc70c038,"[maven-release-plugin]  copy for tag v0.9.1-incubating
+",5b7ffe9558a6d702fae2fa7c,2014-02-10 03:45:25,-300.0
+5b7fffa558a6d702fae3208c,v1.1.2,5b7fffa558a6d702fae3208a,5b7ffe9530a71b06bc70c038,"[maven-release-plugin]  copy for tag v1.1.2
+",5b7ffe9558a6d702fae2fa7c,2018-02-08 16:57:51,-300.0
+5b7fffad58a6d70319e31dc1,v1.1.0,5b7fffad58a6d70319e31dbf,5b7ffe9530a71b06bc70c038,"[maven-release-plugin]  copy for tag v1.1.0
+",5b7ffe9558a6d702fae2fa7c,2017-03-21 16:56:03,-240.0
+5b7fffb458a6d702fae32287,v1.1.3,5b7fffb458a6d702fae32285,5b7ffe9530a71b06bc70c038,"[maven-release-plugin]  copy for tag v1.1.3
+",5b7ffe9558a6d702fae2fa7c,2018-05-17 20:23:41,-240.0
+5b7fffea58a6d70317e31b2f,v1.0.1,5b7fffea58a6d70317e31b2d,5b7ffe9530a71b06bc70c038,"[maven-release-plugin]  copy for tag v1.0.1
+",5b7ffe9558a6d702fae2fa7c,2016-04-29 20:37:08,-240.0
+5b80002e58a6d702fde32663,v1.1.1,5b80002e58a6d702fde32661,5b7ffe9530a71b06bc70c038,"[maven-release-plugin]  copy for tag v1.1.1
+",5b7ffe9558a6d702fae2fa7c,2017-07-27 17:17:08,-240.0
+5b8001ca58a6d7031ee32c60,v1.0.0,5b8001c958a6d7031ee32c5e,5b7ffe9530a71b06bc70c038,"[maven-release-plugin]  copy for tag v1.0.0
+",5b7ffe9558a6d702fae2fa7c,2016-04-05 17:12:09,-240.0
+5b8005c758a6d70317e374f5,v1.2.0,5b8005c658a6d70317e374f3,5b7ffe9530a71b06bc70c038,"[maven-release-plugin]  copy for tag v1.2.0
+",5b7ffe9558a6d702fae2fa7c,2018-02-07 21:23:43,-300.0
+5b8007aa58a6d702fde36f7d,v1.2.2,5b8007a958a6d702fde36f7b,5b7ffe9530a71b06bc70c038,"[maven-release-plugin]  copy for tag v1.2.2
+",5b7ffe9558a6d702fae2fa7c,2018-05-17 19:02:01,-240.0
+5b80080258a6d70312e39138,v0.9.1.0-incubating,5b80080258a6d70312e39136,5b7ffe9530a71b06bc70c038,"[maven-release-plugin]  copy for tag v0.9.1.0-incubating
+",5b7ffe9558a6d702fae2fa7c,2014-05-02 15:35:01,-240.0
+5b80085b58a6d70316e3ae09,v1.2.1,5b80085b58a6d70316e3ae07,5b7ffe9530a71b06bc70c038,"[maven-release-plugin]  copy for tag v1.2.1
+",5b7ffe9558a6d702fae2fa7c,2018-02-16 20:19:46,-300.0
+5b80089e58a6d70305e3bc91,v0.9.6,5b80089e58a6d70305e3bc8f,5b7ffe9530a71b06bc70c038,"[maven-release-plugin]  copy for tag v0.9.6
+",5b7ffe9558a6d702fae2fa7c,2015-10-28 20:31:23,-240.0
+5b8008df58a6d70318e3a925,v0.9.7,5b8008de58a6d70318e3a923,5b7ffe9530a71b06bc70c038,"[maven-release-plugin]  copy for tag v0.9.7
+",5b7ffe9558a6d702fae2fa7c,2016-08-15 18:38:11,-240.0
+5b800aa458a6d702fde39ed6,v1.0.2,5b800aa458a6d702fde39ed4,5b7ffe9530a71b06bc70c038,"[maven-release-plugin]  copy for tag v1.0.2
+",5b7ffe9558a6d702fae2fa7c,2016-07-26 19:10:12,-240.0
+5b800aec58a6d7030ee3bf33,v1.0.3,5b800aeb58a6d7030ee3bf31,5b7ffe9530a71b06bc70c038,"[maven-release-plugin]  copy for tag v1.0.3
+",5b7ffe9558a6d702fae2fa7c,2017-02-07 18:51:28,-300.0
+5b800b3558a6d702fde3a7b4,v0.9.5,5b800b3558a6d702fde3a7b2,5b7ffe9530a71b06bc70c038,"[maven-release-plugin]  copy for tag v0.9.5
+",5b7ffe9558a6d702fae2fa7c,2015-05-29 14:50:35,-240.0
+5b800b4758a6d70315e42884,v1.0.7,5b800b4758a6d70315e42882,5b7ffe9530a71b06bc70c038,"[maven-release-plugin]  copy for tag v1.0.7
+",5b7ffe9558a6d702fae2fa7c,2018-05-03 17:40:20,-240.0
+5b800bb758a6d70319e3da87,v1.0.4,5b800bb758a6d70319e3da85,5b7ffe9530a71b06bc70c038,"[maven-release-plugin]  copy for tag v1.0.4
+",5b7ffe9558a6d702fae2fa7c,2017-07-24 17:11:24,-240.0
+5b800be758a6d70315e43202,v1.0.6,5b800be758a6d70315e43200,5b7ffe9530a71b06bc70c038,"[maven-release-plugin]  copy for tag v1.0.6
+",5b7ffe9558a6d702fae2fa7c,2018-02-08 18:34:52,-300.0
+5b80153658a6d7031ee4104a,v1.0.5,5b80153558a6d7031ee41048,5b7ffe9530a71b06bc70c038,"[maven-release-plugin]  copy for tag v1.0.5
+",5b7ffe9558a6d702fae2fa7c,2017-09-05 20:24:02,-240.0
+5b80157f58a6d70304e469ac,v0.10.1,5b80157e58a6d70304e469aa,5b7ffe9530a71b06bc70c038,"[maven-release-plugin]  copy for tag v0.10.1
+",5b7ffe9558a6d702fae2fa7c,2016-04-27 17:54:09,-240.0
+5b80162c58a6d702fae4479c,v0.10.2,5b80162b58a6d702fae4479a,5b7ffe9530a71b06bc70c038,"[maven-release-plugin]  copy for tag v0.10.2
+",5b7ffe9558a6d702fae2fa7c,2016-09-02 19:13:24,-240.0
+5b80172f58a6d70308e46de7,v0.10.0,5b80172e58a6d70308e46de5,5b7ffe9530a71b06bc70c038,"[maven-release-plugin]  copy for tag v0.10.0
+",5b7ffe9558a6d702fae2fa7c,2015-10-23 19:06:05,-240.0
+5bc5ded00104764b575e7c27,1.2.0,5bc5ded00104764b575e7c25,5bc5d34957674ee16701b68a,"1.2.0
+",5bc5d4c10104764b5c5e5bd5,2018-06-26 17:00:50,0.0
+5bc5ded10104764b585e7da8,1.8.1,5bc5ded00104764b585e7da6,5bc5d34957674ee16701b68a,"1.8.1
+",5bc5d4c10104764b5c5e5bd5,2018-06-26 16:55:22,0.0
+5bc5ded10104764b565e7d70,1.8.12,5bc5ded00104764b565e7d6e,5bc5d34957674ee16701b68a,"1.8.12
+",5bc5d4c10104764b5c5e5bd5,2018-06-26 16:55:22,0.0
+5bc5ded10104764b5e5e7a84,1.8.4,5bc5ded10104764b5e5e7a82,5bc5d34957674ee16701b68a,"1.8.4
+",5bc5d4c10104764b5c5e5bd5,2018-06-26 16:55:22,0.0
+5bc5ded20104764b605e7da8,2.0.2,5bc5ded10104764b605e7da6,5bc5d34957674ee16701b68a,"2.0.2
+",5bc5d4c10104764b5c5e5bd5,2018-06-26 16:52:03,0.0
+5bc5ded30104764b615e7cf5,1.7.1,5bc5ded10104764b615e7cf3,5bc5d34957674ee16701b68a,"1.7.1
+",5bc5d4c10104764b5c5e5bd5,2018-06-26 16:57:37,0.0
+5bc5ded30104764b525e7b42,1.8.13,5bc5ded10104764b525e7b40,5bc5d34957674ee16701b68a,"1.8.13
+",5bc5d4c10104764b5c5e5bd5,2018-06-26 16:55:22,0.0
+5bc5ded30104764b565e7d75,1.8.11,5bc5ded20104764b565e7d73,5bc5d34957674ee16701b68a,"1.8.11
+",5bc5d4c10104764b5c5e5bd5,2018-06-26 16:55:22,0.0
+5bc5ded60104764b605e7dad,2.0.7,5bc5ded40104764b605e7dab,5bc5d34957674ee16701b68a,"2.0.7
+",5bc5d4c10104764b5c5e5bd5,2018-06-26 16:52:03,0.0
+5bc5ded90104764b5f5e7df3,1.8.7,5bc5ded50104764b5f5e7df1,5bc5d34957674ee16701b68a,"1.8.7
+",5bc5d4c10104764b5c5e5bd5,2018-06-26 16:55:22,0.0
+5bc5ded90104764b615e7cfa,1.4.0,5bc5ded60104764b615e7cf8,5bc5d34957674ee16701b68a,"1.4.0
+",5bc5d4c10104764b5c5e5bd5,2018-06-26 16:57:37,0.0
+5bc5deda0104764b565e7d7a,2.0.10,5bc5ded70104764b565e7d78,5bc5d34957674ee16701b68a,"2.0.10
+",5bc5d4c10104764b5c5e5bd5,2018-06-18 19:08:34,0.0
+5bc5dedb0104764b505e7afe,2.0.12,5bc5ded70104764b505e7afc,5bc5d34957674ee16701b68a,"2.0.12
+",5bc5d4c10104764b5c5e5bd5,2018-10-01 18:05:20,0.0
+5bc5dedb0104764b585e7db3,2.0.11,5bc5ded90104764b585e7db1,5bc5d34957674ee16701b68a,"2.0.11
+",5bc5d4c10104764b5c5e5bd5,2018-06-25 18:22:48,0.0
+5bc5dedc0104764b525e7b4a,2.0.1,5bc5dedb0104764b525e7b48,5bc5d34957674ee16701b68a,"2.0.1
+",5bc5d4c10104764b5c5e5bd5,2018-06-26 16:52:03,0.0
+5bc5dedf0104764b595e7e0c,1.8.14,5bc5dedc0104764b595e7e0a,5bc5d34957674ee16701b68a,"1.8.14
+",5bc5d4c10104764b5c5e5bd5,2018-04-16 17:50:01,0.0
+5bc5dedf0104764b565e7d7f,1.8.9,5bc5dedd0104764b565e7d7d,5bc5d34957674ee16701b68a,"1.8.9
+",5bc5d4c10104764b5c5e5bd5,2018-06-26 16:55:22,0.0
+5bc5dedf0104764b575e7c38,1.8.8,5bc5dede0104764b575e7c36,5bc5d34957674ee16701b68a,"1.8.8
+",5bc5d4c10104764b5c5e5bd5,2018-06-26 16:55:22,0.0
+5bc5dee00104764b525e7b4f,1.8.10,5bc5dedf0104764b525e7b4d,5bc5d34957674ee16701b68a,"1.8.10
+",5bc5d4c10104764b5c5e5bd5,2018-06-26 16:55:22,0.0
+5bc5dee10104764b615e7d02,2.0.0,5bc5dee00104764b615e7d00,5bc5d34957674ee16701b68a,"2.0.0
+",5bc5d4c10104764b5c5e5bd5,2018-06-26 16:52:03,0.0
+5bc5dee10104764b505e7b06,1.8.6,5bc5dee00104764b505e7b04,5bc5d34957674ee16701b68a,"1.8.6
+",5bc5d4c10104764b5c5e5bd5,2018-06-26 16:55:22,0.0
+5bc5dee20104764b565e7d84,1.3.1,5bc5dee10104764b565e7d82,5bc5d34957674ee16701b68a,"1.3.1
+",5bc5d4c10104764b5c5e5bd5,2018-06-26 16:57:37,0.0
+5bc5dee30104764b575e7c3d,1.8.5,5bc5dee20104764b575e7c3b,5bc5d34957674ee16701b68a,"1.8.5
+",5bc5d4c10104764b5c5e5bd5,2018-06-26 16:55:22,0.0
+5bc5dee30104764b555e7dd0,1.8.16,5bc5dee20104764b555e7dce,5bc5d34957674ee16701b68a,"1.8.16
+",5bc5d4c10104764b5c5e5bd5,2018-10-01 18:37:57,0.0
+5bc5dee40104764b525e7b54,1.2.1,5bc5dee20104764b525e7b52,5bc5d34957674ee16701b68a,"1.2.1
+",5bc5d4c10104764b5c5e5bd5,2018-06-26 17:00:50,0.0
+5bc5dee40104764b5e5e7a99,1.1.0,5bc5dee30104764b5e5e7a97,5bc5d34957674ee16701b68a,"1.1.0
+",5bc5d4c10104764b5c5e5bd5,2018-06-26 17:00:50,0.0
+5bc5dee40104764b4e5e7bae,2.0.3,5bc5dee30104764b4e5e7bac,5bc5d34957674ee16701b68a,"2.0.3
+",5bc5d4c10104764b5c5e5bd5,2018-06-26 16:52:03,0.0
+5bc5dee50104764b585e7dc1,2.0.6,5bc5dee40104764b585e7dbf,5bc5d34957674ee16701b68a,"2.0.6
+",5bc5d4c10104764b5c5e5bd5,2018-06-26 16:52:03,0.0
+5bc5dee50104764b605e7dc2,2.0.4,5bc5dee40104764b605e7dc0,5bc5d34957674ee16701b68a,"2.0.4
+",5bc5d4c10104764b5c5e5bd5,2018-06-26 16:52:03,0.0
+5bc5dee50104764b575e7c42,2.0.8,5bc5dee40104764b575e7c40,5bc5d34957674ee16701b68a,"2.0.8
+",5bc5d4c10104764b5c5e5bd5,2018-06-26 16:52:03,0.0
+5bc5dee70104764b555e7dd5,2.0.9,5bc5dee50104764b555e7dd3,5bc5d34957674ee16701b68a,"2.0.9
+",5bc5d4c10104764b5c5e5bd5,2018-06-26 16:52:03,0.0
+5bc5dee70104764b505e7b0e,1.6.0,5bc5dee50104764b505e7b0c,5bc5d34957674ee16701b68a,"1.6.0
+",5bc5d4c10104764b5c5e5bd5,2018-06-26 16:57:37,0.0
+5bc5dee80104764b5e5e7a9e,0.8.0-incubating,5bc5dee60104764b5e5e7a9c,5bc5d34957674ee16701b68a,"0.8.0-incubating
+",5bc5d4c10104764b5c5e5bd5,2018-06-26 17:00:50,0.0
+5bc5dee90104764b5f5e7e07,1.8.0,5bc5dee80104764b5f5e7e05,5bc5d34957674ee16701b68a,"1.8.0
+",5bc5d4c10104764b5c5e5bd5,2018-06-26 16:55:22,0.0
+5bc5deea0104764b575e7c47,1.8.2,5bc5dee80104764b575e7c45,5bc5d34957674ee16701b68a,"1.8.2
+",5bc5d4c10104764b5c5e5bd5,2018-06-26 16:55:22,0.0
+5bc5deea0104764b515e88df,1.0.0,5bc5dee80104764b515e88dd,5bc5d34957674ee16701b68a,"1.0.0
+",5bc5d4c10104764b5c5e5bd5,2018-06-26 17:00:50,0.0
+5bc5deeb0104764b605e7dca,1.3.0,5bc5deea0104764b605e7dc8,5bc5d34957674ee16701b68a,"1.3.0
+",5bc5d4c10104764b5c5e5bd5,2018-06-26 16:57:37,0.0
+5bc5deec0104764b4f5e7bd0,1.7.0,5bc5deea0104764b4f5e7bce,5bc5d34957674ee16701b68a,"1.7.0
+",5bc5d4c10104764b5c5e5bd5,2018-06-26 16:57:37,0.0
+5bc5deec0104764b555e7ddd,1.8.15,5bc5deec0104764b555e7ddb,5bc5d34957674ee16701b68a,"1.8.15
+",5bc5d4c10104764b5c5e5bd5,2018-06-25 17:44:54,0.0
+5bc5deed0104764b585e7dce,1.5.0,5bc5deec0104764b585e7dcc,5bc5d34957674ee16701b68a,"1.5.0
+",5bc5d4c10104764b5c5e5bd5,2018-06-26 16:57:37,0.0
+5bc5deee0104764b525e7b62,2.0.5,5bc5deed0104764b525e7b60,5bc5d34957674ee16701b68a,"2.0.5
+",5bc5d4c10104764b5c5e5bd5,2018-06-26 16:52:03,0.0
+5bc5def10104764b4f5e7bd5,1.8.3,5bc5deee0104764b4f5e7bd3,5bc5d34957674ee16701b68a,"1.8.3
+",5bc5d4c10104764b5c5e5bd5,2018-06-26 16:55:22,0.0
+5bd02694bad86c1debdd02de,nifi-1.7.0,5bd02694bad86c1debdd02dc,5bd0268235e3ea2b7bbfdbae,"NIFI-5323 Signed release tag for approved release of NiFi 1.7.0
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAABCgAdFiEEvVQK7AeseI9WE+8dbsKTFS2Qth0FAlsy300ACgkQbsKTFS2Q
+th2MfxAAohOAUpDKZr3cMK8Xz0lVwU6sbw3FBU0BTNYqfnXlTnoDp8JyDGlGcEsa
+AtRtuOlh0LzR4kHhor/zGWZIJDqXZbPI7hlIsTeal0SqtbPkUyTSzdPDDvjYYg3s
+jDReyM46bKHTypliAyi6fwYSpqZ9Jqpsqmgsdi/aR0kYYqLHElqpCecjDUhjR3Lo
+Ovwiz7OXy+5kbw8B93HM61pK7Qft5rKGTUacL0m24V8nrWqZakfIkhT6d7H0q467
+IWz+rKPVSlnAJf4lV0MGMoCwfpmBwX4xQ4KDQYM1VZb6eZe8FJ0uXIy0UAhcvd5h
+eZy8ZZn6yMdqiottmIaEYBTVTT8iGZSZY0ndTnYnH70QtMBQKFQnMSECKIDdnCVl
+uO5ssRflbyXqemkp/GG5WsQmC8iIbSVQ9ato6wGXU4R+Brz9hAmUTV7C875WudiP
+qvO8belWF/36Yg2zwYUhDOaUtiehOke529l3RNuxisegTmTZ2LpW/6dRdQnVnzTM
+AuQqz+PJrJzGNPUrK9QfCeyNezMfd7ZogsWhBk390v83kKw+obMeQQJNQgp0BulK
+x5m0o1UU9Gp56eD4qB6yzhLIaXAF2nYVnpCKeRaxU2pPZOD2JJk2Vpv2ZH7x/mIZ
+LqoCEXfJFCO8LHTA6CyLWtUS0ru10mHMtfiYe0O9nL9k2PCrOY8=
+=Pml4
+-----END PGP SIGNATURE-----
+",5bd02686bad86c1decdd00cb,2018-06-27 00:50:21,-420.0
+5bd0269dbad86c1de1dd0422,nifi-1.6.0,5bd0269dbad86c1de1dd041e,5bd0268235e3ea2b7bbfdbae,"NIFI-4995 signed release tag for approved release of NiFi 1.6.0
+-----BEGIN PGP SIGNATURE-----
+
+iQFGBAABCAAxFiEE0vJLgJ/6seIa6gKDkJO/hU+BGhoFAlrKvG8THGpvZXdpdHRA
+YXBhY2hlLm9yZwAKCRCQk7+FT4EaGucgB/i0k6QXX0Py77cLlpjGzQW9VnhbUBR/
+wBrJPfdX7Rggo87+zwRCD5s5TrIPVqXvTrBIXUESV7b0URuM3X0BACloDBeC8dP+
+vbYLpIC1L8MHVfFEOqjOYUE6Fh6BaW4n4oVlVWt/x1UjBAhR5TNKsMmBZcFl/2jy
+/9to6zHn/qSY7o7ZXwn/lwTDKQVi5/PEXXVEyB0d42H0+Mr2MIXdjC9DgFsKzeFP
+v+q9R1AYM2lpxmOSMVtdalTiBUhBu/wTyzxlnNJVpmmCjV6w0XW9kz9J+vkacpvO
+KBprJUqoQVzudE6GLdAzud+PERIdj81pPrIOuTNdo+MdwxGtmAj5iy8=
+=REMK
+-----END PGP SIGNATURE-----
+",5bd02684bad86c1deddd00ac,2018-04-09 01:05:50,-240.0
+5bd026b6bad86c1decdd078e,nifi-1.5.0,5bd026b5bad86c1decdd078c,5bd0268235e3ea2b7bbfdbae,"NIFI-4751 signed release tag for approved release of NiFi 1.5.0
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAABCAAxFiEE0vJLgJ/6seIa6gKDkJO/hU+BGhoFAlpaJwoTHGpvZXdpdHRA
+YXBhY2hlLm9yZwAKCRCQk7+FT4EaGmsIB/9GSS/eHTP5EiiNWXGO5+HQ+NnIvptt
+fas0Nzu1VrTQIeUqvIeR/bKOSfctSaDjNrZOPUZRkYAj0OvXqLYT8DBmHgzhmRK9
+WJgYml3PV6A9qSuW5JFeitqIqL0I3H6bqm9SE+TVVMvlYsDH4xIYiistLT3exiZB
+2WM8x1yFKiRNgZVOmlrj2fpSfx9x1M5+yGrC8G5g1ZwFzvwsTEJF+b4j3Lsn0BzZ
+heataiiv+OPj+WMwTahP6lEVlYpu90NIUrSi01ym0vbV1Or/OnOQaHOJv9Msu23m
+K9zjyQ+ZRCpsT+s/dJHDm05JL+IwGyb22cfCpe2cLHX+B7XLOYPQCJ2/
+=L0yN
+-----END PGP SIGNATURE-----
+",5bd02684bad86c1deddd00ac,2018-01-13 15:34:34,-300.0
+5bd026c4bad86c1df0dd0d4d,nifi-1.4.0,5bd026c4bad86c1df0dd0d4b,5bd0268235e3ea2b7bbfdbae,"NIFI-4412 signed release tag for approved release of NiFi 1.4.0
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAABCgAGBQJZ05MeAAoJEE+SGQnU/VyBfGUP/2ZY0VeRxXNvfULj/qZvYIvv
+dsF2DcF/h+CkVlaIWoTkjdzg3lBw1CD1IJTCB/WasvBgr1QsSJqZPeZ5BTaT5/o7
+C8Uqvm52nhq306bd11ghn0vX8OM3WAu9NLF8hL+4RZYFnBgFTWAr6NF2mMZ6+P9+
+o/HAsEd0peJ0NmNFLU+4HBDg4FA6G/xrv/cbiXvBVSWx/3x3/S1wpvmCQPnb+WiS
+Cgkhlkq62weogcaJAYeUk8toYga27tVaB/5V8aWLxEFHOJoqNHWLmt/oQTXzM25k
+w5pruw7MYcj9KIRjALewfxOLM4VDNVwXdRDPvlNzA2F014Urir6w/FGOYnu0a1/J
+pdvjnEoje17DBihrLDbTOs1N5l7kfy84CVYxtiadD1hT5ku9Dii6k6/nuCl597Lb
+ZxQBlWylsUH9wh93W2BNt5HVY0RMmyqm7CgQ44I6mt/QtbtKGrY0lEmI1DkCSfFz
+DIskXlIHpd4Ix/pGDXwRnLlAv+ICEPv9b0KsRubKM8uaoXqKDe2JVOkXK6SrtQvJ
+pprx9wKqQddeCyG1CHqnQrSYukr126e8V/eDYN4X0ir80VTkB8mmRipv9brPWs9h
+H08mpOvGoo1fTJptaL3K/Jaj3dtyJH7eNZbZZ1yxzZv1D06tX+qZnDn9dED9hUsV
+at3WEh0npOBdD7x+Ir81
+=GZ0z
+-----END PGP SIGNATURE-----
+",5bd02683bad86c1de9dd00a4,2017-10-03 13:39:42,-240.0
+5bd026ccbad86c1de7dd0ff4,nifi-1.3.0,5bd026ccbad86c1de7dd0ff2,5bd0268235e3ea2b7bbfdbae,"NIFI-3997 signed release tag for approved release of NiFi 1.3.0
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAABCAAdFiEEUHogUBYyiEHEusnu32HsGUMq7jcFAlk5mIgACgkQ32HsGUMq
+7jfuCA//dcZuI1zhwJm0Gxn0vfSYUcjN17cRoAAcqz4HyM/PNRnpTMjhGl9LTEHf
+mmejiIP5SN6AgVOqSD6WJCGoUoxQzCeQ8NFe1FcgxmUtnYDc6K0LDcR+hKMtf5h6
+GXaGW6GGLEQ3KRPstR1i4FuhhKaj1iu6TWBg5nnN1pYj9XfO4Al0dLyNs5uBJqlb
+qNYoemc9dYEPdAlfjbKUNxPHUK5XidFupkSx4AmiNZWooP7AHZMmrqYTLyqT6RyS
+pHtaTsF0tHnuB6gFoPjW+MSUdNYWoEMmEo30jDN1rYp+gI+0BCwx/8XpA1l2b7BA
+ZBAadWg+fMpozPHag09xr0EghoIzF8/sWv/5hSgUisegH0N2QNvUy6ev0q+qr8k5
+cuPfTb4+FWpZvQD8l8ePEdfRJZ1X4p3+u5iPOYMLjHW2T6prFtknwmToiAGekSex
+xvJlqsDw/bnhWAcAzsJ7IMpYmmj5E/jaZFrsTUBPel0ePEnYQktu7Ao77xSDsroS
+eo6zWA/uoqPCUc4pGf299zl1608sOmUBiAwX1kCoeFx7+JL4X1J8Z8DP0XeNfAAA
+4qM0r9LsMgB9Qx+zlYUR13orf42CshszCNt+7S9ctNO9R6eRNl5T1+0tjTJ6DQYs
+58Hd3KGGhw1dOVkBuItjT88XW23i7aR/33rL2/Y8sAooBygNPiY=
+=d0jf
+-----END PGP SIGNATURE-----
+",5bd02683bad86c1de4dd00a3,2017-06-08 18:33:44,-240.0
+5bd026d1bad86c1de2dd13a1,nifi-1.2.0,5bd026d1bad86c1de2dd139d,5bd0268235e3ea2b7bbfdbae,"NIFI-3770 signed release tag for approved release of NiFi 1.2.0
+-----BEGIN PGP SIGNATURE-----
+
+iQIcBAABCAAGBQJZEc3nAAoJEKDdqe1QcRw5wmIP/jthKEieYEzcb9qMBnyEAhN/
+np9m/7TuP4jnfknhXw0NokdAh3VN2r7myi1fp4kaQVtm104iU73eo7xT9jRJbAVx
+aUtcWWiMwqn6n6AjkT/zxAKD+AYNWnQToj0QefFUCXTSLN+dtFc05okeShyKs0pc
+qgvfYAAlYjdVBnWIzh3000riAIqI3ZlhaGurvU9b2Lca06PBKiGA+i9pB99zdJSM
+xwYEVT0lYTv3DdK3LI2MB+u3I7wA57/AQ+lC64CmXJ99NdVDnyyAzbmfgSxFrjCY
+k4TSATWfcOkYtWwql0JR18YPSaRVdLwbXDpfFHPRjrKmU7jVI76wk4oAa4ZE3uL6
+U1kTe/7NxDMJSd7J7CnTHrndhC3q5vAsOfnvo1JMrfsiMJqybUJ+pXPmgjZCsz2U
+IxNeHlB8DKYtW8OGXd7Jd/wrbt7jDbkwagy7M/CC38x/aDFMDdV3IGEgzrKwHmBS
+Fqips6PuWE30V4+sx73pJdWFjRUpsGn+OOiBXhYcJu4RzBflu7zgGCYbFBZxsGMM
+SqFrAhbqZL9IVQgw5YxYyGeTnz+Gaue/o+Fbl+alzcw2EjBjTWraFF2YbHhlGGsR
+Zg9MupmXNe+qkoGCQsIFUYU8TLbxWzj7R4MLF3JWkm9zyvlBpPqxD8RScs7AQVzn
+IvoDiqEg88iGLj3KPoRo
+=ZYPk
+-----END PGP SIGNATURE-----
+",59bfca18f2a4565fe92812a7,2017-05-09 14:10:46,-240.0
+5bd026debad86c1df1dd14e1,nifi-1.1.0,5bd026debad86c1df1dd14df,5bd0268235e3ea2b7bbfdbae,"NIFI-3100 signed release tag for approved release of nifi 1.1.0
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAABAgAGBQJYPXnyAAoJEJCTv4VPgRoapJUIALwP3xOkWKXQ+wWJAUG65Vne
+m0d345wvznR6SaP5roSVI3kqWvdttEGdCbI/0H8pDgO1XF2h6nQz568MURjCqi/7
+U+oieyrcQ96xB2CIqrntxwSjfIprXBraO1dzvEMl7LOZQDTEgRVT7uBBAh6+pak1
+IWO3ULu+VIeweoKfSZNv9XkL+m6uWqFLPuRcUGjD6WDuK9LjKc6iNhi8meinN5xk
+9XLpbTOr9eG97Do+57SqYBT36X12iseC8dPcrBrLVI4N+bMST/vN46SWz00R8ZSd
+g7ykVKRifRrC8NKwUf5L4YAnPxD8zgO/ulRMQpXTfSYvLWbpzOxTyRfObyv3tUg=
+=vBoz
+-----END PGP SIGNATURE-----
+",5bd02684bad86c1deddd00ac,2016-11-29 12:52:02,-300.0
+5bd026e5bad86c1de7dd18f1,nifi-1.0.0,5bd026e5bad86c1de7dd18ef,5bd0268235e3ea2b7bbfdbae,"NIFI-2676 Signed release tag for approved release of nifi 1.0.0
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAABCgAGBQJXxm7oAAoJEDxtuv4iiG/uWI8P/3Cxqr9wL8QK1+ZU9INLvMuk
+8RjqEaNZ+S4QYVnHI2Mpy8IBf5RC5ITwWv6VQbpxMtXVJKJx9dwRYcH4C+v7xhnM
+A6NJmFqFDb9yXDgFXxxjo0zHoiDtUNOqNkmm/4ROyUoulYw5CHCqSnZq5trLvY1+
+aoDyIid2laTs68b2cgmnrYGKA3GV/wqGzmEmMHJII+V3BeEkP+4fydAbELwuHONa
+78nfzt1X4ZzpwFmWbjHWRDCiNCgeqfEPduzmXkEYF3ch3BCEZsUOw31FzmKr1kDq
+yS4xpwgj6pvKjPQ2yTmq+SS20ZT9PO3h62c0nw02k4iZsb0tVecd4NEjmUVRjxc/
+eaKz+bPDyEXs07aru+OiDj2HspRkGnEX9/57Vhed8jGze+4LaR5rJizC1ufRCwTl
+FNTr399QivqlQkztQUZ8uvP5uwXs9NbNGB7jNiw6FNxAXj+0bpQxsZrqIrN9r6Cc
+0Ub4FOw8tAxslQ3GUMVkw0jIzjbTrMmsXZSi/mzEDTcT7zuxHeqU7u4RX7R7WTp7
+0CFdBEHvmzGOLVkrPX+FwfaTaDGmii8PsL4hsoR5j66TeVsMsXdbEAup23akGSqD
+hy5ah4+hsp9xIGHHmGSicf6ck67KrWdUN3NaNY1D46XXB0mCCp4CLsoKaxIPXUyM
+sXVmrYfaKk/sH1wOQG4w
+=BM4s
+-----END PGP SIGNATURE-----
+",5bd026debad86c1deedd1592,2016-08-31 05:45:12,600.0
+5bd02705bad86c1deadd253b,nifi-0.6.0,5bd02705bad86c1deadd2537,5bd0268235e3ea2b7bbfdbae,"NIFI-1634 Signed release tag for approved release of nifi 0.6.0
+-----BEGIN PGP SIGNATURE-----
+
+iQIcBAABCgAGBQJW92hHAAoJEFMa66pM/l0AUtQP/0pHGDFORc6+GC8IzSdT+lwq
+U3VnhSnbRy07haGDW1ObCyzGtC5XWrxBfcVWcwIC23C8v++reebyVnUBwkoJmkge
+SItCPb8r8LcbyrBfpKjtnXKYrmGS6oIKpWWhBVsGawe4Ml/8FzhB+y2vSPv2fCSn
+NkG0axYRpm5tU8MAa22zMesi4UByeLYN/vbzyI/nDGbajXfof0v0fiuwuczvadbD
+tNaXmf3l/EKD+a6RQX00NSSx4tyn2sI08GpsO4BiTDMfdg0lo1LG0c3W/pHCWnXO
+y9GPGRYgMopQ95FWVsySrtZ65P5hw3bqHXeJKjI29WQ3BD/UsZVApG4Y6yXg0aL3
+JSdEBFkxZO4/skLolCjGmlfmnjFBhoor1Dn7I/OmQmu/aTnoveTHXZbaWfkUwFVz
+LPGnVOwCJMEznDfU5DqzCWYqCBI5sphRJtTnBKBA0F3b8tDI5WOsylXGTT9YNpYw
+38du0DO+yY3eyP3vXB4P8P3+unqyNH831sNvrHr4dj7zL41gur2YnLffUR5mYddm
+095OtnBIkzMJJFwiFYLRsceS7N3tPya80sh9Wwvzw7jhhW+Bdt0V7s2KBYntqj7I
+GRxod/Hjg8ZqZPPJIo33UaLadN1Rw38CHwzQUkbRhN9b/COW1bbCUQBOAOplMBye
+9G5+zeFDqjKr2MKeDfi1
+=B7lT
+-----END PGP SIGNATURE-----
+",5bd02683bad86c1de7dd00a4,2016-03-27 04:57:43,-240.0
+5bd02722bad86c1df2dd2833,nifi-0.5.0,5bd02721bad86c1df2dd282f,5bd0268235e3ea2b7bbfdbae,"NIFI-1379: Tag 0.5.0
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAABCgAGBQJWw93LAAoJEC7AIQ4+kcI7Qs8P/0OEpHefm0OaqB2v2iZAI0S4
+3V1EPcF9O9t9EAtCV0HUa5EH34W33/xjBqo6mLRGaPF/7sPnt2EgsAXPXyhRMCci
+t0vmsH8Q9oHeyh0E1Gx7S7wAmM5Awaj6JxcTUHn1IdVuPsSJoMxqG8a0hIEs3OaM
+VOzNWqtji90Ynv8LDoFuMMzXihBIzUcLUuoxSFWwE5JG9yduPikePENoDirQbiP0
+7g6BfQWqOjXcG2d4cXKUz8C/7g6XAdXjgp/SUu4C3nE5pZxnHMjuONFXuSXICzXa
+5tU1MwXIQg0ulGphFnC1KUHpa8WC6hI827nxxfQyNQ2OpikQUhFmEEwp9uQ8r/i/
+b7l8QAqXUo6zrotEU7ZHQzKdvm/+Z3+s2MEn8UF+AwuyEx5MrCx5IGHdwLtuGD0R
++ekKrCOtoFklvAVVM5Pf80GoJIQxSUl0FtLyJz0jF4KlQhqvQg7Rku4PvVyJ1cLL
+FZrIls0xbTjJXJX0vw1DRt6HN0C6Uxw4Pv2lHMqf1mk/dUU4Q7nuY4aqE/V5y9s6
+tUGv7HWTuCB8zg4tTo4muCvmfkEpq2pcpH4a43a/Mzjgfwro0qjDu/W8nfMK04wd
+rUDirLncgs829g2nlNxgVhaJpRLFZtMLGYCcI3NkUCvocGP6t/hWzlj/De+iBpKp
+Z7957G9CEzJK5qThoowi
+=6WHU
+-----END PGP SIGNATURE-----
+",5bc58bb657674ee167e32edc,2016-02-17 02:41:15,-300.0
+5bd02730bad86c1deadd2ae6,nifi-0.4.1,5bd02730bad86c1deadd2ae2,5bd0268235e3ea2b7bbfdbae,"NIFI-1312 Signed release tag for approved release of nifi 0.4.1
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAABAgAGBQJWeXC3AAoJEJCTv4VPgRoatjwH/jooCohQusziK4b/5GUVagCt
+7kOUkJHRe37R9q33SgYIdX3cHWENnCKkK8Mk25b2hbUjkHq8vtJZy3OvpjmZdtFq
+jXS6fKgAbvTS77q/MQ0OMkA59ErnQTkVVNGa07TkQux/qIKGx9eJBLyAEimNSI5c
+L6jtNnGYH+XdQorDV0IM0KoXBtf26BlDnU4U43vh9DVT9T6QHkB8rZT7cKv98iVQ
+qMh59+QTEOgqsIEvpzciBcFIbnq5KhpsjzApn5auzw0926to2HBw6uv0jd3btK19
+DU6rjg4J+gyZYDeJfKbFm9D7qAte5iCmJoNOjUxkjKE3Va3i2FeB97bQjjtpA+E=
+=7QYY
+-----END PGP SIGNATURE-----
+",5bd02684bad86c1deddd00ac,2015-12-22 15:48:07,-300.0
+5bd02731bad86c1df2dd2b07,nifi-0.4.0,5bd02731bad86c1df2dd2b05,5bd0268235e3ea2b7bbfdbae,"NIFI-1122 signed release tag for approved release of nifi 040
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAABAgAGBQJWa3QrAAoJEJCTv4VPgRoa1Y0H/i5uFfWj0YY0YvCkTCTLe/Ur
+SgbBVUE5yHY0YcnLcx49kbvSW11K2/9j3Se9PPmhQiz+GVD7BKWy+H/96/4h0+7E
+W49YqRwB8w+D7fUrjZzPu5Bh5IBQwJyORGgG9sgHVwThBb5nFYPtd+6osN51zx/D
+ka/SY2DnhC0bRUkLTt2eiEx+g6WKS5g4UXpp0N9FB6bVL3SGoMbJJX6xUqZk7tjV
+vwLLtFkqqKDAiqcR04veYocgK7sMZATh3M1MsbFXb0skn4Km+bBoUG5tfkKCSQqA
+UUT+qVjVLZypsChwkF87g2GYhJy8NrNXR+TRYskJgTcDJQ+xq4XlErlCRDmG7tY=
+=fxxP
+-----END PGP SIGNATURE-----
+",5bd02684bad86c1deddd00ac,2015-12-12 01:11:07,-300.0
+5bd02861bad86c1df1dd693b,nifi-0.7.2,5bd02861bad86c1df1dd6939,5bd0268235e3ea2b7bbfdbae,"NIFI-3489 Signed release tag for approved release of NiFi 0.7.2
+-----BEGIN PGP SIGNATURE-----
+Comment: GPGTools - https://gpgtools.org
+
+iQIcBAABCgAGBQJYq+HWAAoJEG7CkxUtkLYdxY4QAJ6d6y4/+Vux7W58hsXmgCE7
+MoUiRQFKZmJ22mgHc+yj6wBtfW3e7FoYhxOTe0zzLiNZrZs0BtZtFnkw46TsH7hD
+jhbjrnPtSknPv3BydsPwftphYCJ2ZwiEzUTWVuflavVttpeGT4sVlbnzIJRR4yNj
+wYkQECyWJ7dMijqOLYzMl/ggadwA/RM7OPjs8TsOdf36r/EGHz8elnyKDlV/p1AB
+NpUFhlukrkN96sZZfMSAS7+IXxVY+Rj+aHll5GVH/q99wCzuCv/wB3ck8tWS3VGX
+f7z/yJLap/82mEzDDHO1T74AEv1bu+DTTt2hwPUMmJ7284JzwhL6bcHKR0WUJSlu
+UhNpnanbv2FaJvFj4Uw/kkCxhIcxtWdx/KjRXodnFkmVK8OyIBr/EZBDBSBxc+Je
+ESRk5hfiSQuOGtujv53d8BVCqgjqCV5n73u9e8at+jKSyWdJMDBrMxkYRR07Qt2z
+KY4Iun9lwiXoPpUcgX2kfqISmzKUqT9BXUtywAKtGe5on55bQuvGmJ6Lg0hyA0Lv
+OLbqqf9zk7YBljhVkM5d7upWZ/tUrRX2p379T0qhCGQLT4aXtwGgVduELyK0AVnf
+Q+f8JYwHUh3F8DAcLS+7VLeQ2By+3FCWYCac0Kwuduvaks1HqYBStS3dE9iLP18w
+oVugYCWdHxjciYhd0F7K
+=Jr2v
+-----END PGP SIGNATURE-----
+",5bd02686bad86c1decdd00cb,2017-02-21 06:44:37,-480.0
+5bd02862bad86c1de7dd5559,nifi-0.7.1,5bd02861bad86c1de7dd5555,5bd0268235e3ea2b7bbfdbae,"NIFI-2896 Signed release tag for approved release of NiFi 0.7.1
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAABAgAGBQJYCEWcAAoJEJQcFEN9hOvWFBEQALx2S0rxbQPpTBVNMcfKsoLb
+XTLojIEGzseMmaBYP7POG4jEhUfN8a92aak/n4yg+lR8S95Okyh4Pt7s4e4e2wlL
+HvheLe8BGRTdc0c1nsh1dJ7NkybUBjpi16GC/QG714qu1ePGXhWw5/KtKUfKkbSj
+SsWfWEEDmeKTh6fudvyHIYeqVEXWSjxivhxMNGBzLsPsZCV+ixlDiI9sSWfm/4Xh
+qz2TWWs97ForD2hodgjMPqsfPhLm3rOG7nBTr8t9AJ4EtTUzesD0S5Dcs6TkIh/g
+7aUhyvcAHIm4O8dxvcMDmVBDaXP+aP0c7Yzr235uAngnvASO+9X8dgDgsq1j7ckl
+aJfR4AEJoMHsuVCxGKtHuABFQMNGz54QT1uujtr6yg6AeAPZtxbfYF3ZTyGVxWas
++G5HBw3AfZ+JL/VEKuuhjPDcOpm/Dd7FdURf8zZG5a6O2i205N4UbEgKLQTIjMWg
+ao/Scfh3or5M5hMB3UrmeFPtU3GorNzU0R9eURdbiq418LYcaTAYZAZ+TtXiQPBI
+kKLrrUSY1cFtY4gM1GZmjkJfZiYj4Zg9cbD537nntfekkoGa+PMKiH8Wj0c+DXBF
+1GsrANZhJ1NnYcEVsnSjHZbTQfHVBohUh5kfDNBBt8oCs5ynW6RHD7c/JRl2AgnJ
+FfH2grzIeNwojnkjfyys
+=s/SO
+-----END PGP SIGNATURE-----
+",5bd026c3bad86c1df0dd0d1b,2016-10-20 04:18:36,-240.0
+5bd02869bad86c1decdd6b28,nifi-0.7.0,5bd02869bad86c1decdd6b26,5bd0268235e3ea2b7bbfdbae,"NIFI-2112 Signed release tag for approved release of nifi 0.7.0
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAABCgAGBQJXhXQoAAoJEDxtuv4iiG/uM38P/iRgrTABHs4Nz3jZHmJmLMzd
+yffBBgXBbN3hb6XWmY24wtKzvTlisb8VKYfvxWZYtuloNpolYKO48Oo91rbXXr0q
+8F4P3E692oDyV6qnwWLf12Cq/CDqVPUJXmkpsA315bg/Vtfmd/s187jvlhzp+ZZu
+0JDe5PrPo5pGbVwUC4IHXlZQN+9rkWcx5FnthVa7cAbvmMtj37RONNix+CDgDI4X
+KTkC+PzsgSATONnGhpOMgO80evRLkJX/D0M/griuK7tHEt1yOpVIUWb4yFCjDJ1G
+JPcad7UEB36QpTOg2hsNox6JrIwLVooOOBtmsOdOKYq5P4s9eqAWvS1L1zGCXft7
+QUa7mY3j2/igxe1ekOo+yPgz/CiyUvUse1tCurp6QoK12Y3RyfcEFUdOKE+zTTJp
+XD6mNqm/jmwoobShMq9Bc0/B2J61RgmRI3C0BdI3I2qSdhcaVJfYhVw1Zd/iXqQ6
+y0L6K/Y/2gSaT1ll6ZrFyHVTaEJVj5yiZNlE5tZEQ5N/ywRdj35WnJjukARZ/Pl8
+JGA4X8xF6hjDSt8toMQxJFNhlw9MaHCBI99eIddQ0ZV+DxpU7rZ86QqEYwVPbB35
+2CKEH7m2c/IRuaAbxY3fJNSdZUSUe8ZVA6K/Y0vLnfAG/FyQlL2uDqyN7BLy/05a
+DZ2VH+IfdJGtFy/SPAnA
+=ESCJ
+-----END PGP SIGNATURE-----
+",5bd026debad86c1deedd1592,2016-07-12 22:50:16,-240.0
+5bd02878bad86c1defdd5db0,nifi-0.7.3,5bd02878bad86c1defdd5dae,5bd0268235e3ea2b7bbfdbae,"NIFI-3824 signed release tag for approved release of NiFi 0.7.3
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2.0.22 (GNU/Linux)
+
+iQIbBAABCgAGBQJZHO/+AAoJEJdl0uDaAbepot8P9iPKsgal036FlWrHRmsDn5LI
+04r4GXvVnoFzQgU5R/LL84mJu1XeROXrYeBZTHefyHUutc7DGgdmItlHAVCvrxx2
+EEXO+sTU+8UrAg+ryOaiHiFZmH+hxxlJI0Lm4iRGxT7JGo0sXTRU00tCiaTJFCup
+IpHDNNSPu8iAuzT5FjeXVQUmEk7DNuHPjYS1YHTM4aHBI/vB866a0XQaizwXeLgn
+ngzzH81/lea1kh2xznW5ZhqHm86L0GWOLVb0+2MMn1HaPfx9h7+WorKTyYsBNcuO
+FTBj73S/htKoUBixLfKx1Iv2Seo97NZoNSaZLw823LQAXTl6qcuoz99glvpIJb50
+2S0p7QwBFF4g+mzCB5rnDyGPmPvkaNAruVDbkpyMWaeXPlHOTUYxaA3oblLaA3Z4
+mWbdjz69O3RpsflHdCc7oxmQOpAf97OwTJX4DyXvRzc+QjYp8tGILApTxyy63Si9
+RAnPRHB81uc6sUB5BmQ0+rgF367uDvvMZqQbUxSHTBabHlZYjiHd270mklZZN42F
+5dXSzYYHfGA859YPTfmcRIjjvTdd/mqPJ4O9/CsbPZrtrYug+8a96OImXAYgaExG
+Tbf8ttB6FfUBqkgwGuz/WlviiVO/nPBde1JWtYiOurySG9c6qlqjxri33OlT5H5D
+Ns9gHxgTvR3iO80CxiM=
+=woHJ
+-----END PGP SIGNATURE-----
+",5bd02686bad86c1de1dd00e1,2017-05-18 00:51:10,-240.0
+5bd0287dbad86c1debdd7f23,nifi-1.1.2,5bd0287dbad86c1debdd7f1f,5bd0268235e3ea2b7bbfdbae,"NIFI-3486 Signed release tag for approved release of NiFi 1.1.2
+-----BEGIN PGP SIGNATURE-----
+Comment: GPGTools - https://gpgtools.org
+
+iQIcBAABCgAGBQJYq9rKAAoJEG7CkxUtkLYdNawP/1JG0xdiNdkg8JhiFYAouQEV
+XIn2RyZ70udtlY8omh33tZLPouWoRcakEjCJUFQ6+tSNXiA7tNgRR0BHdrTHgGlY
+lDNaxcnfPZPlyNOMw8pOB7bA9VBf+C/wSl23jq5t/Sscn912LpbsXU2tO6MlxAED
+pgjI5dxlL+8jPBObLNR9uORby+JuI5ot6pCR+mMSDW8NeImhOlknVL7GXCHX9xg+
+BLIfcmD4h/6igolI7XIkay0s6Bo6XyshB9WPoLWNUPuaoA+bNE/IVetQRaHmxIsu
+X6amd0seYXIiXK5Bc/Yi7WaEv5hmr31ESj597QSKSylDqYNGOws5VHws7tQ8kzpg
+mkdW0awDiIEh8XGbCUuH6CXp7+vE27+Uct7WPtMIFE9Rl9YGAyuRTmu8++TsZVBT
+s94BMu8i+bryhLzXKYyAOhtt5Z7G77yPmwL+Ca5rW1S0kJNNccPQcUQF2t0X6zv7
+dKTd0TpDfqEoEPDp9Ly6WeVzNpTYtn66jh73n8zozJHKanYdTGQlWyP0RP55sBWo
+/GcObRgF0GHG5Ec2bfVZNfQ4jjQvCj5sfO2tDXaF/ApZ2dDiKHLWbpVhTEMiLWEd
+nUAeJWI66vRsPPYErI2sl1ey9dUpBUBsbYHiS0JjsHNr8qtLr6w4hBJHYlzWYAbg
+XRgoPwVq9U08uUCeJYbd
+=CbZF
+-----END PGP SIGNATURE-----
+",5bd02686bad86c1decdd00cb,2017-02-21 06:14:33,-480.0
+5bd02897bad86c1de5dd611d,nifi-1.0.1,5bd02897bad86c1de5dd611b,5bd0268235e3ea2b7bbfdbae,"NIFI-3202 Signed release tag for approved release of nifi 1.0.1
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAABCgAGBQJYWAiRAAoJEDxtuv4iiG/u6OgP/2lSGVLzZiNBZyQlC2gunTiM
+NypeIwF1p+51wHlvbZPSnoKXIFXFqfJEKJQmu5SuzTpyo2ICFYgbT7sQhZKDrzUE
++Ao2L0+ACueeVgvarUKyiyerFAe1Z7u87MMiBFSvGdTXwvOXVWL3HdGfx9e2aiYj
+7QUc+BURg7+Lpau7vvRtWrjGbGlV4nuHxich8vQbAk7gHHAf/VLe8rPKOu4Cks1T
+qJX0iBzLYuUMkrRlEJrUclOr/7wcfMwqDYxzN83RaoLHb3V5sUTqMuHN42Zq184F
+fkvK350gQJ2OmYtC5B6A2MWGjqFC4eqGP283RlrWpLCJ90GWdkbGrMi4LridU5PW
+ji4uF+QQHulqmiAMoQdjhQJRjxeFyqXPR/BW729N5Fp2rv0S7sXAeL0g7r1RhDHG
+XXZ+AMTS9XNoiuLkNdlJ2Dovi3bqcR4afTqd9kmM8Z6fyfue7u54XEiZ5WX/EeP1
+yHAR8OkJTceDMKwduDfNwIAEXtXjE/ntJuML0URCpNz+ARDru7rB7T/+tTvDsHkO
+oviJe0HF8wCxJQg1fBztVdfD7aBJLTd4ZoY3MCoyMaHS4TeNIbfx+HtXFPt95KiC
+2ndtzhy6hhp44DEZYVsVv7hdMHLYF4HwweklalEgL15ZW848nXa8mWFICx7GGzVS
+X5TBE052TkdnjZMre6ID
+=M4RL
+-----END PGP SIGNATURE-----
+",5bd026d8bad86c1de1dd14cd,2016-12-19 16:19:29,-300.0
+5bd028dabad86c1de5dd7307,nifi-0.5.1,5bd028dabad86c1de5dd7305,5bd0268235e3ea2b7bbfdbae,"NIFI-1556: Signed release tag for approved release of nifi-0.5.1
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAABCgAGBQJW0RmCAAoJEC7AIQ4+kcI7L0cQAJWpd+hP9dmkpivj4FAhXkkL
+D0u4aHjs6kn5zCvbxnWhfiDCcrq9exGUO4LjsEOoNuWcfhE8gxSbYL4KtjLOGWIw
+bTIAqBWQB6ag3oPeXKgf0LDgfy+x/n5gTGsNSTeRbbhWN2hQ/WaX0ZjC1fyMdWUE
+4EbyNvzRGFqRc3ZXsBwLyJ3zdy7eKJ5F3GIbTlRkuMaIwRAVNwUVO0Ow4IroWwgW
+u+vVq9hcQ00t5cPb6xANpEHh9MF762P9qvxBPvMruPO18PIR5+bztiEbeRSifU6V
+et8GWbemGu+x6wrqNr4P+GRcItkU5NPDRn225I3mSswaAT4ZI2TARWD2WezbC8ql
+vUvTmTQtqMmjEFmgXY2OTvDzwdFzxpHArdmITng1RgBAdwf9n5mgtzDEKRNCGmB3
+702cI52+/q1HJdFseb4iE4UupLGpVjIMEiNESW1I/Me/5zr9QngMQjv6UKym9DRD
+cjfXOo9Vue+ITU4qf8hlz9mifNilEENeM7U1aXGGPy8LdACYn2HinoyWusiM35HS
+DszLcjJE6e0WTVs2sBZEgquR5VjdlgJBXaRkiHzNcmmEPpNAAVlxfk+Vo7PsJBGO
+fJguquSJeFMNOVJ9eFV40aNihBIKi4zUxatRROMufHF49y5ePyoT+6s9Ejw9RVhJ
+oyAURVsbXR724iEkAoUA
+=W9sN
+-----END PGP SIGNATURE-----
+",5bc58bb657674ee167e32edc,2016-02-27 03:35:30,-300.0
+5bd028dabad86c1decdd889c,nifi-0.7.4,5bd028dabad86c1decdd889a,5bd0268235e3ea2b7bbfdbae,"NIFI-3998 signed release tag for approved release of NiFi 0.7.4
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAABCAAdFiEEUHogUBYyiEHEusnu32HsGUMq7jcFAlk5tW4ACgkQ32HsGUMq
+7jeBGQ/6AjiQBatqY8mT1VwqyvuYcqkKdz2FPrbnTRz5RIFQM3DEFDOj6ZVoCSgK
+VxulcWxZKYZ1IPqvNoVB9uctn2QDGHoy0hviLFNWSKHD0yDyRgaR5nC1Pd8PUVrE
+YjBZtgrObfOuGf0Xud2Vx2LxWE7azDowmkMmV0gOnao97RDKNJUULMPaen6tOo5E
+uTHx4UDdbUt/SLiFT7YRImxu3PWHIy6LLPbaIuTvrT7IXj/cxkPsu/rv+QcxF7OQ
+rKa4gp+HDf4ORi1tm00TI/JrY3Isr21x6buMEZ4MOUmVJToKT8Rt/QRP5+CZkAlT
+khsyOON7xpVjGZ8ezbWrNWlkFtb4FqJ0TYVEIlYvwEiePoLors9ALcAkvFkAi6fY
+oYH/rMdaOUhnCmANPl7WCDDChFxRI1sy1aawVbvQW/QQRHJyJZVFKGU+9WDftmE4
+60kvdnbYXBbGW8LK8fGGy1EfuqP86VNX+Yhq/K6x5OyzIp5HuthNHWyK+fEHi2jL
+sv9S5NpJW8XF4oI3jgEAMEzoGa8pD5G3u4sn/ICIoH2dTBfjuIphRxVvwwGOkBDj
+wThQ7NC7vOKdYXeMA0U9JabzPxGozytT7+GsCK+UVqcyYwUOxDtjSuzsRrXpjnj0
+HEJQTxApWvXQ90FvZsVpIO+/qBpBOYKaFUTNKc9VaOzQz+1A1do=
+=LxRl
+-----END PGP SIGNATURE-----
+",5bd02683bad86c1de4dd00a3,2017-06-08 20:37:02,-240.0
+5bd028e2bad86c1de5dd75b5,nifi-1.1.1,5bd028e2bad86c1de5dd75b1,5bd0268235e3ea2b7bbfdbae,"NIFI-3203 Signed release tag for approved release of nifi 1.1.1
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAABCgAGBQJYXGDTAAoJEDxtuv4iiG/u9pcP/0f2kc5reUVtTj6vbrYY5ikO
+bGFjST8NWv4ws6LvDkpkJ+Ag7Lj7YbN30eZDE2BJfwCVk/VCRBkeAPURavASr5Z6
+O+COF8bRnuHlqZEgMxH5ObbfuR05QbHXaZJAzN4M/8jKr/1mrFkhV3qVuC5614v6
+fal4AbndwDRwwLPwp0clIW2+k4Mg9u6Alg8qMhov9N8okH78Rgml4a6uCfKAveci
+Y2ssLdSX2N81RSBzSO/MkYZYPiHkof0NWx1RCZy99BGwiySumF9dnjf99trWAY45
+UpNmrT1J1kOiu0lnn7MRpZhDdaZuVBDMl4YRWJ+9BaTOWEFAWyT2we7dhymqPqxG
+sDi5UGpYbFZhjExhKVCgSFSl5Q75Kegwvh6dOgMQ+P72uhahoDQ2bWzYXBU09rMn
+NjaJzwMS440xIBGZBzRVQ/W6BiqsvgNHcSV+lqhug+C/qSm8ReQn3N2JlhG8msPn
+csK5NCFliybr/Je0t7n4U9UR/i3G7njTT3W7Hqcd2L6kmGDLiVefQXpjYdKeIMZr
+gn1X7klPQy3CNWvUpA0XxtJc2gdRFCzQH16JI4OxLHRAAT256Zv2wEeMaloXF1HX
+E9ElwRChOp2rOOwRbrjLhxMsdTksp59ECCuykG8Qw/MmMaUi1H/dpK6JUfPgmLAg
+7+BUSIykZrloaCQwL4tu
+=PjQT
+-----END PGP SIGNATURE-----
+",5bd026d8bad86c1de1dd14cd,2016-12-22 23:25:07,-300.0
+5bd02900bad86c1de6dd92e8,nifi-1.7.1,5bd02900bad86c1de6dd92e4,5bd0268235e3ea2b7bbfdbae,"NIFI-5414 Signed release tag for approved release of NiFi 1.7.1
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAABCgAdFiEEvVQK7AeseI9WE+8dbsKTFS2Qth0FAltNTpQACgkQbsKTFS2Q
+th3pwxAAsoph+UAzKA0laecXKFXLzfP3BNi6puDMTctbqqMCJDMOyE+W5GtGOd4o
+HLUvh0bWdeuLAnnbGvMQmhRYLoG24JlRw6SptBBb6SyGjvkhtsexpFIbvoD9Ir7d
+h8QUh8os1mAO2tN7/VOrgNw/DoeBYGBinyiHZlJxCMuutgWBl+N9OWRho028HwTD
+Lt0jP68i1/P45Zz8hzMK7aOCeiASu6g967IN6f0q4TCR+UZxJBJ+638oCvkySFqN
+itNySYKhXzGAXizbdCmtvsxY22PhPi2/jm6bqtji9QzFe7RaAFeR0XfoiONt4bIa
+ePbGjCnHaS7n8laxsn/4kTK/Un8Bb2BLSlg362KCeVI/GTCBjLjaXyV2ekMblMO1
+E+8550rP0x9FuO8R2jD1511flDbdonMP9f4fH3EGkLYI2cIQnys/q5hRYbSiE9uu
+N7Yt3XhmL6HBiwZzSntlNzP3lZwUnWdCYb9UNJSQE77UDDwq+XiPbz+8k5dxELyJ
+tLbUhkue7181MYpSZGaSNnyHX8dtQOpqBHsiPvpPma8UWvWp9d92jJ8+Q3MYtSr5
+dL2NV1kVdfKEsyQFU/ZF/9uUtTlKi6K6BLfpDne1fwt+SfR5EKsnuLnG9Nmv/MIi
+6yA5jHFfLWNY3LbtcYB0MlDLEqfDNG34gZYvde+0fvav8EzXHiI=
+=+2LW
+-----END PGP SIGNATURE-----
+",5bd02686bad86c1decdd00cb,2018-07-17 02:04:04,-420.0
+5bd0290abad86c1de0dd8315,nifi-0.6.1,5bd02909bad86c1de0dd8313,5bd0268235e3ea2b7bbfdbae,"NIFI-1729 Signed Release Tag of nifi-0.6.1
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAABAgAGBQJXEpJWAAoJEJCTv4VPgRoaGEkH/2a78Ipt//kRCom9ETVURmMV
+salhdNK1LUqH25z9I7xnKDEHUDHvBcTT5/lgsCBbziE8WISYu2ca6vfl0H/HexFJ
++FnzkMAmimbeFYe9FHwjTl7HeyHVjyEP9aZ6Fg5Wt8bROkHBIZ7wH/wARNOoajkz
+oVqWuU3T9rrv+dObKFbC2LlG28Hkc7xeFPKzq0FuQqUnudKoQ+itfkOzCUfRvX6T
+hv37PBMBcGz0GnUeMxcJxrC73pAKQzcj1faEEe3Cgvf+zfLTlYTT5qOY98SJdkfB
+sXDnnlurnZtRLUtETOlNLrZa0Qa8ID79GVh8VqD2kbVhi0nVC7j4MfJ2NVpNblg=
+=Ko5e
+-----END PGP SIGNATURE-----
+",5bd02684bad86c1deddd00ac,2016-04-16 19:28:22,-240.0
+5cd2844f4eb92640bb52e2e0,4.5.6,5cd2844f4eb92640bb52e2de,5cd2806d504acf99a4cd728c,HttpClient 4.5.6 release tag,58c1142f02ca40f8bfb1ea1b,2018-07-09 07:58:33,120.0
+5cd284504eb92640bb52e389,4.5.5,5cd284504eb92640bb52e387,5cd2806d504acf99a4cd728c,HttpClient 4.5.5 release tag,58c1142f02ca40f8bfb1ea1b,2018-01-22 08:45:08,60.0
+5cd284514eb92640bb52e43b,4.5.4,5cd284514eb92640bb52e439,5cd2806d504acf99a4cd728c,HttpClient 4.5.4 release tag,58c1142f02ca40f8bfb1ea1b,2017-11-30 10:18:48,60.0
+5cd284c04eb92640bb5320d4,4.5,5cd284c04eb92640bb5320d2,5cd2806d504acf99a4cd728c,"4.5
+",58c1142f02ca40f8bfb1ea1b,2015-06-04 08:32:13,0.0
+5cd284c14eb92640bb5320f4,4.1,5cd284c14eb92640bb5320f2,5cd2806d504acf99a4cd728c,"4.1
+",58c1142f02ca40f8bfb1ea1b,2011-01-21 09:46:50,0.0
+5cd284c14eb92640bb532114,4.1.1,5cd284c14eb92640bb532112,5cd2806d504acf99a4cd728c,"4.1.1
+",58c1142f02ca40f8bfb1ea1b,2011-03-19 19:55:33,0.0
+5cd284c14eb92640bb53214c,4.5.2,5cd284c14eb92640bb53214a,5cd2806d504acf99a4cd728c,"4.5.2
+",58c1142f02ca40f8bfb1ea1b,2016-02-26 11:35:41,0.0
+5cd284c54eb92640bb5322fd,4.2.5,5cd284c54eb92640bb5322fb,5cd2806d504acf99a4cd728c,"4.2.5
+",58c1142f02ca40f8bfb1ea1b,2013-04-23 11:53:37,0.0
+5cd284c64eb92640bb532373,4.1.3,5cd284c64eb92640bb532371,5cd2806d504acf99a4cd728c,"4.1.3
+",58c1142f02ca40f8bfb1ea1b,2012-02-06 17:13:49,0.0
+5cd284c64eb92640bb5323a3,4.3.4,5cd284c64eb92640bb5323a1,5cd2806d504acf99a4cd728c,"4.3.4
+",58c1142f02ca40f8bfb1ea1b,2014-06-04 15:41:59,0.0
+5cd284c64eb92640bb5323c0,4.3,5cd284c64eb92640bb5323be,5cd2806d504acf99a4cd728c,"4.3
+",58c1142f02ca40f8bfb1ea1b,2013-09-09 19:31:17,0.0
+5cd284c74eb92640bb5323e2,4.5.7,5cd284c74eb92640bb5323de,5cd2806d504acf99a4cd728c,HttpClient 4.5.7 release tag,58c1142f02ca40f8bfb1ea1b,2019-01-24 09:47:55,60.0
+5cd284c74eb92640bb532420,4.2,5cd284c74eb92640bb53241e,5cd2806d504acf99a4cd728c,"4.2
+",58c1142f02ca40f8bfb1ea1b,2012-05-20 12:45:59,0.0
+5cd284c74eb92640bb532446,4.5.1,5cd284c74eb92640bb532444,5cd2806d504acf99a4cd728c,"4.5.1
+",58c1142f02ca40f8bfb1ea1b,2015-09-15 12:15:23,0.0
+5cd284c84eb92640bb53249c,4.0,5cd284c84eb92640bb53249a,5cd2806d504acf99a4cd728c,"4.0
+",58c1142f02ca40f8bfb1ea1b,2009-08-06 18:29:23,0.0
+5cd284c84eb92640bb5324c7,4.4,5cd284c84eb92640bb5324c5,5cd2806d504acf99a4cd728c,"4.4
+",58c1142f02ca40f8bfb1ea1b,2015-02-02 10:48:02,0.0
+5cd284c84eb92640bb5324cc,4.1.2,5cd284c84eb92640bb5324ca,5cd2806d504acf99a4cd728c,"4.1.2
+",58c1142f02ca40f8bfb1ea1b,2011-08-04 19:23:21,0.0
+5cd284c94eb92640bb532504,4.0.1,5cd284c94eb92640bb532502,5cd2806d504acf99a4cd728c,"4.0.1
+",58c1142f02ca40f8bfb1ea1b,2009-12-03 22:36:19,0.0
+5cd284ca4eb92640bb532531,4.5.3,5cd284ca4eb92640bb53252f,5cd2806d504acf99a4cd728c,"4.5.3
+",58c1142f02ca40f8bfb1ea1b,2017-01-26 09:51:47,0.0
+5cd284ca4eb92640bb532536,4.2.6,5cd284ca4eb92640bb532534,5cd2806d504acf99a4cd728c,"4.2.6
+",58c1142f02ca40f8bfb1ea1b,2013-09-09 19:00:13,0.0
+5cd284ca4eb92640bb532576,4.3.1,5cd284ca4eb92640bb532574,5cd2806d504acf99a4cd728c,"4.3.1
+",58c1142f02ca40f8bfb1ea1b,2013-10-07 09:41:07,0.0
+5cd284cb4eb92640bb5325b1,4.3.6,5cd284cb4eb92640bb5325af,5cd2806d504acf99a4cd728c,"4.3.6
+",58c1142f02ca40f8bfb1ea1b,2014-11-05 21:02:42,0.0
+5cd284cc4eb92640bb532646,4.3.3,5cd284cc4eb92640bb532644,5cd2806d504acf99a4cd728c,"4.3.3
+",58bfd7a63cff546ccab42d4d,2014-02-26 04:24:48,0.0
+5cd284cd4eb92640bb532666,4.2.4,5cd284cd4eb92640bb532664,5cd2806d504acf99a4cd728c,"4.2.4
+",58c1142f02ca40f8bfb1ea1b,2013-04-10 11:28:09,0.0
+5cd284cd4eb92640bb53268c,4.2.2,5cd284cd4eb92640bb53268a,5cd2806d504acf99a4cd728c,"4.2.2
+",58c1142f02ca40f8bfb1ea1b,2012-10-23 20:03:02,0.0
+5cd284cd4eb92640bb5326bc,4_0_API_FREEZE,5cd284cd4eb92640bb5326ba,5cd2806d504acf99a4cd728c,"4_0_API_FREEZE
+",58c1142f02ca40f8bfb1ea1b,2008-07-24 20:14:57,0.0
+5cd284ce4eb92640bb53273c,4.3.2,5cd284ce4eb92640bb53273a,5cd2806d504acf99a4cd728c,"4.3.2
+",58bfd7a63cff546ccab42d4d,2014-01-19 12:33:37,0.0
+5cd284ce4eb92640bb532741,4.1-siteupdate,5cd284ce4eb92640bb53273f,5cd2806d504acf99a4cd728c,"4.1-siteupdate
+",58bfd7a53cff546ccbb42b42,2011-02-14 20:29:07,0.0
+5cd284ce4eb92640bb532775,4.3.5,5cd284ce4eb92640bb532773,5cd2806d504acf99a4cd728c,"4.3.5
+",58c1142f02ca40f8bfb1ea1b,2014-08-01 10:15:37,0.0
+5cd284cf4eb92640bb532792,4.2.3,5cd284cf4eb92640bb532790,5cd2806d504acf99a4cd728c,"4.2.3
+",58c1142f02ca40f8bfb1ea1b,2013-01-14 20:51:21,0.0
+5cd284cf4eb92640bb5327d5,4.5.8,5cd284cf4eb92640bb5327d1,5cd2806d504acf99a4cd728c,HttpClient 4.5.8 release tag,58c1142f02ca40f8bfb1ea1b,2019-03-30 09:30:59,60.0
+5cd284d34eb92640bb532b5f,4.4.1,5cd284d34eb92640bb532b5d,5cd2806d504acf99a4cd728c,"4.4.1
+",58c1142f02ca40f8bfb1ea1b,2015-03-30 15:05:56,0.0
+5cd284d34eb92640bb532b64,4.0.3,5cd284d34eb92640bb532b62,5cd2806d504acf99a4cd728c,"4.0.3
+",58c1142f02ca40f8bfb1ea1b,2010-09-18 19:27:56,0.0
+5cd284d34eb92640bb532b84,4.0.2,5cd284d34eb92640bb532b82,5cd2806d504acf99a4cd728c,"4.0.2
+",58c1142f02ca40f8bfb1ea1b,2010-09-06 19:40:29,0.0
+5cd284d64eb92640bb532c64,4.2.1,5cd284d64eb92640bb532c62,5cd2806d504acf99a4cd728c,"4.2.1
+",58c1142f02ca40f8bfb1ea1b,2012-07-03 08:44:54,0.0
+5d8ccfbb53cc927575cbe9d3,4.4.10,5d8ccfbb53cc927575cbe9d1,5d8ccfb33dfe5ddb8590d841,HttpCore 4.4.10 release tag,58c1142f02ca40f8bfb1ea1b,2018-06-29 10:25:57,120.0
+5d8ccfbc53cc927575cbeb48,4.4.9,5d8ccfbc53cc927575cbeb44,5d8ccfb33dfe5ddb8590d841,HttpCore 4.4.9 RC1 tag,58bfd7b23cff546cceb43911,2018-01-12 03:39:09,-420.0
+5d8ccfbe53cc927575cbed01,4.4.7,5d8ccfbe53cc927575cbecff,5d8ccfb33dfe5ddb8590d841,HttpCore 4.4.7 release tag,58c1142f02ca40f8bfb1ea1b,2017-09-13 13:00:50,120.0
+5d8cd1b253cc927575ce3a31,4.4.2,5d8cd1b253cc927575ce3a2f,5d8ccfb33dfe5ddb8590d841,"4.4.2
+",58c1142f02ca40f8bfb1ea1b,2015-09-04 14:00:34,0.0
+5d8cd1b253cc927575ce3a4b,4.4.6,5d8cd1b253cc927575ce3a49,5d8ccfb33dfe5ddb8590d841,"4.4.6
+",58c1142f02ca40f8bfb1ea1b,2017-01-11 09:04:26,0.0
+5d8cd1b253cc927575ce3aab,4.3,5d8cd1b253cc927575ce3aa9,5d8ccfb33dfe5ddb8590d841,"4.3
+",58c1142f02ca40f8bfb1ea1b,2013-08-03 11:48:54,0.0
+5d8cd1b353cc927575ce3af9,4.1.2,5d8cd1b353cc927575ce3af7,5d8ccfb33dfe5ddb8590d841,"4.1.2
+",58c1142f02ca40f8bfb1ea1b,2011-07-14 19:18:13,0.0
+5d8cd1b553cc927575ce3ccd,4.4.4,5d8cd1b553cc927575ce3ccb,5d8ccfb33dfe5ddb8590d841,"4.4.4
+",58c1142f02ca40f8bfb1ea1b,2015-10-30 10:19:31,0.0
+5d8cd1b553cc927575ce3ced,4.2.5,5d8cd1b553cc927575ce3ceb,5d8ccfb33dfe5ddb8590d841,"4.2.5
+",58c1142f02ca40f8bfb1ea1b,2013-08-03 11:48:20,0.0
+5d8cd1b553cc927575ce3d0e,4.0,5d8cd1b553cc927575ce3d0c,5d8ccfb33dfe5ddb8590d841,"4.0
+",58c1142f02ca40f8bfb1ea1b,2009-02-19 18:57:15,0.0
+5d8cd1b653cc927575ce3d7a,4.2.2,5d8cd1b653cc927575ce3d78,5d8ccfb33dfe5ddb8590d841,"4.2.2
+",58c1142f02ca40f8bfb1ea1b,2012-09-21 16:09:00,0.0
+5d8cd1b653cc927575ce3daf,4.2.1,5d8cd1b653cc927575ce3dad,5d8ccfb33dfe5ddb8590d841,"4.2.1
+",58c1142f02ca40f8bfb1ea1b,2012-06-13 16:16:12,0.0
+5d8cd1b653cc927575ce3dcf,4.2,5d8cd1b653cc927575ce3dcd,5d8ccfb33dfe5ddb8590d841,"4.2
+",58c1142f02ca40f8bfb1ea1b,2012-05-04 18:17:00,0.0
+5d8cd1b653cc927575ce3dd6,4.4.11,5d8cd1b653cc927575ce3dd2,5d8ccfb33dfe5ddb8590d841,HttpCore 4.4.11 release tag,58c1142f02ca40f8bfb1ea1b,2019-01-18 11:09:54,60.0
+5d8cd1b653cc927575ce3deb,4.4.1,5d8cd1b653cc927575ce3de9,5d8ccfb33dfe5ddb8590d841,"4.4.1
+",58c1142f02ca40f8bfb1ea1b,2015-03-19 11:45:50,0.0
+5d8cd1b653cc927575ce3e1b,4.1,5d8cd1b653cc927575ce3e19,5d8ccfb33dfe5ddb8590d841,"4.1
+",58c1142f02ca40f8bfb1ea1b,2010-11-16 20:25:08,0.0
+5d8cd1b753cc927575ce3e5e,4.4.12,5d8cd1b753cc927575ce3e5c,5d8ccfb33dfe5ddb8590d841,HttpCore 4.4.12 release tag,58c1142f02ca40f8bfb1ea1b,2019-09-03 14:29:56,120.0
+5d8cd1b853cc927575ce3f2b,4.4.5,5d8cd1b853cc927575ce3f29,5d8ccfb33dfe5ddb8590d841,"4.4.5
+",58c1142f02ca40f8bfb1ea1b,2016-06-10 16:54:06,0.0
+5d8cd1b853cc927575ce3f30,4.4,5d8cd1b853cc927575ce3f2e,5d8ccfb33dfe5ddb8590d841,"4.4
+",58c1142f02ca40f8bfb1ea1b,2014-12-17 08:29:08,0.0
+5d8cd1b853cc927575ce3f62,4.3.3,5d8cd1b853cc927575ce3f60,5d8ccfb33dfe5ddb8590d841,"4.3.3
+",58c1142f02ca40f8bfb1ea1b,2014-10-21 19:20:38,0.0
+5d8cd1bf53cc927575ce4189,4.3.1,5d8cd1bf53cc927575ce4187,5d8ccfb33dfe5ddb8590d841,"4.3.1
+",58c1142f02ca40f8bfb1ea1b,2013-12-23 09:30:21,0.0
+5d8cd1c053cc927575ce41a8,4.4.3,5d8cd1c053cc927575ce41a6,5d8ccfb33dfe5ddb8590d841,"4.4.3
+",58c1142f02ca40f8bfb1ea1b,2015-09-09 08:10:11,0.0
+5d8cd1c053cc927575ce41f6,4.0.1,5d8cd1c053cc927575ce41f4,5d8ccfb33dfe5ddb8590d841,"4.0.1
+",58c1142f02ca40f8bfb1ea1b,2009-06-18 17:57:44,0.0
+5d8cd1c153cc927575ce42ac,4.2.4,5d8cd1c153cc927575ce42aa,5d8ccfb33dfe5ddb8590d841,"4.2.4
+",58c1142f02ca40f8bfb1ea1b,2013-03-23 20:20:05,0.0
+5d8cd1c253cc927575ce43f7,4.1.1,5d8cd1c253cc927575ce43f5,5d8ccfb33dfe5ddb8590d841,"4.1.1
+",58c1142f02ca40f8bfb1ea1b,2011-05-17 19:45:25,0.0
+5d8cd1c253cc927575ce4434,4.3.2,5d8cd1c253cc927575ce4432,5d8ccfb33dfe5ddb8590d841,"4.3.2
+",58c1142f02ca40f8bfb1ea1b,2014-02-16 14:54:07,0.0
+5d8cd1c253cc927575ce444e,4.1.3,5d8cd1c253cc927575ce444c,5d8ccfb33dfe5ddb8590d841,"4.1.3
+",58c1142f02ca40f8bfb1ea1b,2011-07-30 14:12:36,0.0
+5d8cd1c453cc927575ce45d7,4.1-siteupdate,5d8cd1c453cc927575ce45d5,5d8ccfb33dfe5ddb8590d841,"4.1-siteupdate
+",58bfd7a53cff546ccbb42b42,2011-02-14 20:29:41,0.0
+5d8cd1c453cc927575ce4665,4.2.3,5d8cd1c453cc927575ce4663,5d8ccfb33dfe5ddb8590d841,"4.2.3
+",58c1142f02ca40f8bfb1ea1b,2012-11-27 21:31:02,0.0
+5d8cd1c553cc927575ce4674,4.1.4,5d8cd1c453cc927575ce4672,5d8ccfb33dfe5ddb8590d841,"4.1.4
+",58c1142f02ca40f8bfb1ea1b,2012-04-24 15:12:05,0.0
+5d91bc7c9c50122f9ac28a1a,streams-project-0.5.1,5d91bc7c9c50122f9ac28a18,5d91bc213dfe5ddb85cc1e0e,"[maven-release-plugin] copy for tag streams-project-0.5.1
+",5b1fa0481837be5c9425c61a,2018-01-05 21:46:19,-360.0
+5d91bcbd9c50122f9ac2afa1,streams-project-0.5-incubating,5d91bcbd9c50122f9ac2af9f,5d91bc213dfe5ddb85cc1e0e,"[maven-release-plugin] copy for tag streams-project-0.5-incubating
+",5d91bcbb9c50122f9ac2aee9,2017-03-03 15:12:01,-300.0
+5d91bcf39c50122f9ac2bee2,streams-project-0.4.1-incubating,5d91bcf39c50122f9ac2bee0,5d91bc213dfe5ddb85cc1e0e,"[maven-release-plugin] copy for tag streams-project-0.4.1-incubating
+",5b1fa04f1837be5c9525c62f,2016-12-18 07:01:53,-300.0
+5d91bd179c50122f9ac2dd23,streams-project-0.4-incubating,5d91bd179c50122f9ac2dd21,5d91bc213dfe5ddb85cc1e0e,"[maven-release-plugin] copy for tag streams-project-0.4-incubating
+",5d91bc269c50122f9ac260ca,2016-11-03 16:50:34,-300.0
+5d91be239c50122f9ac3455b,streams-project-0.3-incubating,5d91be239c50122f9ac34559,5d91bc213dfe5ddb85cc1e0e,"[maven-release-plugin] copy for tag streams-project-0.3-incubating
+",5bbc70af57674ee167982452,2016-09-18 07:05:07,-300.0
+5d91bf119c50122f9ac39be7,streams-project-0.2-incubating,5d91bf119c50122f9ac39be3,5d91bc213dfe5ddb85cc1e0e,"release tag streams-project-0.2-incubating
+",5bbc70af57674ee167982452,2015-04-26 03:10:12,-300.0
+5d91d6ac9c50122f9ad2bc29,streams-project-0.1-incubating,5d91d6ac9c50122f9ad2bc25,5d91bc213dfe5ddb85cc1e0e,,5d91bf829c50122f9ac3b30e,2015-02-03 00:06:44,-360.0
+5d91d6c49c50122f9ad2caf7,streams-project-0.1,5d91d6c39c50122f9ad2caf5,5d91bc213dfe5ddb85cc1e0e,"[maven-release-plugin]  copy for tag streams-project-0.1
+",5d91bf829c50122f9ac3b30e,2014-12-13 23:53:15,-360.0
+5d91d6d39c50122f9ad2d666,streams-master-1.0,5d91d6d39c50122f9ad2d664,5d91bc213dfe5ddb85cc1e0e,"streams-master-1.0
+",5d91c3739c50122f9ac5102f,2013-01-07 18:42:27,0.0
+5d91d6d99c50122f9ad2dad7,streams-0.6.0,5d91d6d99c50122f9ad2dad5,5d91bc213dfe5ddb85cc1e0e,"[maven-release-plugin] copy for tag streams-0.6.0
+",5bd026b2bad86c1decdd0745,2018-06-19 21:27:19,0.0
+5d91d6de9c50122f9ad2dbb1,RexsterGraph,5d91d6de9c50122f9ad2dbaf,5d91bc213dfe5ddb85cc1e0e,,5d91c0cb9c50122f9ac40465,2014-10-26 21:06:46,-300.0
+608b9b38e61739c47b70f005,apache-curator-4.2.0,608b9b38e61739c47b70f003,608b9b33c26a57681ebf90b6,"[maven-release-plugin] copy for tag apache-curator-4.2.0
+",608b9b34e61739c47b70ebd7,2019-03-03 19:54:29,-300.0
+608b9b38e61739c47b70f057,apache-curator-4.1.1,608b9b38e61739c47b70f055,608b9b33c26a57681ebf90b6,"[maven-release-plugin] copy for tag apache-curator-4.1.1
+",608b9b34e61739c47b70ebd7,2019-03-03 19:41:28,-300.0
+608b9b3fe61739c47b70fb63,apache-curator-4.1.0,608b9b3fe61739c47b70fb61,608b9b33c26a57681ebf90b6,"[maven-release-plugin] copy for tag apache-curator-4.1.0
+",608b9b34e61739c47b70ebd7,2018-12-17 03:35:16,-300.0
+608b9b41e61739c47b70fe11,apache-curator-4.0.2,608b9b41e61739c47b70fe0f,608b9b33c26a57681ebf90b6,"[maven-release-plugin] copy for tag apache-curator-4.0.2
+",608b9b34e61739c47b70ebd7,2018-12-09 23:54:50,-300.0
+608b9b42e61739c47b70fe8a,apache-curator-4.0.2-SNAPSHOT,608b9b42e61739c47b70fe88,608b9b33c26a57681ebf90b6,"[maven-release-plugin] copy for tag apache-curator-4.0.2-SNAPSHOT
+",608b9b34e61739c47b70ebd7,2018-12-09 23:51:49,-300.0
+608b9b48e61739c47b710581,apache-curator-4.0.1,608b9b48e61739c47b71057f,608b9b33c26a57681ebf90b6,"[maven-release-plugin] copy for tag apache-curator-4.0.1
+",608b9b34e61739c47b70ebd7,2018-02-07 23:53:43,-300.0
+608b9b4ae61739c47b710750,apache-curator-4.0.0,608b9b4ae61739c47b71074e,608b9b33c26a57681ebf90b6,"[maven-release-plugin] copy for tag apache-curator-4.0.0
+",608b9b34e61739c47b70ebd7,2017-07-26 14:07:13,-300.0
+608b9b8de61739c47b716cec,apache-curator-3.3.0,608b9b8de61739c47b716cea,608b9b33c26a57681ebf90b6,"[maven-release-plugin] copy for tag apache-curator-3.3.0
+",608b9b40e61739c47b70fcd5,2017-03-01 04:27:43,660.0
+608b9b8de61739c47b716d3d,apache-curator-2.12.0,608b9b8de61739c47b716d3b,608b9b33c26a57681ebf90b6,"[maven-release-plugin] copy for tag apache-curator-2.12.0
+",608b9b40e61739c47b70fcd5,2017-03-01 03:01:11,660.0
+608b9bc8e61739c47b71d035,apache-curator-3.2.1,608b9bc8e61739c47b71d033,608b9b33c26a57681ebf90b6,"[maven-release-plugin] copy for tag apache-curator-3.2.1
+",608b9b34e61739c47b70ebd7,2016-11-11 14:32:02,-300.0
+608b9bc8e61739c47b71d089,apache-curator-2.11.1,608b9bc8e61739c47b71d087,608b9b33c26a57681ebf90b6,"[maven-release-plugin] copy for tag apache-curator-2.11.1
+",608b9b34e61739c47b70ebd7,2016-11-11 13:42:14,-300.0
+608b9bdce61739c47b71f34e,apache-curator-3.2.0,608b9bdce61739c47b71f34c,608b9b33c26a57681ebf90b6,"[maven-release-plugin] copy for tag apache-curator-3.2.0
+",608b9b40e61739c47b70fcd5,2016-06-15 02:14:37,600.0
+608b9be0e61739c47b71f9bf,apache-curator-2.11.0,608b9be0e61739c47b71f9bd,608b9b33c26a57681ebf90b6,"[maven-release-plugin] copy for tag apache-curator-2.11.0
+",608b9b40e61739c47b70fcd5,2016-06-15 01:13:10,600.0
+608b9bf3e61739c47b7217e5,apache-curator-3.2.0-SNAPSHOT,608b9bf3e61739c47b7217e3,608b9b33c26a57681ebf90b6,"[maven-release-plugin] copy for tag apache-curator-3.2.0-SNAPSHOT
+",608b9b40e61739c47b70fcd5,2016-05-25 05:37:36,600.0
+608b9bf4e61739c47b7218b4,apache-curator-2.11.0-SNAPSHOT,608b9bf4e61739c47b7218b2,608b9b33c26a57681ebf90b6,"[maven-release-plugin] copy for tag apache-curator-2.11.0-SNAPSHOT
+",608b9b40e61739c47b70fcd5,2016-05-24 23:14:07,600.0
+608b9c1be61739c47b725ffd,apache-curator-2.10.0,608b9c1be61739c47b725ffb,608b9b33c26a57681ebf90b6,"[maven-release-plugin] copy for tag apache-curator-2.10.0
+",608b9b34e61739c47b70ebd7,2016-02-10 20:14:35,-300.0
+608b9c1ce61739c47b72604b,apache-curator-3.1.0,608b9c1ce61739c47b726049,608b9b33c26a57681ebf90b6,"[maven-release-plugin] copy for tag apache-curator-3.1.0
+",608b9b34e61739c47b70ebd7,2016-02-10 20:03:47,-300.0
+608b9c4ee61739c47b72b8a7,apache-curator-3.0.0-SNAPSHOT,608b9c4ee61739c47b72b8a5,608b9b33c26a57681ebf90b6,"[maven-release-plugin] copy for tag apache-curator-3.0.0-SNAPSHOT
+",608b9b34e61739c47b70ebd7,2015-10-12 05:28:41,-300.0
+608b9c84e61739c47b730b8b,apache-curator-2.8.0,608b9c84e61739c47b730b89,608b9b33c26a57681ebf90b6,"[maven-release-plugin] copy for tag apache-curator-2.8.0
+",608b9b34e61739c47b70ebd7,2015-05-08 18:57:12,-300.0
+608b9c92e61739c47b732091,apache-curator-2.7.0,608b9c92e61739c47b73208f,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag apache-curator-2.7.0
+",58bfcbf0e4f89451f55ce02e,2014-10-31 04:29:47,-240.0
+608b9c9ce61739c47b732da9,apache-curator-2.6.0,608b9c9ce61739c47b732da7,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag apache-curator-2.6.0
+",608b9b40e61739c47b70fcd5,2014-07-08 02:28:26,600.0
+608b9caee61739c47b7352ef,apache-curator-2.5.0,608b9caee61739c47b7352ed,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag apache-curator-2.5.0
+",608b9b34e61739c47b70ebd7,2014-05-24 16:26:40,-300.0
+608b9cb2e61739c47b7358e6,apache-curator-2.4.2,608b9cb2e61739c47b7358e4,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag apache-curator-2.4.2
+",608b9b34e61739c47b70ebd7,2014-04-21 22:03:02,-300.0
+608b9cb5e61739c47b735c61,apache-curator-2.4.1,608b9cb5e61739c47b735c5f,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag apache-curator-2.4.1
+",608b9b34e61739c47b70ebd7,2014-03-06 12:33:54,-300.0
+608b9cb6e61739c47b735d5f,2.4.0,608b9cb6e61739c47b735d5d,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag 2.4.0
+",608b9b34e61739c47b70ebd7,2014-02-05 18:54:03,-300.0
+608b9cb9e61739c47b73618d,apache-curator-2.3.1,608b9cb9e61739c47b73618b,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag apache-curator-2.3.1
+",608b9b34e61739c47b70ebd7,2013-11-10 16:20:36,-480.0
+608b9cbae61739c47b73628c,apache-curator-2.3.0,608b9cb9e61739c47b73628a,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag apache-curator-2.3.0
+",608b9b34e61739c47b70ebd7,2013-11-04 19:27:57,-480.0
+608b9cbde61739c47b7367d3,apache-curator-2.2.0-incubating,608b9cbde61739c47b7367d1,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag apache-curator-2.2.0-incubating
+",5a030ebdefa7b46cc822c12f,2013-07-31 15:52:39,180.0
+608b9cbee61739c47b7369ef,apache-curator-2.1.0-incubating,608b9cbee61739c47b7369ed,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag apache-curator-2.1.0-incubating
+",608b9b34e61739c47b70ebd7,2013-06-20 17:50:51,-420.0
+608b9cc0e61739c47b736b61,apache-curator-2.0.1-incubating,608b9cc0e61739c47b736b5f,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag apache-curator-2.0.1-incubating
+",608b9b34e61739c47b70ebd7,2013-05-17 20:39:13,-420.0
+608b9cc1e61739c47b736d76,apache-curator-2.0.0-incubating,608b9cc1e61739c47b736d74,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag apache-curator-2.0.0-incubating
+",608b9b34e61739c47b70ebd7,2013-05-01 20:51:56,-420.0
+608b9cc3e61739c47b736fda,apache-curator-2.0.1,608b9cc3e61739c47b736fd8,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag apache-curator-2.0.1
+",608b9b34e61739c47b70ebd7,2013-04-22 17:46:16,-420.0
+608b9cc4e61739c47b7370f7,curator-2.0.0,608b9cc4e61739c47b7370f5,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag curator-2.0.0
+",608b9b34e61739c47b70ebd7,2013-03-29 20:45:05,-420.0
+608b9d1ee61739c47b73cf8f,1.1.3,608b9d1ee61739c47b73cf8d,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag 1.1.3
+",58bfcbbc02ca40f8bf147a96,2012-03-07 19:05:49,-480.0
+608b9d3de61739c47b73f1c2,1.1.2,608b9d3de61739c47b73f1c0,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag 1.1.2
+",58bfcbbc02ca40f8bf147a96,2012-02-09 00:01:31,-480.0
+608b9d3de61739c47b73f2be,1.1.1,608b9d3de61739c47b73f2bc,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag 1.1.1
+",58bfcbbc02ca40f8bf147a96,2012-01-21 21:24:50,-480.0
+608b9d3ee61739c47b73f35c,1.1.0,608b9d3ee61739c47b73f35a,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag 1.1.0
+",58bfcbbc02ca40f8bf147a96,2012-01-06 00:27:16,-480.0
+608b9d46e61739c47b740840,1.0.1,608b9d46e61739c47b74083e,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag 1.0.1
+",58bfcbbc02ca40f8bf147a96,2012-01-04 08:31:41,-480.0
+608b9d47e61739c47b74095c,1.0.0,608b9d47e61739c47b74095a,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag 1.0.0
+",58bfcbbc02ca40f8bf147a96,2011-12-31 21:02:27,-480.0
+608b9d4ee61739c47b7413d9,0.100.0,608b9d4ee61739c47b7413d7,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag 0.100.0
+",58bfcbbc02ca40f8bf147a96,2011-12-29 20:52:12,-480.0
+608b9d55e61739c47b741e26,0.6.4,608b9d55e61739c47b741e24,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag 0.6.4
+",58bfcbbc02ca40f8bf147a96,2011-12-07 20:30:32,-480.0
+608b9d5be61739c47b742760,0.6.3,608b9d5be61739c47b74275e,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag 0.6.3
+",58bfcbbc02ca40f8bf147a96,2011-11-30 20:01:41,-480.0
+608b9d5be61739c47b742824,0.6.2,608b9d5be61739c47b742822,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag 0.6.2
+",58bfcbbc02ca40f8bf147a96,2011-11-23 05:59:12,-480.0
+608b9d5ce61739c47b742870,0.6.1,608b9d5ce61739c47b74286e,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag 0.6.1
+",58bfcbbc02ca40f8bf147a96,2011-11-18 19:03:22,-480.0
+608b9d6ae61739c47b743be8,0.5.2,608b9d6ae61739c47b743be6,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag 0.5.2
+",58bfcbbc02ca40f8bf147a96,2011-11-14 23:24:55,-480.0
+608b9d74e61739c47b7449ca,0.5.1,608b9d74e61739c47b7449c8,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag 0.5.1
+",58bfcbbc02ca40f8bf147a96,2011-11-12 22:37:54,-480.0
+608b9d75e61739c47b744b00,0.4.3,608b9d75e61739c47b744afe,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag 0.4.3
+",58bfcbbc02ca40f8bf147a96,2011-11-09 19:09:19,-480.0
+608b9d75e61739c47b744b59,0.4.2,608b9d75e61739c47b744b57,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag 0.4.2
+",58bfcbbc02ca40f8bf147a96,2011-11-09 18:18:05,-480.0
+608b9d84e61739c47b74755e,0.32,608b9d84e61739c47b74755c,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag 0.32
+",58bfcbbc02ca40f8bf147a96,2011-10-28 23:25:49,-420.0
+608b9d85e61739c47b7475c7,0.31,608b9d85e61739c47b7475c5,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag 0.31
+",58bfcbbc02ca40f8bf147a96,2011-10-24 22:50:39,-420.0
+608b9d85e61739c47b74760f,0.30,608b9d85e61739c47b74760d,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag 0.30
+",58bfcbbc02ca40f8bf147a96,2011-10-19 22:48:33,-420.0
+608b9d85e61739c47b747633,0.29,608b9d85e61739c47b747631,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag 0.29
+",58bfcbbc02ca40f8bf147a96,2011-10-19 22:31:18,-420.0
+608b9d85e61739c47b74765d,0.28,608b9d85e61739c47b74765b,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag 0.28
+",58bfcbbc02ca40f8bf147a96,2011-10-19 22:19:07,-420.0
+608b9d88e61739c47b747bb3,0.27,608b9d88e61739c47b747bb1,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag 0.27
+",58bfcbbc02ca40f8bf147a96,2011-10-19 22:12:27,-420.0
+608b9d89e61739c47b747c10,0.26,608b9d89e61739c47b747c0e,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag 0.26
+",58bfcbbc02ca40f8bf147a96,2011-10-19 00:31:26,-420.0
+608b9d89e61739c47b747c43,0.25,608b9d89e61739c47b747c41,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag 0.25
+",58bfcbbc02ca40f8bf147a96,2011-10-17 20:00:55,-420.0
+608b9d89e61739c47b747c8d,0.24,608b9d89e61739c47b747c8b,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag 0.24
+",58bfcbbc02ca40f8bf147a96,2011-10-14 17:03:27,-420.0
+608b9d89e61739c47b747cc7,0.23,608b9d89e61739c47b747cc5,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag 0.23
+",58bfcbbc02ca40f8bf147a96,2011-10-12 22:56:14,-420.0
+608b9d8de61739c47b74824d,curator-0.22-SNAPSHOT,608b9d8de61739c47b74824b,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag curator-0.22-SNAPSHOT
+",58bfcbbc02ca40f8bf147a96,2011-10-06 21:41:52,-420.0
+608b9d8de61739c47b7482e3,curator-0.21-SNAPSHOT,608b9d8de61739c47b7482e1,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag curator-0.21-SNAPSHOT
+",58bfcbbc02ca40f8bf147a96,2011-10-06 00:32:10,-420.0
+608b9d91e61739c47b7485d8,curator-0.20-SNAPSHOT,608b9d91e61739c47b7485d6,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag curator-0.20-SNAPSHOT
+",58bfcbbc02ca40f8bf147a96,2011-10-04 20:08:00,-420.0
+608b9d91e61739c47b74861b,curator-0.19-SNAPSHOT,608b9d91e61739c47b748619,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag curator-0.19-SNAPSHOT
+",58bfcbbc02ca40f8bf147a96,2011-09-07 17:51:31,-420.0
+608b9d91e61739c47b7486a8,curator-0.18-SNAPSHOT,608b9d91e61739c47b7486a6,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag curator-0.18-SNAPSHOT
+",58bfcbbc02ca40f8bf147a96,2011-09-06 23:51:35,-420.0
+608b9d92e61739c47b7486fb,curator-0.17-SNAPSHOT,608b9d92e61739c47b7486f9,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag curator-0.17-SNAPSHOT
+",58bfcbbc02ca40f8bf147a96,2011-09-01 05:37:14,-420.0
+608b9d92e61739c47b748742,curator-0.16-SNAPSHOT,608b9d92e61739c47b748740,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag curator-0.16-SNAPSHOT
+",58bfcbbc02ca40f8bf147a96,2011-08-30 22:26:59,-420.0
+608b9d92e61739c47b74879a,curator-0.15-SNAPSHOT,608b9d92e61739c47b748798,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag curator-0.15-SNAPSHOT
+",58bfcbbc02ca40f8bf147a96,2011-08-30 00:27:39,-420.0
+608b9d92e61739c47b7487e2,curator-0.14-SNAPSHOT,608b9d92e61739c47b7487e0,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag curator-0.14-SNAPSHOT
+",58bfcbbc02ca40f8bf147a96,2011-08-29 18:01:06,-420.0
+608b9d93e61739c47b748874,curator-0.13-SNAPSHOT,608b9d93e61739c47b748872,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag curator-0.13-SNAPSHOT
+",58bfcbbc02ca40f8bf147a96,2011-08-23 18:51:50,-420.0
+608b9d93e61739c47b74889e,curator-0.12-SNAPSHOT,608b9d93e61739c47b74889c,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag curator-0.12-SNAPSHOT
+",58bfcbbc02ca40f8bf147a96,2011-08-23 17:34:09,-420.0
+608b9d95e61739c47b748a1e,curator-0.11-SNAPSHOT,608b9d95e61739c47b748a1c,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag curator-0.11-SNAPSHOT
+",58bfcc1d02ca40f8bf147d31,2011-08-10 21:09:54,-420.0
+608b9d95e61739c47b748a5e,curator-0.10-SNAPSHOT,608b9d95e61739c47b748a5c,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag curator-0.10-SNAPSHOT
+",58bfcc1d02ca40f8bf147d31,2011-08-10 20:09:40,-420.0
+608b9d95e61739c47b748ac2,curator-0.9-SNAPSHOT,608b9d95e61739c47b748ac0,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag curator-0.9-SNAPSHOT
+",58bfcc1d02ca40f8bf147d31,2011-08-01 18:53:45,-420.0
+608b9d96e61739c47b748af5,curator-0.8-SNAPSHOT,608b9d96e61739c47b748af3,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag curator-0.8-SNAPSHOT
+",58bfcc1d02ca40f8bf147d31,2011-07-27 21:10:54,-420.0
+608b9d96e61739c47b748b19,curator-0.7-SNAPSHOT,608b9d96e61739c47b748b17,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag curator-0.7-SNAPSHOT
+",58bfcc1d02ca40f8bf147d31,2011-07-27 21:07:20,-420.0
+608b9d96e61739c47b748b7b,curator-0.6-SNAPSHOT,608b9d96e61739c47b748b79,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag curator-0.6-SNAPSHOT
+",58bfcc1d02ca40f8bf147d31,2011-07-22 22:12:33,-420.0
+608b9d97e61739c47b748bf2,curator-0.5-SNAPSHOT,608b9d97e61739c47b748bf0,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag curator-0.5-SNAPSHOT
+",58bfcc1d02ca40f8bf147d31,2011-07-22 00:02:31,-420.0
+608b9d97e61739c47b748c1c,curator-0.4-SNAPSHOT,608b9d97e61739c47b748c1a,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag curator-0.4-SNAPSHOT
+",58bfcc1d02ca40f8bf147d31,2011-07-20 17:59:23,-420.0
+608b9d98e61739c47b748d7a,curator-0.3-SNAPSHOT,608b9d98e61739c47b748d78,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag curator-0.3-SNAPSHOT
+",58bfcc1d02ca40f8bf147d31,2011-07-20 17:48:21,-420.0
+608b9d99e61739c47b748da4,curator-0.2-SNAPSHOT,608b9d99e61739c47b748da2,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag curator-0.2-SNAPSHOT
+",58bfcc1d02ca40f8bf147d31,2011-07-20 17:37:47,-420.0
+608b9d99e61739c47b748dce,curator-0.1-SNAPSHOT,608b9d99e61739c47b748dcc,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag curator-0.1-SNAPSHOT
+",58bfcc1d02ca40f8bf147d31,2011-07-20 17:09:32,-420.0
+608b9db7e61739c47b74b4f7,apache.curator-5.1.0,608b9db7e61739c47b74b4f5,608b9b33c26a57681ebf90b6,"[maven-release-plugin] copy for tag apache.curator-5.1.0
+",5b27cc1feee553456686884f,2020-06-30 13:03:19,120.0
+608b9db8e61739c47b74b629,apache-curator-5.0.0,608b9db8e61739c47b74b627,608b9b33c26a57681ebf90b6,"[maven-release-plugin] copy for tag apache-curator-5.0.0
+",58bfcbc9e4f89451f55cdfb9,2020-05-18 02:43:58,600.0
+608b9df5e61739c47b75064d,1.0.2,608b9df5e61739c47b75064b,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag 1.0.2
+",58bfcbbc02ca40f8bf147a96,2012-01-21 21:40:16,-480.0
+608b9df5e61739c47b7506db,apache-curator-4.3.0,608b9df5e61739c47b7506d9,608b9b33c26a57681ebf90b6,"[maven-release-plugin] copy for tag apache-curator-4.3.0-SNAPSHOT
+",608b9b40e61739c47b70fcd5,2020-02-23 23:00:17,660.0
+608b9df5e61739c47b750705,1.0.3a,608b9df5e61739c47b750703,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag 1.0.3a
+",58bfcbbc02ca40f8bf147a96,2012-03-07 19:58:01,-480.0
+608b9df6e61739c47b7507bb,apache-curator-2.9.1,608b9df6e61739c47b7507b9,608b9b33c26a57681ebf90b6,"[maven-release-plugin] copy for tag apache-curator-2.9.1
+",608b9b40e61739c47b70fcd5,2015-10-26 01:59:25,660.0
+608b9df6e61739c47b7507e3,1.0.3,608b9df6e61739c47b7507e1,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag 1.0.3
+",58bfcbbc02ca40f8bf147a96,2012-02-09 00:09:34,-480.0
+608b9df7e61739c47b7508a1,1.0.3-2,608b9df7e61739c47b75089f,608b9b33c26a57681ebf90b6,"[maven-release-plugin]  copy for tag 1.0.3-2
+",58bfcbbc02ca40f8bf147a96,2012-02-09 00:32:14,-480.0
+608b9df8e61739c47b750989,apache-curator-2.13.0,608b9df8e61739c47b750987,608b9b33c26a57681ebf90b6,"[maven-release-plugin] copy for tag apache-curator-2.13.0
+",608b9b40e61739c47b70fcd5,2018-12-03 02:32:13,660.0
+615e91076511689f63ebb727,0.59.0,615e91076511689f63ebb725,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.59.0
+",5f27cd89af02e2d6de7c7cdc,2021-05-19 15:56:03,60.0
+615e91086511689f63ebb82e,0.58.0,615e91086511689f63ebb82c,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.58.0
+",5f27cd89af02e2d6de7c7cdc,2021-04-06 15:40:55,60.0
+615e91086511689f63ebb8d9,0.57.0,615e91086511689f63ebb8d7,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.57.0
+",5f27cd89af02e2d6de7c7cdc,2021-03-15 16:16:01,0.0
+615e91096511689f63ebb948,0.56.0,615e91096511689f63ebb946,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.56.0
+",5f27cd89af02e2d6de7c7cdc,2020-12-14 16:18:19,0.0
+615e91096511689f63ebb9cf,0.55.0,615e91096511689f63ebb9cd,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.55.0
+",5f27cd89af02e2d6de7c7cdc,2020-11-20 16:19:59,0.0
+615e910a6511689f63ebba88,0.54.0,615e910a6511689f63ebba86,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.54.0
+",5e71cec61c4f2a5a2b6418d7,2020-08-13 11:21:42,60.0
+615e910a6511689f63ebbad3,0.53.0,615e910a6511689f63ebbad1,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.53.0
+",5e71cec61c4f2a5a2b6418d7,2020-07-24 14:44:01,60.0
+615e910b6511689f63ebbbad,0.52.0,615e910b6511689f63ebbbab,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.52.0
+",5e71cec61c4f2a5a2b6418d7,2020-06-03 14:22:47,60.0
+615e910c6511689f63ebbc81,0.51.0,615e910c6511689f63ebbc7f,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.51.0
+",5e71cec61c4f2a5a2b6418d7,2020-04-21 14:39:52,60.0
+615e910d6511689f63ebbd13,0.50.0,615e910d6511689f63ebbd11,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.50.0
+",5e71cec61c4f2a5a2b6418d7,2020-03-11 15:52:26,0.0
+615e910d6511689f63ebbd72,0.49.0,615e910d6511689f63ebbd70,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.49.0
+",5e71cec61c4f2a5a2b6418d7,2020-02-24 10:49:54,0.0
+615e910e6511689f63ebbe16,0.48.0,615e910e6511689f63ebbe14,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.48.0
+",5e71cec61c4f2a5a2b6418d7,2019-12-06 15:35:24,0.0
+615e910e6511689f63ebbeac,0.47.0,615e910e6511689f63ebbeaa,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.47.0
+",5e71cec61c4f2a5a2b6418d7,2019-11-01 10:28:23,0.0
+615e910f6511689f63ebbfb4,0.46.0,615e910f6511689f63ebbfb2,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.46.0
+",5e71cec61c4f2a5a2b6418d7,2019-09-24 17:18:37,60.0
+615e91106511689f63ebc04f,0.45.0,615e91106511689f63ebc04d,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.45.0
+",5e71cec61c4f2a5a2b6418d7,2019-08-21 14:20:37,60.0
+615e91136511689f63ebc4ee,0.44.0,615e91136511689f63ebc4ec,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.44.0
+",5e71cec61c4f2a5a2b6418d7,2019-06-28 17:30:06,60.0
+615e91136511689f63ebc5bc,0.43.0,615e91136511689f63ebc5ba,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.43.0
+",5e71cec61c4f2a5a2b6418d7,2019-06-04 11:33:30,60.0
+615e91146511689f63ebc641,0.42.0,615e91146511689f63ebc63f,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.42.0
+",5e71cec61c4f2a5a2b6418d7,2019-05-07 16:35:08,60.0
+615e91146511689f63ebc696,0.41.0,615e91146511689f63ebc694,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.41.0
+",5e71cec61c4f2a5a2b6418d7,2019-04-03 16:27:39,60.0
+615e91156511689f63ebc758,0.40.0,615e91156511689f63ebc756,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.40.0
+",5e71cec61c4f2a5a2b6418d7,2018-12-17 10:26:01,0.0
+615e91166511689f63ebc7b3,0.39.0,615e91166511689f63ebc7b1,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.39.0
+",5e71cec61c4f2a5a2b6418d7,2018-11-28 11:29:07,0.0
+615e91166511689f63ebc887,0.38.0,615e91166511689f63ebc885,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.38.0
+",5e71cec61c4f2a5a2b6418d7,2018-11-12 17:42:34,0.0
+615e91186511689f63ebcc90,0.37.0,615e91186511689f63ebcc8e,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.37.0
+",5e71cec61c4f2a5a2b6418d7,2018-09-28 16:24:53,60.0
+615e91196511689f63ebcd35,0.36.0,615e91196511689f63ebcd33,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.36.0
+",5e71cec61c4f2a5a2b6418d7,2018-08-15 17:19:10,60.0
+615e911a6511689f63ebce71,0.35.0,615e911a6511689f63ebce6f,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.35.0
+",5e71cec61c4f2a5a2b6418d7,2018-07-20 09:21:53,60.0
+615e911b6511689f63ebd03e,0.34.0,615e911b6511689f63ebd03c,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.34.0
+",5e71cec61c4f2a5a2b6418d7,2018-06-25 19:32:19,60.0
+615e911d6511689f63ebd185,0.33.0,615e911d6511689f63ebd183,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.33.0
+",5e71cec61c4f2a5a2b6418d7,2018-06-11 15:09:45,60.0
+615e911e6511689f63ebd35e,0.32.0,615e911e6511689f63ebd35c,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.32.0
+",5e71cec61c4f2a5a2b6418d7,2018-04-30 12:30:55,60.0
+615e91216511689f63ebd6af,0.31.0,615e91216511689f63ebd6ad,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.31.0
+",5e71cec61c4f2a5a2b6418d7,2018-03-22 17:57:00,0.0
+615e91226511689f63ebd7a6,0.30.0,615e91226511689f63ebd7a4,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.30.0
+",5e71cec61c4f2a5a2b6418d7,2018-02-26 10:00:06,0.0
+615e91226511689f63ebd81d,0.29.0,615e91226511689f63ebd81b,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.29.0
+",5a031143efa7b46cc724c03b,2018-01-19 11:33:32,0.0
+615e91236511689f63ebd8ea,0.28.0,615e91236511689f63ebd8e8,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.28.0
+",5a031143efa7b46cc724c03b,2017-12-11 17:39:41,0.0
+615e91236511689f63ebd964,0.27.0,615e91236511689f63ebd962,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.27.0
+",5a031143efa7b46cc724c03b,2017-11-01 14:33:29,0.0
+615e91256511689f63ebdabc,0.26.0,615e91256511689f63ebdaba,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.26.0
+",5a031143efa7b46cc724c03b,2017-10-04 10:39:08,60.0
+615e91266511689f63ebdbc2,0.25.0,615e91266511689f63ebdbc0,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.25.0
+",5a031143efa7b46cc724c03b,2017-09-18 15:45:14,60.0
+615e91276511689f63ebdd75,0.24.0,615e91276511689f63ebdd73,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.24.0
+",5a031143efa7b46cc724c03b,2017-08-04 21:14:28,60.0
+615e91296511689f63ebdfe2,0.23.0,615e91296511689f63ebdfe0,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.23.0
+",5a031143efa7b46cc724c03b,2017-05-12 15:38:13,60.0
+615e912a6511689f63ebe0e4,0.22.0,615e912a6511689f63ebe0e2,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.22.0
+",5a031143efa7b46cc724c03b,2017-04-17 16:57:50,60.0
+615e912b6511689f63ebe31b,0.21.0,615e912b6511689f63ebe319,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.21.0
+",5a031143efa7b46cc724c03b,2017-03-10 16:19:09,0.0
+615e912e6511689f63ebe5da,0.20.0,615e912e6511689f63ebe5d8,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.20.0
+",5a031143efa7b46cc724c03b,2017-01-16 17:54:43,0.0
+615e913a6511689f63ebf632,0.11.0,615e913a6511689f63ebf630,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.11.0
+",5a031143efa7b46cc724c03b,2016-09-05 15:01:45,60.0
+615e913d6511689f63ebfa13,0.10.0,615e913d6511689f63ebfa11,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.10.0
+",5a031143efa7b46cc724c03b,2016-06-27 15:50:36,60.0
+615e91406511689f63ebffa9,0.9.0,615e91406511689f63ebffa7,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.9.0
+",5a031143efa7b46cc724c03b,2016-04-07 16:35:59,60.0
+615e91486511689f63ec07c5,0.8.0,615e91486511689f63ec07c3,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.8.0
+",5a031143efa7b46cc724c03b,2016-02-16 15:48:07,0.0
+615e91496511689f63ec089c,0.7.0,615e91496511689f63ec089a,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.7.0
+",5a031143efa7b46cc724c03b,2015-12-18 16:16:58,0.0
+615e914e6511689f63ec0f8d,0.6.0,615e914e6511689f63ec0f8b,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.6.0
+",5a031143efa7b46cc724c03b,2015-10-08 17:35:54,60.0
+615e91566511689f63ec19f8,0.5.0,615e91566511689f63ec19f6,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.5.0
+",5a031143efa7b46cc724c03b,2015-08-28 10:07:08,60.0
+615e91596511689f63ec1d2e,0.4.0,615e91596511689f63ec1d2c,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.4.0
+",5a031143efa7b46cc724c03b,2015-08-14 11:17:29,60.0
+615e915d6511689f63ec226c,0.3.0,615e915d6511689f63ec226a,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.3.0
+",5a031143efa7b46cc724c03b,2015-06-11 17:59:09,60.0
+615e91616511689f63ec26e9,0.2.0,615e91616511689f63ec26e7,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.2.0
+",5a031143efa7b46cc724c03b,2015-05-13 14:37:52,60.0
+615e91646511689f63ec2b38,qpid-jms-0.1.0,615e91646511689f63ec2b36,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag qpid-jms-0.1.0
+",5a031143efa7b46cc724c03b,2015-03-16 18:45:53,0.0
+615e91ae6511689f63ec816c,1.2.0,615e91ae6511689f63ec816a,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 1.2.0
+",5e71cec61c4f2a5a2b6418d7,2021-09-24 12:36:32,60.0
+615e91af6511689f63ec8221,1.1.0,615e91af6511689f63ec821f,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 1.1.0
+",5f27cd89af02e2d6de7c7cdc,2021-07-05 15:35:44,60.0
+615e91b06511689f63ec8294,1.0.0,615e91b06511689f63ec8292,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 1.0.0
+",5f27cd89af02e2d6de7c7cdc,2021-05-19 14:58:57,60.0
+615e91b06511689f63ec82ec,0.11.1,615e91b06511689f63ec82ea,615e9105f73e2aa390c8a69b,"[maven-release-plugin] copy for tag 0.11.1
+",5a031143efa7b46cc724c03b,2016-09-30 14:29:54,60.0

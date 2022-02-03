@@ -102,3 +102,37 @@ Possiveis Beneficios da CD.... os resultados que temos dizem oq? Corrobora... de
 
 Sumarizar os resultados
 armazenar em projetos por CD os resultados
+
+media_bugs_no_cd = []
+mediana_bugs_no_cd = []
+media_bugs_cd = []
+mediana_bugs_cd = []
+for i in range(dfProjetosComCD.shape[0]):
+    tmp_name = dfProjetosComCD.iloc[i,0]    
+    tmp_date = dfProjetosComCD.iloc[i,7]
+    tmp_issue_sistem = dfProjetosComCD.iloc[i,3]
+    df_bugs_no_cd = issuesProjetosCD.query('issue_system_id == @tmp_issue_sistem & issue_type == \'Bug\' & status == \'Closed\' & updated_at < @tmp_date')
+    df_bugs_no_cd['delta'] = df_bugs_no_cd.updated_at - df_bugs_no_cd.created_at
+    media_bugs_no_cd.append(df_bugs_no_cd.delta.mean())
+    mediana_bugs_no_cd.append(df_bugs_no_cd.delta.median())
+
+    df_bugs_cd = issuesProjetosCD.query('issue_system_id == @tmp_issue_sistem & issue_type == \'Bug\' & status == \'Closed\' & created_at >= @tmp_date')
+    df_bugs_cd['delta'] = df_bugs_cd.updated_at - df_bugs_cd.created_at
+    media_bugs_cd.append(df_bugs_cd.delta.mean())
+    mediana_bugs_cd.append(df_bugs_cd.delta.median())
+
+dfProjetosComCD['mean_delta_bugs_no_cd'] = media_bugs_no_cd
+dfProjetosComCD['median_delta_bugs_no_cd'] = mediana_bugs_no_cd
+dfProjetosComCD['mean_delta_bugs_cd'] = media_bugs_cd
+dfProjetosComCD['median_delta_bugs_cd'] = mediana_bugs_cd
+
+
+
+print('Projetos tempo medio de correção de bugs maior após CD:', dfProjetosComCD.query('mean_delta_bugs_no_cd < mean_delta_bugs_cd').count().iloc[0] )
+print('Projetos tempo medio de correção de bugs menor após CD:', dfProjetosComCD.query('mean_delta_bugs_no_cd >= mean_delta_bugs_cd').count().iloc[0] )
+print('Projetos com mediana do tempo de correção de bugs maior após CD:', dfProjetosComCD.query('median_delta_bugs_no_cd < median_delta_bugs_cd').count().iloc[0] )
+print('Projetos com mediana do tempo de correção de bugs maior após CD:', dfProjetosComCD.query('median_delta_bugs_no_cd >= median_delta_bugs_cd').count().iloc[0] )
+
+# visualização do issue_type pre e pos +/-
+
+analisar como contabilizar o tamanho da equipe
