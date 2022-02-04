@@ -1,0 +1,11 @@
+activemq, ant-ivy, archiva, bigtop, calcite, cayenne,
+commons-bcel, commons-beanutils, commons-codec,
+commons-collections, commons-compress, commonsconfiguration, commons-dbcp, commons-digester, commonsimaging, commons-io, commons-jcs, commons-jexl,
+commons-lang, commons-math, commons-net, commonsrdf, commons-scxml, commons-validator, commons-vfs,
+curator, cxf-fediz, deltaspike, derby, directory-fortress-core,
+directory-kerby, directory-studio, eagle, falcon, fineract,
+flume, freemarker, giraph, gora, helix, httpcomponentsclient, httpcomponents-core, jackrabbit, jena, jspwiki,
+kafka, knox, kylin, lens, mahout, manifoldcf, maven, minasshd, nifi, nutch, oozie, openjpa, openwebbeans, opennlp,
+parquet-mr, pdfbox, phoenix, pig, ranger, roller, samza,
+santuario-java, storm, streams, struts, systemml, tez, tika,
+wss4j, xerces2-j, xmlgraphics-batik, zeppelin, zookeeper
