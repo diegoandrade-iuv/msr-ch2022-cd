@@ -1,0 +1,22 @@
+name,cd_adoption_date,contributors_no_cd,contributors_cd
+nifi,2016-07-12 22:50:16,50,86
+kylin,2016-09-24 06:59:42,33,84
+struts,2016-10-05 05:44:50,25,36
+storm,2016-09-02 19:13:24,78,39
+opennlp,2017-01-20 21:58:00,8,34
+commons-compress,2016-12-29 16:48:23,19,48
+httpcomponents-core,2018-06-29 10:25:57,14,44
+manifoldcf,2017-04-20 21:54:27,10,4
+curator,2019-03-03 19:41:28,72,29
+httpcomponents-client,2019-01-24 09:47:55,22,39
+commons-lang,2016-10-20 16:48:16,42,65
+commons-dbcp,2017-12-27 01:55:07,24,25
+streams,2016-09-18 07:05:07,10,10
+commons-configuration,2017-02-08 19:16:02,18,16
+qpid-jms,2020-06-03 14:22:47,18,4
+cayenne,2016-12-06 14:03:41,22,22
+tez,2017-03-14 02:13:50,15,33
+commons-bcel,2017-09-18 08:48:36,16,15
+parquet-mr,2016-10-19 01:00:23,42,63
+pdfbox,2018-06-18 19:08:34,50,59
+commons-jcs,2016-12-25 20:00:58,11,10
